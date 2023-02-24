@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  favicon: /images/logo.png
+  title: "OneGeochemistry"
+  # navbar:
+  #   left:
+  #     # - href: index.qmd
+  #     #   text: Home
+  #     - publications.qmd
+  #     - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Basics"
+        contents:
+          - index.qmd
+          - codata working group.qmd
+          - Governance.qmd
+          - get engaged.qmd
+      - section: "Embeding"
+        contents:
+          - publications.qmd
+          - endorsements.qmd
+  page-footer: "Copyright 2023, OneGeochemistry"
+ 
+margin-header: |
+  ![](/images/logo.png){width=50%}
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true 
+
+

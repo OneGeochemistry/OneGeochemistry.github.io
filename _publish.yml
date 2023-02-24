@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: ad66294d-d1f9-428a-aaa9-700e856e3422
+      url: 'https://quartopub.com/sites/onegeochemistry-qpub/onegeochemistry'
+    - id: e14fbc79-9707-4235-a5ff-314b65f899d2
+      url: 'https://quartopub.com/sites/hezel2000/onegeochemistry'

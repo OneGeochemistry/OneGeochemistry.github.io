@@ -1,0 +1,18 @@
+---
+title: 'Publications'
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+# Publications
+
+## Articles
+GCA
+
+## Documents
+Zenodoo
+
+## Abstracts
+multiple ...
