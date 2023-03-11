@@ -24,6 +24,9 @@ website:
         contents:
           - publications.qmd
           - endorsements.qmd
+      - section: 'Misc'
+        contents:
+          - history.qmd
   page-footer: "Copyright 2023, OneGeochemistry"
  
 margin-header: |

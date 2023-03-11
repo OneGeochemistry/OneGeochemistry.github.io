@@ -6,7 +6,56 @@ format:
 jupyter: python3
 ---
 
-# Publications
+# OneGeochemistry Articles & Documents
+Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. (2021). Time to change the data culture in geochemistry. Nature Reviews Earth & Environment, 2(11), 737–739. https://doi.org/10.1038/s43017-021-00237-w
+
+Klöcking et al. (in press) Community recommendations for geochemical data, services and analytical capabilities in the 21st century, Geochimica et Cosmochimica Acta.
+
+Jackson I and Wyborn L 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit. Environmental Geology,53(6), 1377-1380. http://dx.doi.org/10.1007/s00254-007-1085-z
+
+McEwen, L.R, 2020. Towards a Digital IUPAC. Chemistry International, vol. 42, no. 2, 2020, pp. 15-17. https://doi.org/10.1515/ci-2020-0203
+
+Mehnert, A. J., Janke, A., Gruwel, M., Goscinski, W. J., Close, T., Taylor, D., Narayanan, A., Vidalis, G., Galloway, G., and Treloar, A., 2019. Putting the Trust into Trusted Data Repositories: A Federated Solution for the Australian National Imaging Facility. International Journal of Digital Curation,14 (1), 102–113. https://doi.org/10.2218/ijdc.v14i1.594
+
+Stall, S., Cruse, P., Cousijn, H., Cutcher-Gershenfeld, J., de Waard, A., Hanson, B., Heber, J., Lehnert, K., Parsons, M., Robinson, E., Witt, M., Wyborn, L., and Yarmey, L., 2018. Data Sharing and Citations: New Author Guidelines Promoting Open and FAIR Data in the Earth, Space, and Environmental Sciences. Science Editor. 41(3), 83-87. https://www.csescienceeditor.org/wp-content/uploads/2018/11/CSEv41n3_text_83-87.pdf
+
+Stall, S, McEwen, L, Wyborn, L, Hoebelheinrich, N, and Bruno., I, 2020. Growing the FAIR community at the intersection of the geosciences and pure and applied chemistry. Data Intelligence 2(2020), 139–150. https://doi.org/10.1162/dint_a_00036
+
+Stall, S., Yarmey, L., Cutcher-Gershenfeld, J., Hanson, B, Lehnert, K., Nosek, B., Parsons, M., Robinson, E., and Wyborn, L., 2019. Making Scientific Data Fair. Nature 570, 27-29. https://doi.org/10.1038/d41586-019-01720-7 5
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., … Mons, B., 2016. The FAIR Guiding Principles for scientific data management and stewardship. In Scientific Data 3, 1, https://doi.org/10.1038/sdata.2016.18 
+
+Schaen, A. J., Jicha, B. R., Hodges, K. v., Vermeesch, P., Stelten, M. E., Mercer, C. M., Phillips, D., Rivera, T. A., Jourdan, F., Matchan, E. L., Hemming, S. R., Morgan, L. E., Kelley, S. P., Cassata, W. S., Heizler, M. T., Vasconcelos, P. M., Benowitz, J. A., Koppers, A. A. P., Mark, D. F., … Singer, B. S., 2021. Interpreting and reporting 40Ar/39Ar geochronologic data. GSA Bulletin, 133 (3–4), 461–487. https://doi.org/10.1130/B35560.1
+
+Lehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alexander, ter Maat, Geertje, & Hezel, Dominik C. (2022). OneGeochemistry Interim Governance. Zenodo. https://doi.org/10.5281/zenodo.6566075 
+
+OneGeochemistry CODATA Working Group – Terms of Reference. https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg/ 
+
+Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C (2021). Ten simple rules for making a vocabulary FAIR. PLoS Computational Biology 17(6): e1009041. https://doi.org/10.1371/journal.pcbi.1009041 
+
+Abbott, Peter, Bonadonna, Costanza, Bursik, Marcus, Cashman, Katherine, Davies, Siwan, Jensen, Britta, Kuehn, Stephen, Kurbatov, Andrei, Lane, Christine, Plunkett, Gill, Smith, Victoria, Thomlinson, Emma, Thordarsson, Thor, Walker, J. Douglas, & Wallace, Kristi. (2022). Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis (4.0.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6568306 
+
+R.M. Flowers, P.K. Zeitler, M. Danišík, P.W. Reiners, C. Gautheron, R.A. Ketcham, J.R. Metcalf, D.F. Stockli, E. Enkelmann, R.W. Brown; (U-Th)/He chronology: Part 1. Data, uncertainty, and reporting. GSA Bulletin 2022; doi: https://doi.org/10.1130/B36266.1 
+
+
+**List of papers that are actually producing what is needed**
+
+Brantley, S. L., Wen, T., Agarwal, D., Catalano, J., Schroeder, P. A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A. M., Hooper, R., Ma, X., Jin, L., McHenry, K., Aronson, E., Shaughnessy, A., Derry, L., Richardson, J., Bales, J., Pierce, E. (2021). “A Vision for the Future Low-Temperature Geochemical Data-scape.” Computers & Geoscience
+
+Wallace, K., Bursik, M. Kuehn, S., Kurbatov, A., Abbott, P., Bonadonna, C., Cashman, K., Davies, S., Jensen, B., Lane, C., Plunkett, G., Smith, V. Tomlinson, E., Thordarsson, T., Walker, D. (2021b). “Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis.” (Scientific Data: SDATA-20-01163, in review)
+
+Damerow, J.E., Ely, K.S., Varadharajan, C., Boye, K., Brodie, E.L., Burrus, M., Chadwick, K.D., Crystal-Ornelas, R., Elbashandy, H., Alves, R.J.E. and Goldman, A.E. (2021). “Sample Identifiers and Metadata to Support Data Management and Reuse in Multidisciplinary Ecosystem Sciences.” Data Science Journal, 20 (BNL-221088-2021-JAAM).
+
+Khider, D., Emile‐Geay, J,, McKay, N. P., Gil, Y., Garijo, D., Ratnakar, V., Alonso‐Garcia, M., Bertrand, S., Bothe, O., Brewer, P., Bunn, A.. (2019) “PaCTS 1.0: a crowdsourced reporting standard for paleoclimate data. Paleoceanography and Paleoclimatology.” Oct 1;34(10):1570-96. https://doi.org/10.1029/2019PA003632
+
+Mustaphi, C.J.C., Brahney, J., Aquino-Lopez, M.A., Goring, S., Orton, K., Noronha, A., Czaplewski, J., Asena, Q., Paton, S. and Brushworth, J.P. (2019). “Guidelines for reporting and archiving 210Pb sediment chronologies to improve fidelity and extend data lifecycle.” Quaternary Geochronology, 52, 77-87. https://doi.org/10.1016/j.quageo.2019.04.003
+
+Dutton, A., Rubin, K., McLean, N., Bowring, J., Bard, E., Edwards, R. L, Henderson, G.M., Reid, M.R., Richards, D.A., Sims, K.W.W., Walker, J.D., Yokoyama, Y. (2017). “Data reporting standards for publication of U-series data for geochronology and timescale assessment in the earth sciences.” Quaternary Geochronology, 39, 142-149.
+
+Walker, D. J., Condon, D., Thompson, W., Renne, P., Koppers, A., Hodges, K., Reiners, P., Stockli, D., Schmitz, M., Bowring, S., Gehrels, G. (2008). “Geochron Workshop reports sponsored by EarthChem and EARTHTIME.” Zenodo. https://doi.org/10.5281/zenodo.4313859
+
+Peng, G., Lacagnina, C., Downs, R. R., Ganske, A., Ramapriyan, H. K., Ivánová, I., … Moroni, D. F. (2022). Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets. Data Science Journal, 21(1), 8. DOI: http://doi.org/10.5334/dsj-2022-008
+
 
 ## Articles
 GCA
