@@ -2,7 +2,4 @@
 title: 'CODATA Working Group'
 ---
 
-# Codata Working Group
-
-Current Constitution
-Link to Codata
+OneGeochemsitry is currenlty a CODATA Working Group as part of the WorldFair Initiative.
