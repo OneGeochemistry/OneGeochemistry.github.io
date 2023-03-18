@@ -18,9 +18,9 @@ website:
       - section: "Basics"
         contents:
           - index.qmd
-          - codata working group.qmd
+          - codata_working_group.qmd
           - Governance.qmd
-          - get engaged.qmd
+          - get_engaged.qmd
       - section: "Embeding"
         contents:
           - publications.qmd
