@@ -19,7 +19,7 @@ website:
         contents:
           - index.qmd
           - codata_working_group.qmd
-          - Governance.qmd
+          - governance.qmd
           - get_engaged.qmd
       - section: "Embeding"
         contents:
