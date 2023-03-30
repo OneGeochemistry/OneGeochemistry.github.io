@@ -15,20 +15,25 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Welcome"
-        - index.qmd
-      - section: "Test"
+      - index.qmd
+      - section: "Participate"
         contents:          
-          - codata_working_group.qmd
-          - governance.qmd
           - get_engaged.qmd
+          - current activites.qmd
       - section: "Best Practices"
         contents:
-          - publications.qmd
-          - endorsements.qmd
+          - white papers.qmd
+          - brown book.qmd
       - section: 'About'
         contents:
+          - participants.qmd
+          - endorsements.qmd
+          - codata_working_group.qmd
+          - governance.qmd
+          - publications.qmd
           - history.qmd
+          - 1GC history.qmd
+          - faq.qmd
   page-footer: "Copyright 2023, OneGeochemistry"
  
 margin-header: |

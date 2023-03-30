@@ -1,8 +1,20 @@
 ---
-title: 'Home'
+title: 'Welcome'
 ---
 
-# Overview
+**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.\
+Benjamin Franklin**
+
+# The OneGeochemistry Initiative
+OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.
+
+[Join our Slack Channel!]{https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email}\
+
+The OneGeochemistry Initiative has now officially become the OneGeochemistry CODATA Working Group.
+Presentations and outreach materials can be found on the OneGeochemistry Community on Zenodo.
+
+# Abstract of 1GC
+
 
 ## Introduction
 The OneGeochemistry CODATA Working Group’s mission is to advance geoscientific knowledge and discoveries by building and maintaining consensus-driven standards that make geochemistry research data globally findable and accessible, and truly interoperable and reusable to both humans and machines.
