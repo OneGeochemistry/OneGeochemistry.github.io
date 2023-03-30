@@ -15,17 +15,18 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "Basics"
-        contents:
-          - index.qmd
+      - section: "Welcome"
+        - index.qmd
+      - section: "Test"
+        contents:          
           - codata_working_group.qmd
           - governance.qmd
           - get_engaged.qmd
-      - section: "Embeding"
+      - section: "Best Practices"
         contents:
           - publications.qmd
           - endorsements.qmd
-      - section: 'Misc'
+      - section: 'About'
         contents:
           - history.qmd
   page-footer: "Copyright 2023, OneGeochemistry"
