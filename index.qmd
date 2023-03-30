@@ -8,7 +8,7 @@ Benjamin Franklin**
 # The OneGeochemistry Initiative
 OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.
 
-[Join our Slack Channel!]{https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email}\
+[Join our Slack Channel!](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email)\
 
 The OneGeochemistry Initiative has now officially become the OneGeochemistry CODATA Working Group.
 Presentations and outreach materials can be found on the OneGeochemistry Community on Zenodo.
