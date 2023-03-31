@@ -24,7 +24,7 @@ website:
         contents:
           - white papers.qmd
           - brown book.qmd
-      - section: 'Info'
+      - section: 'About'
         contents:
           - onegeochemistry.qmd
           - publications.qmd
