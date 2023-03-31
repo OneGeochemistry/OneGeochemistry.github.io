@@ -1,9 +1,6 @@
 ---
-title: 'The briefest history of geochemistry'
+title: 'History'
 ---
-
-# History
-Intro
 
 # The Briefest History of Geochemistry
 **By Lesley Wyborn**

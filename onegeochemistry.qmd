@@ -2,9 +2,6 @@
 title: 'OneGeochemistry'
 ---
 
-# OneGeochemistry
-OneGeochemistry currently is Working Group of the Innter
-
 
 # CODATA Working Group
 
