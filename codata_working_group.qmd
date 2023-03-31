@@ -1,5 +1,0 @@
----
-title: 'CODATA Working Group'
----
-
-OneGeochemsitry is currenlty a CODATA Working Group as part of the WorldFair Initiative.

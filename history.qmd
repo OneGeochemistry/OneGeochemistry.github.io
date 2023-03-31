@@ -4,9 +4,19 @@ author: Lesley Wyborn
 date: 02/28/2023
 ---
 
+# History
+
+
+# The Briefest History of Geochemistry
+**By Lesley Wyborn**
+
 Geochemistry emerged as a discipline in its own right around 1838 and since then, acquisition and analysis of geochemical data have become pervasive. Initially geochemical data was acquired using manual ‘wet chemical’ techniques and only major elements and a few trace elements were routinely recorded. Results were reported in typeset tables in publications, and a publication rarely contained data on more than 15 samples. 
 For the first 120 years little changed, but by the 1960’s a technological revolution began to take place in geochemistry: analytical systems became more automated and microanalytical in-situ techniques were progressively developed. The volumes of data generated increased rapidly and the diversity of elements and isotopes analysed soon covered the periodic table: the data tsunami began.
 As more and more automated techniques became available, it became very difficult to share all geochemical data through tables in paper publications, and data was reported in supplementary papers that could only be retrieved through direct contact with the author: the data were no longer part of the publication and were easily and often lost.
 However, as analytical technologies advanced, technologies to store and curate geochemical data over the long term did not keep up with these developments. Even with the emergence of the internet, the global geochemical community was unable to organise data in a way that it could be digitally curated, shared and even repurposed for new use cases.
 In the last 30 years major databases that store geochemical data emerged, and although many did not survive, EarthChem and GEOROC have been sustained over decades and continue to provide valuable online, published geochemical datasets and showcase the potential of harnessing data into authoritative sources to generate new scientific discoveries.
 Today, the Internet can connect multiple globally distributed databases in real-time. We now urgently need to focus on creating the digital standards and agreeing on best practices that will make any online geochemistry dataset Findable, Accessible, Interoperable and Reusable (FAIR) by both humans and machines. The recently formed OneGeochemistry CODATA Working Group is seeking to both harness and harmonise existing groups working towards global data sharing and promulgate best practices and standards. 
+
+
+# The History of OneGeochemistry
+To be written.

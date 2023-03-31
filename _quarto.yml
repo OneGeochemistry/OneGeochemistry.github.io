@@ -24,15 +24,11 @@ website:
         contents:
           - white papers.qmd
           - brown book.qmd
-      - section: 'About'
+      - section: 'Info'
         contents:
-          - participants.qmd
-          - endorsements.qmd
-          - codata_working_group.qmd
-          - governance.qmd
+          - onegeochemistry.qmd
           - publications.qmd
           - history.qmd
-          - 1GC history.qmd
           - faq.qmd
   page-footer: "Copyright 2023, OneGeochemistry"
  
