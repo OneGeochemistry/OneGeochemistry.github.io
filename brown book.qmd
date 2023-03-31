@@ -1,5 +1,5 @@
 ---
-Title: 'Brown Book'
+title: 'Brown Book'
 ---
 
 # Brown Book

@@ -1,5 +1,5 @@
 ---
-Title: 'White Papers'
+title: 'White Papers'
 ---
 
 # White Papers

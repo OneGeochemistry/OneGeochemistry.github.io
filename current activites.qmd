@@ -1,5 +1,5 @@
 ---
-Title: 'Current Activities'
+title: 'Current Activities'
 ---
 
 # Introduction

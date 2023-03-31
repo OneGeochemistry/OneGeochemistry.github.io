@@ -1,11 +1,9 @@
 ---
 title: 'The briefest history of geochemistry'
-author: Lesley Wyborn
-date: 02/28/2023
 ---
 
 # History
-
+Intro
 
 # The Briefest History of Geochemistry
 **By Lesley Wyborn**
