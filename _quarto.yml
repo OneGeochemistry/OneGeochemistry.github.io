@@ -29,7 +29,7 @@ website:
           - onegeochemistry.qmd
           - publications.qmd
           - history.qmd
-          - faq.qmd
+          # - faq.qmd
   page-footer: "Copyright 2023, OneGeochemistry"
  
 margin-header: |
