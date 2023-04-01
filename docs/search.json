@@ -1,73 +1,10 @@
 [
   {
-    "objectID": "governance.html",
-    "href": "governance.html",
-    "title": "Governance",
-    "section": "",
-    "text": "This will be establishd in a community led process during 2023"
-  },
-  {
-    "objectID": "endorsements.html",
-    "href": "endorsements.html",
-    "title": "Endorsements",
-    "section": "",
-    "text": "OneGeochemistry is endorsed by multiple international societies …"
-  },
-  {
-    "objectID": "endorsements.html#mineralogical-societies",
-    "href": "endorsements.html#mineralogical-societies",
-    "title": "Endorsements",
-    "section": "Mineralogical Societies",
-    "text": "Mineralogical Societies\nIAG EAG"
-  },
-  {
-    "objectID": "endorsements.html#cosmochemical-societies",
-    "href": "endorsements.html#cosmochemical-societies",
-    "title": "Endorsements",
-    "section": "Cosmochemical Societies",
-    "text": "Cosmochemical Societies\nPending"
-  },
-  {
-    "objectID": "get_engaged.html",
-    "href": "get_engaged.html",
-    "title": "Get Engaged",
-    "section": "",
-    "text": "Contact the Coordinator\nGet in contact with the OneGeochemistry coordinator Alexander Prent:\n\n\nAt the next Conference\nEGU"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
     "text": "“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.\nBenjamin Franklin"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. (2021). Time to change the data culture in geochemistry. Nature Reviews Earth & Environment, 2(11), 737–739. https://doi.org/10.1038/s43017-021-00237-w\nKlöcking et al. (in press) Community recommendations for geochemical data, services and analytical capabilities in the 21st century, Geochimica et Cosmochimica Acta.\nJackson I and Wyborn L 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit. Environmental Geology,53(6), 1377-1380. http://dx.doi.org/10.1007/s00254-007-1085-z\nMcEwen, L.R, 2020. Towards a Digital IUPAC. Chemistry International, vol. 42, no. 2, 2020, pp. 15-17. https://doi.org/10.1515/ci-2020-0203\nMehnert, A. J., Janke, A., Gruwel, M., Goscinski, W. J., Close, T., Taylor, D., Narayanan, A., Vidalis, G., Galloway, G., and Treloar, A., 2019. Putting the Trust into Trusted Data Repositories: A Federated Solution for the Australian National Imaging Facility. International Journal of Digital Curation,14 (1), 102–113. https://doi.org/10.2218/ijdc.v14i1.594\nStall, S., Cruse, P., Cousijn, H., Cutcher-Gershenfeld, J., de Waard, A., Hanson, B., Heber, J., Lehnert, K., Parsons, M., Robinson, E., Witt, M., Wyborn, L., and Yarmey, L., 2018. Data Sharing and Citations: New Author Guidelines Promoting Open and FAIR Data in the Earth, Space, and Environmental Sciences. Science Editor. 41(3), 83-87. https://www.csescienceeditor.org/wp-content/uploads/2018/11/CSEv41n3_text_83-87.pdf\nStall, S, McEwen, L, Wyborn, L, Hoebelheinrich, N, and Bruno., I, 2020. Growing the FAIR community at the intersection of the geosciences and pure and applied chemistry. Data Intelligence 2(2020), 139–150. https://doi.org/10.1162/dint_a_00036\nStall, S., Yarmey, L., Cutcher-Gershenfeld, J., Hanson, B, Lehnert, K., Nosek, B., Parsons, M., Robinson, E., and Wyborn, L., 2019. Making Scientific Data Fair. Nature 570, 27-29. https://doi.org/10.1038/d41586-019-01720-7 5\nWilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., … Mons, B., 2016. The FAIR Guiding Principles for scientific data management and stewardship. In Scientific Data 3, 1, https://doi.org/10.1038/sdata.2016.18\nSchaen, A. J., Jicha, B. R., Hodges, K. v., Vermeesch, P., Stelten, M. E., Mercer, C. M., Phillips, D., Rivera, T. A., Jourdan, F., Matchan, E. L., Hemming, S. R., Morgan, L. E., Kelley, S. P., Cassata, W. S., Heizler, M. T., Vasconcelos, P. M., Benowitz, J. A., Koppers, A. A. P., Mark, D. F., … Singer, B. S., 2021. Interpreting and reporting 40Ar/39Ar geochronologic data. GSA Bulletin, 133 (3–4), 461–487. https://doi.org/10.1130/B35560.1\nLehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alexander, ter Maat, Geertje, & Hezel, Dominik C. (2022). OneGeochemistry Interim Governance. Zenodo. https://doi.org/10.5281/zenodo.6566075\nOneGeochemistry CODATA Working Group – Terms of Reference. https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg/\nCox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C (2021). Ten simple rules for making a vocabulary FAIR. PLoS Computational Biology 17(6): e1009041. https://doi.org/10.1371/journal.pcbi.1009041\nAbbott, Peter, Bonadonna, Costanza, Bursik, Marcus, Cashman, Katherine, Davies, Siwan, Jensen, Britta, Kuehn, Stephen, Kurbatov, Andrei, Lane, Christine, Plunkett, Gill, Smith, Victoria, Thomlinson, Emma, Thordarsson, Thor, Walker, J. Douglas, & Wallace, Kristi. (2022). Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis (4.0.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6568306\nR.M. Flowers, P.K. Zeitler, M. Danišík, P.W. Reiners, C. Gautheron, R.A. Ketcham, J.R. Metcalf, D.F. Stockli, E. Enkelmann, R.W. Brown; (U-Th)/He chronology: Part 1. Data, uncertainty, and reporting. GSA Bulletin 2022; doi: https://doi.org/10.1130/B36266.1\nList of papers that are actually producing what is needed\nBrantley, S. L., Wen, T., Agarwal, D., Catalano, J., Schroeder, P. A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A. M., Hooper, R., Ma, X., Jin, L., McHenry, K., Aronson, E., Shaughnessy, A., Derry, L., Richardson, J., Bales, J., Pierce, E. (2021). “A Vision for the Future Low-Temperature Geochemical Data-scape.” Computers & Geoscience\nWallace, K., Bursik, M. Kuehn, S., Kurbatov, A., Abbott, P., Bonadonna, C., Cashman, K., Davies, S., Jensen, B., Lane, C., Plunkett, G., Smith, V. Tomlinson, E., Thordarsson, T., Walker, D. (2021b). “Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis.” (Scientific Data: SDATA-20-01163, in review)\nDamerow, J.E., Ely, K.S., Varadharajan, C., Boye, K., Brodie, E.L., Burrus, M., Chadwick, K.D., Crystal-Ornelas, R., Elbashandy, H., Alves, R.J.E. and Goldman, A.E. (2021). “Sample Identifiers and Metadata to Support Data Management and Reuse in Multidisciplinary Ecosystem Sciences.” Data Science Journal, 20 (BNL-221088-2021-JAAM).\nKhider, D., Emile‐Geay, J,, McKay, N. P., Gil, Y., Garijo, D., Ratnakar, V., Alonso‐Garcia, M., Bertrand, S., Bothe, O., Brewer, P., Bunn, A.. (2019) “PaCTS 1.0: a crowdsourced reporting standard for paleoclimate data. Paleoceanography and Paleoclimatology.” Oct 1;34(10):1570-96. https://doi.org/10.1029/2019PA003632\nMustaphi, C.J.C., Brahney, J., Aquino-Lopez, M.A., Goring, S., Orton, K., Noronha, A., Czaplewski, J., Asena, Q., Paton, S. and Brushworth, J.P. (2019). “Guidelines for reporting and archiving 210Pb sediment chronologies to improve fidelity and extend data lifecycle.” Quaternary Geochronology, 52, 77-87. https://doi.org/10.1016/j.quageo.2019.04.003\nDutton, A., Rubin, K., McLean, N., Bowring, J., Bard, E., Edwards, R. L, Henderson, G.M., Reid, M.R., Richards, D.A., Sims, K.W.W., Walker, J.D., Yokoyama, Y. (2017). “Data reporting standards for publication of U-series data for geochronology and timescale assessment in the earth sciences.” Quaternary Geochronology, 39, 142-149.\nWalker, D. J., Condon, D., Thompson, W., Renne, P., Koppers, A., Hodges, K., Reiners, P., Stockli, D., Schmitz, M., Bowring, S., Gehrels, G. (2008). “Geochron Workshop reports sponsored by EarthChem and EARTHTIME.” Zenodo. https://doi.org/10.5281/zenodo.4313859\nPeng, G., Lacagnina, C., Downs, R. R., Ganske, A., Ramapriyan, H. K., Ivánová, I., … Moroni, D. F. (2022). Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets. Data Science Journal, 21(1), 8. DOI: http://doi.org/10.5334/dsj-2022-008\n\n\nGCA\n\n\n\nZenodoo\n\n\n\nmultiple …"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "history.html",
-    "href": "history.html",
-    "title": "The briefest history of geochemistry",
-    "section": "",
-    "text": "History\n\n\nThe Briefest History of Geochemistry\nBy Lesley Wyborn\nGeochemistry emerged as a discipline in its own right around 1838 and since then, acquisition and analysis of geochemical data have become pervasive. Initially geochemical data was acquired using manual ‘wet chemical’ techniques and only major elements and a few trace elements were routinely recorded. Results were reported in typeset tables in publications, and a publication rarely contained data on more than 15 samples. For the first 120 years little changed, but by the 1960’s a technological revolution began to take place in geochemistry: analytical systems became more automated and microanalytical in-situ techniques were progressively developed. The volumes of data generated increased rapidly and the diversity of elements and isotopes analysed soon covered the periodic table: the data tsunami began. As more and more automated techniques became available, it became very difficult to share all geochemical data through tables in paper publications, and data was reported in supplementary papers that could only be retrieved through direct contact with the author: the data were no longer part of the publication and were easily and often lost. However, as analytical technologies advanced, technologies to store and curate geochemical data over the long term did not keep up with these developments. Even with the emergence of the internet, the global geochemical community was unable to organise data in a way that it could be digitally curated, shared and even repurposed for new use cases. In the last 30 years major databases that store geochemical data emerged, and although many did not survive, EarthChem and GEOROC have been sustained over decades and continue to provide valuable online, published geochemical datasets and showcase the potential of harnessing data into authoritative sources to generate new scientific discoveries. Today, the Internet can connect multiple globally distributed databases in real-time. We now urgently need to focus on creating the digital standards and agreeing on best practices that will make any online geochemistry dataset Findable, Accessible, Interoperable and Reusable (FAIR) by both humans and machines. The recently formed OneGeochemistry CODATA Working Group is seeking to both harness and harmonise existing groups working towards global data sharing and promulgate best practices and standards.\n\n\nThe History of OneGeochemistry\nTo be written."
-  },
-  {
-    "objectID": "codata_working_group.html",
-    "href": "codata_working_group.html",
-    "title": "CODATA Working Group",
-    "section": "",
-    "text": "OneGeochemsitry is currenlty a CODATA Working Group as part of the WorldFair Initiative."
   },
   {
     "objectID": "index.html#introduction",
@@ -91,45 +28,66 @@
     "text": "Work Plan\nDuring the two years as CODATA Working Group, OneGeochemistry will focus on Community Building (engaging with partners and participants, forming expert working groups, and expanding efforts to seek endorsement of unions, societies, commissions and associations; in especially the first half year of WG formation), Generation of Common Vocabularies (through formation of expert working groups and collaboration between existing initiatives) and Generation of FIPs and Recommendations (of geochemistry data reporting). The OneGeochemistry Initiative has sent out a formal letter seeking endorsement to several geochemical associations, commissions and societies. Once endorsed by these societies OneGeochemistry will extend an invitation to experts from these and the wider geochemistry community to join expert groups in early 2023. One expert group will be charged to develop common vocabularies and another expert group will where possible build upon existing or else generate new recommendations towards geochemical data reporting. Firstly, common vocabularies for both geochemical techniques and analytes will be created by the geochemistry community (e.g. for XRF and ICP-MS, elemental concentrations and U–Pb isotopes). These vocabularies will be developed in consultation and collaboration with other initiatives and groups that are well advanced in the development of digital data standards that both ensure compliance with FAIR and also enable interoperability of geochemical data with the other 10 Work Packages of the WorldFAIR project. These initiatives and groups include the International Union of Pure and Applied Chemistry (IUPAC) and their ‘Colour Books’; CODATA DDI-CDI Cross Domain Integration Initiative; the CODATA Digital Representation of Units of Measure (DRUM) Task Group; and relevant Research Data Alliance (RDA) groups (e.g., Vocabulary Services Interest Group; Earth, Space, and Environmental Sciences Interest Group; etc): these efforts will be aligned with the ‘10 Simple Rules’ for making a vocabulary FAIR. These FAIR vocabularies are to be published through Research Vocabularies Australia (RVA) and will serve as examples on how to build and publish further geochemistry subdiscipline specific vocabularies. Through the CODATA Working Group, and as part of the CODATA-led WorldFAIR Project, OneGeochemistry aims to engage and motivate community repositories and databases to share their FAIR Enabling Resources (FERs) in a FAIR Implementation Profile (FIP). From the various FIPs, common FERs can be extracted to be published (after about a year into the WG) that will help repositories and databases to become more FAIR (especially facilitating interoperability). The publication of vocabularies, FIPs and geochemistry data reporting recommendations will allow the community to use and consider them for QA/QC of geochemical datasets published in the literature. Although this Working Group has been established in the context of the WorldFAIR Project and the process of formalising OneGeochemistry in that project, it will continue beyond the life of the WorldFAIR project, ensuring continuity and sustainability in the process of building the OneGeochemistry initiative."
   },
   {
-    "objectID": "white papers.html",
-    "href": "white papers.html",
+    "objectID": "onegeochemistry.html",
+    "href": "onegeochemistry.html",
     "title": "OneGeochemistry",
     "section": "",
-    "text": "White Papers"
+    "text": "CODATA Working Group\nOneGeochemsitry is currenlty a CODATA Working Group as part of the WorldFair Initiative.\n\n\nGovernance\n\n\nParticipants\n\n\nEndorsements\nOneGeochemistry is endorsed by\nIAG EAG The Meteoritical Society"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "brown book.html",
+    "href": "brown book.html",
+    "title": "Brown Book",
+    "section": "",
+    "text": "Brown Book"
   },
   {
     "objectID": "current activites.html",
     "href": "current activites.html",
-    "title": "OneGeochemistry",
+    "title": "Current Activities",
     "section": "",
     "text": "Introduction"
   },
   {
     "objectID": "faq.html",
     "href": "faq.html",
-    "title": "OneGeochemistry",
+    "title": "FAQ",
     "section": "",
     "text": "FAQ"
   },
   {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "OneGeochemistry",
+    "objectID": "get_engaged.html",
+    "href": "get_engaged.html",
+    "title": "Get Engaged",
     "section": "",
-    "text": "Participants"
+    "text": "Contact the Coordinator\nGet in contact with the OneGeochemistry coordinator Alexander Prent:\n\n\nAt the next Conference\nEGU"
   },
   {
-    "objectID": "brown book.html",
-    "href": "brown book.html",
-    "title": "OneGeochemistry",
+    "objectID": "history.html",
+    "href": "history.html",
+    "title": "History",
     "section": "",
-    "text": "Brown Book"
+    "text": "The Briefest History of Geochemistry\nBy Lesley Wyborn\nGeochemistry emerged as a discipline in its own right around 1838 and since then, acquisition and analysis of geochemical data have become pervasive. Initially geochemical data was acquired using manual ‘wet chemical’ techniques and only major elements and a few trace elements were routinely recorded. Results were reported in typeset tables in publications, and a publication rarely contained data on more than 15 samples. For the first 120 years little changed, but by the 1960’s a technological revolution began to take place in geochemistry: analytical systems became more automated and microanalytical in-situ techniques were progressively developed. The volumes of data generated increased rapidly and the diversity of elements and isotopes analysed soon covered the periodic table: the data tsunami began. As more and more automated techniques became available, it became very difficult to share all geochemical data through tables in paper publications, and data was reported in supplementary papers that could only be retrieved through direct contact with the author: the data were no longer part of the publication and were easily and often lost. However, as analytical technologies advanced, technologies to store and curate geochemical data over the long term did not keep up with these developments. Even with the emergence of the internet, the global geochemical community was unable to organise data in a way that it could be digitally curated, shared and even repurposed for new use cases. In the last 30 years major databases that store geochemical data emerged, and although many did not survive, EarthChem and GEOROC have been sustained over decades and continue to provide valuable online, published geochemical datasets and showcase the potential of harnessing data into authoritative sources to generate new scientific discoveries. Today, the Internet can connect multiple globally distributed databases in real-time. We now urgently need to focus on creating the digital standards and agreeing on best practices that will make any online geochemistry dataset Findable, Accessible, Interoperable and Reusable (FAIR) by both humans and machines. The recently formed OneGeochemistry CODATA Working Group is seeking to both harness and harmonise existing groups working towards global data sharing and promulgate best practices and standards.\n\n\nThe History of OneGeochemistry\nTo be written."
   },
   {
-    "objectID": "onegeochemistry.html",
-    "href": "onegeochemistry.html",
-    "title": "OneGeochemistry",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "CODATA Working Group\nOneGeochemsitry is currenlty a CODATA Working Group as part of the WorldFair Initiative.\n\n\nGovernance\n\n\nParticipants\n\n\nEndorsements\nOneGeochemistry is endorsed by\nIAG EAG The Meteoritical Society"
+    "text": "Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. (2021). Time to change the data culture in geochemistry. Nature Reviews Earth & Environment, 2(11), 737–739. https://doi.org/10.1038/s43017-021-00237-w\nKlöcking et al. (in press) Community recommendations for geochemical data, services and analytical capabilities in the 21st century, Geochimica et Cosmochimica Acta.\nJackson I and Wyborn L 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit. Environmental Geology,53(6), 1377-1380. http://dx.doi.org/10.1007/s00254-007-1085-z\nMcEwen, L.R, 2020. Towards a Digital IUPAC. Chemistry International, vol. 42, no. 2, 2020, pp. 15-17. https://doi.org/10.1515/ci-2020-0203\nMehnert, A. J., Janke, A., Gruwel, M., Goscinski, W. J., Close, T., Taylor, D., Narayanan, A., Vidalis, G., Galloway, G., and Treloar, A., 2019. Putting the Trust into Trusted Data Repositories: A Federated Solution for the Australian National Imaging Facility. International Journal of Digital Curation,14 (1), 102–113. https://doi.org/10.2218/ijdc.v14i1.594\nStall, S., Cruse, P., Cousijn, H., Cutcher-Gershenfeld, J., de Waard, A., Hanson, B., Heber, J., Lehnert, K., Parsons, M., Robinson, E., Witt, M., Wyborn, L., and Yarmey, L., 2018. Data Sharing and Citations: New Author Guidelines Promoting Open and FAIR Data in the Earth, Space, and Environmental Sciences. Science Editor. 41(3), 83-87. https://www.csescienceeditor.org/wp-content/uploads/2018/11/CSEv41n3_text_83-87.pdf\nStall, S, McEwen, L, Wyborn, L, Hoebelheinrich, N, and Bruno., I, 2020. Growing the FAIR community at the intersection of the geosciences and pure and applied chemistry. Data Intelligence 2(2020), 139–150. https://doi.org/10.1162/dint_a_00036\nStall, S., Yarmey, L., Cutcher-Gershenfeld, J., Hanson, B, Lehnert, K., Nosek, B., Parsons, M., Robinson, E., and Wyborn, L., 2019. Making Scientific Data Fair. Nature 570, 27-29. https://doi.org/10.1038/d41586-019-01720-7 5\nWilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., … Mons, B., 2016. The FAIR Guiding Principles for scientific data management and stewardship. In Scientific Data 3, 1, https://doi.org/10.1038/sdata.2016.18\nSchaen, A. J., Jicha, B. R., Hodges, K. v., Vermeesch, P., Stelten, M. E., Mercer, C. M., Phillips, D., Rivera, T. A., Jourdan, F., Matchan, E. L., Hemming, S. R., Morgan, L. E., Kelley, S. P., Cassata, W. S., Heizler, M. T., Vasconcelos, P. M., Benowitz, J. A., Koppers, A. A. P., Mark, D. F., … Singer, B. S., 2021. Interpreting and reporting 40Ar/39Ar geochronologic data. GSA Bulletin, 133 (3–4), 461–487. https://doi.org/10.1130/B35560.1\nLehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alexander, ter Maat, Geertje, & Hezel, Dominik C. (2022). OneGeochemistry Interim Governance. Zenodo. https://doi.org/10.5281/zenodo.6566075\nOneGeochemistry CODATA Working Group – Terms of Reference. https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg/\nCox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C (2021). Ten simple rules for making a vocabulary FAIR. PLoS Computational Biology 17(6): e1009041. https://doi.org/10.1371/journal.pcbi.1009041\nAbbott, Peter, Bonadonna, Costanza, Bursik, Marcus, Cashman, Katherine, Davies, Siwan, Jensen, Britta, Kuehn, Stephen, Kurbatov, Andrei, Lane, Christine, Plunkett, Gill, Smith, Victoria, Thomlinson, Emma, Thordarsson, Thor, Walker, J. Douglas, & Wallace, Kristi. (2022). Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis (4.0.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6568306\nR.M. Flowers, P.K. Zeitler, M. Danišík, P.W. Reiners, C. Gautheron, R.A. Ketcham, J.R. Metcalf, D.F. Stockli, E. Enkelmann, R.W. Brown; (U-Th)/He chronology: Part 1. Data, uncertainty, and reporting. GSA Bulletin 2022; doi: https://doi.org/10.1130/B36266.1\nList of papers that are actually producing what is needed\nBrantley, S. L., Wen, T., Agarwal, D., Catalano, J., Schroeder, P. A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A. M., Hooper, R., Ma, X., Jin, L., McHenry, K., Aronson, E., Shaughnessy, A., Derry, L., Richardson, J., Bales, J., Pierce, E. (2021). “A Vision for the Future Low-Temperature Geochemical Data-scape.” Computers & Geoscience\nWallace, K., Bursik, M. Kuehn, S., Kurbatov, A., Abbott, P., Bonadonna, C., Cashman, K., Davies, S., Jensen, B., Lane, C., Plunkett, G., Smith, V. Tomlinson, E., Thordarsson, T., Walker, D. (2021b). “Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis.” (Scientific Data: SDATA-20-01163, in review)\nDamerow, J.E., Ely, K.S., Varadharajan, C., Boye, K., Brodie, E.L., Burrus, M., Chadwick, K.D., Crystal-Ornelas, R., Elbashandy, H., Alves, R.J.E. and Goldman, A.E. (2021). “Sample Identifiers and Metadata to Support Data Management and Reuse in Multidisciplinary Ecosystem Sciences.” Data Science Journal, 20 (BNL-221088-2021-JAAM).\nKhider, D., Emile‐Geay, J,, McKay, N. P., Gil, Y., Garijo, D., Ratnakar, V., Alonso‐Garcia, M., Bertrand, S., Bothe, O., Brewer, P., Bunn, A.. (2019) “PaCTS 1.0: a crowdsourced reporting standard for paleoclimate data. Paleoceanography and Paleoclimatology.” Oct 1;34(10):1570-96. https://doi.org/10.1029/2019PA003632\nMustaphi, C.J.C., Brahney, J., Aquino-Lopez, M.A., Goring, S., Orton, K., Noronha, A., Czaplewski, J., Asena, Q., Paton, S. and Brushworth, J.P. (2019). “Guidelines for reporting and archiving 210Pb sediment chronologies to improve fidelity and extend data lifecycle.” Quaternary Geochronology, 52, 77-87. https://doi.org/10.1016/j.quageo.2019.04.003\nDutton, A., Rubin, K., McLean, N., Bowring, J., Bard, E., Edwards, R. L, Henderson, G.M., Reid, M.R., Richards, D.A., Sims, K.W.W., Walker, J.D., Yokoyama, Y. (2017). “Data reporting standards for publication of U-series data for geochronology and timescale assessment in the earth sciences.” Quaternary Geochronology, 39, 142-149.\nWalker, D. J., Condon, D., Thompson, W., Renne, P., Koppers, A., Hodges, K., Reiners, P., Stockli, D., Schmitz, M., Bowring, S., Gehrels, G. (2008). “Geochron Workshop reports sponsored by EarthChem and EARTHTIME.” Zenodo. https://doi.org/10.5281/zenodo.4313859\nPeng, G., Lacagnina, C., Downs, R. R., Ganske, A., Ramapriyan, H. K., Ivánová, I., … Moroni, D. F. (2022). Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets. Data Science Journal, 21(1), 8. DOI: http://doi.org/10.5334/dsj-2022-008\n\n\nGCA\n\n\n\nZenodoo\n\n\n\nmultiple …"
+  },
+  {
+    "objectID": "white papers.html",
+    "href": "white papers.html",
+    "title": "White Papers",
+    "section": "",
+    "text": "White Papers"
   }
 ]
