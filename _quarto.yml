@@ -20,10 +20,10 @@ website:
         contents:          
           - get_engaged.qmd
           - current activites.qmd
-      - section: "Best Practices"
-        contents:
-          - white papers.qmd
-          - brown book.qmd
+      - best_practices.qmd # section: "Best Practices"
+        # contents:
+         # - white papers.qmd
+         # - brown book.qmd
       - section: 'About'
         contents:
           - onegeochemistry.qmd
