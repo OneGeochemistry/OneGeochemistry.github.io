@@ -2,6 +2,10 @@
 title: 'Best Practices'
 ---
 
+:::{.callout-note}
+Below we compile existing publications of best practices and standards for various data types or subdisciplines of geochemistry. If you think we have missed something, please get in touch!
+:::
+
 Abbott, P., Bonadonna, C., Bursik, M., Cashman, K., Davies, S., Jensen, B., Kuehn, S., Kurbatov, A., Lane, C., Plunkett, G., Smith, V., Thomlinson, E., Thordarsson, T., Walker, J.D., Wallace, K., 2022. Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis. Zenodo. [https://doi.org/10.5281/zenodo.6568306](https://doi.org/10.5281/zenodo.6568306)
 
 Boone, S.C., Dalton, H., Prent, A., Kohlmann, F., Theile, M., Gréau, Y., Florin, G., Noble, W., Hodgekiss, S., Ware, B., Phillips, D., Kohn, B., O’Reilly, S., Gleadow, A., McInnes, B., Rawling, T., 2022. AusGeochem: An Open Platform for Geochemical Data Preservation, Dissemination and Synthesis. Geostandards and Geoanalytical Research 46, 245–25. [https://doi.org/10.1111/ggr.12419](https://doi.org/10.1111/ggr.12419)

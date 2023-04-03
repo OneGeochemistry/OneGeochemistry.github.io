@@ -15,7 +15,8 @@ website:
     style: "docked"
     search: true
     contents:
-      - index.qmd
+      - text: "Welcome"
+        file: index.qmd
       - section: "Participate"
         contents:          
           - get_engaged.qmd

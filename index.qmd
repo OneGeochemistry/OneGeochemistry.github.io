@@ -1,17 +1,60 @@
 ---
-title: 'Welcome'
+title: 'OneGeochemistry'
+title-block-banner: black <!--'#5e9ca3ff' -->
+title-block-banner-color: '#f49819ff'
+description-title: building and maintaining consensus-driven data standards for geochemistry
 ---
 
-**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.\
-Benjamin Franklin**
+> <font size="5">**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.**</font>\
+> *Benjamin Franklin*
 
-# The OneGeochemistry Initiative
-OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.
+
+<font size="5">OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.</font>
+
 
 [Join our Slack Channel!](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email)\
 
 
-# Abstract of 1GC
 
-Geochemical data have applications in many disciplines including geology, cosmology, environment, resources (groundwater, minerals, energy), geohealth, ocean and agriculture. As such, geochemical data play an important role in at least six of the United Nations Sustainable Development Goals. To support these disciplines and goals, there is a growing need to provide advice and support the implementation of data quality assurance/quality control (QA/QC) validation methods for laboratories, repositories, publishers and policy makers. When provenance, methodology and a measure of data quality are consistently documented others will be enabled to trust, interpret and reuse data. In enabling and simplifying the (re)use of geochemical data, OneGeochemistry will help to facilitate acceleration of the generation of new geoscientific knowledge and discoveries.
-As OneGeochemistry organises collaboration and coordination of data reporting standardisation efforts that are non-unique across the diverse geochemistry communities, this initiative fills a niche previously unoccupied. Standardisation efforts have always focused on national, programmatic or less centralised levels. The formalisation of OneGeochemistry and endorsement by societies and associations will enable the initiative to develop and promote influential, community-driven data conventions and best practices necessary to build a global network of high-quality, trusted geochemical data. These actions will enable FAIRer geochemical data, simplifying data (re)use which will both contribute to many UN Sustainable Development goals and accelerate the generation of new geoscientific knowledge and discoveries.
+# The OneGeochemistry Goals
+* Develop internationally endorsed best practices for FAIR geochemical data.
+    + Define requirements for data documentation (method, samples, data quality, etc.)
+* Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
+    + Align with modern technology, e.g. semantic web standards.
+    + Use, where possible, internationally endorsed vocabularies.
+
+
+
+
+
+\
+
+::: {layout=[40,-10,40,-10,40]}
+
+[![<font size="4"> About OneGeochemistry </font>](images/1GC-codata.png)](onegeochemistry.qmd)
+
+[![<font size="4"> Existing Best Practices </font>](images/best-practice.png)](best_practices.qmd)
+
+[![<font size="4"> Get Involved</font>](images/help2.jpg)](get_engaged.qmd)
+:::
+
+
+
+
+### The OneGeochemistry Initiative is Endorsed By
+
+::: {layout-ncol=5}
+:::
+
+
+### Supporters of OneGeochemistry
+
+::: {layout-ncol=5}
+:::
+
+
+
+<!-- # Abstract of 1GC -->
+
+<!-- Geochemical data have applications in many disciplines including geology, cosmology, environment, resources (groundwater, minerals, energy), geohealth, ocean and agriculture. As such, geochemical data play an important role in at least six of the United Nations Sustainable Development Goals. To support these disciplines and goals, there is a growing need to provide advice and support the implementation of data quality assurance/quality control (QA/QC) validation methods for laboratories, repositories, publishers and policy makers. When provenance, methodology and a measure of data quality are consistently documented others will be enabled to trust, interpret and reuse data. In enabling and simplifying the (re)use of geochemical data, OneGeochemistry will help to facilitate acceleration of the generation of new geoscientific knowledge and discoveries.
+As OneGeochemistry organises collaboration and coordination of data reporting standardisation efforts that are non-unique across the diverse geochemistry communities, this initiative fills a niche previously unoccupied. Standardisation efforts have always focused on national, programmatic or less centralised levels. The formalisation of OneGeochemistry and endorsement by societies and associations will enable the initiative to develop and promote influential, community-driven data conventions and best practices necessary to build a global network of high-quality, trusted geochemical data. These actions will enable FAIRer geochemical data, simplifying data (re)use which will both contribute to many UN Sustainable Development goals and accelerate the generation of new geoscientific knowledge and discoveries.-->
