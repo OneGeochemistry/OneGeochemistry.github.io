@@ -21,7 +21,8 @@ website:
         contents:          
           - get_engaged.qmd
           - current activites.qmd
-      - best_practices.qmd # section: "Best Practices"
+      - best_practices.qmd
+      # section: "Best Practices"
         # contents:
          # - white papers.qmd
          # - brown book.qmd
