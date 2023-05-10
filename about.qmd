@@ -7,8 +7,6 @@ title: "About"
 :::: {.columns}
 ::: {.column width="75%"}
 Geochemical data have applications in many disciplines including geology, cosmology, environment, resources (groundwater, minerals, energy), geohealth, ocean and agriculture. As such, geochemical data play an important role in at least six of the United Nations Sustainable Development Goals. To support these disciplines and goals, there is a growing need to provide advice and support the implementation of data quality assurance/quality control (QA/QC) validation methods for laboratories, repositories, publishers and policy makers. When provenance, methodology and a measure of data quality are consistently documented others will be enabled to trust, interpret and reuse data. In enabling and simplifying the (re)use of geochemical data, OneGeochemistry will help to facilitate acceleration of the generation of new geoscientific knowledge and discoveries.
-
-As OneGeochemistry organises collaboration and coordination of data reporting standardisation efforts that are non-unique across the diverse geochemistry communities, this initiative fills a niche previously unoccupied. Standardisation efforts have always focused on national, programmatic or less centralised levels. The formalisation of OneGeochemistry and endorsement by societies and associations will enable the initiative to develop and promote influential, community-driven data conventions and best practices necessary to build a global network of high-quality, trusted geochemical data. These actions will enable FAIRer geochemical data, simplifying data (re)use which will both contribute to many UN Sustainable Development goals and accelerate the generation of new geoscientific knowledge and discoveries.
 :::
 ::: {.column width="5%"}
 :::
@@ -17,36 +15,49 @@ As OneGeochemistry organises collaboration and coordination of data reporting st
 :::
 ::::
 
+:::: {.columns}
+::: {.column width="75%"}
+As OneGeochemistry organises collaboration and coordination of data reporting standardisation efforts that are non-unique across the diverse geochemistry communities, this initiative fills a niche previously unoccupied. Standardisation efforts have always focused on national, programmatic or less centralised levels. The formalisation of OneGeochemistry and endorsement by societies and associations will enable the initiative to develop and promote influential, community-driven data conventions and best practices necessary to build a global network of high-quality, trusted geochemical data. These actions will enable FAIRer geochemical data, simplifying data (re)use which will both contribute to many UN Sustainable Development goals and accelerate the generation of new geoscientific knowledge and discoveries.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](images/earth-collaboration.png)
+:::
+::::
+
 ## Kicking of OneGeochemistry through a CODATA Working Group (2022-2024)
 
 :::: {.columns}
+::: {.column width="65%"}
+As of December 2022, the OneGeochemistry initiative is acting as the OneGeochemistry CODATA Working Group under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions. Over two years, this Working Group will be utilised to recruit a larger membership base to the initiative that will then be able to vote on a long-term governance structure for OneGeochemistry. The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the OneGeochemistry vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the 'Participate' section.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="30%"}
+![](images/codata-logo.png){width=70%}
+:::
+::::
+
+:::: {.columns}
 ::: {.column width="55%"}
-As of December 2022, the OneGeochemistry (@fig-1GC-organisation-cloud) initiative is acting as the OneGeochemistry CODATA Working Group under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions. Over two years, this Working Group will be utilised to recruit a larger membership base to the initiative that will then be able to vote on a long-term governance structure for OneGeochemistry. The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the OneGeochemistry vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the 'Participate' section.
-
-OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery of, and access to, geochemical data through coordination and collaboration among international geochemical data providers by:
-
-- Engaging global communities to create and maintain international standards, vocabularies and best practice documents for geochemical techniques and analytes;
+OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery of, and access to, geochemical data through coordination and collaboration among international geochemical data providers by:\
+<!-- - Engaging global communities to create and maintain international standards, vocabularies and best practice documents for geochemical techniques and analytes;
 
 - Publishing these community-agreed standards, vocabularies and best practices in a format that makes geochemical data globally FAIR and enables direct access and interpretation by machines for computational analysis and modelling; and
 
-- Providing standards and best practice guidelines to record provenance, methodology and a measure of data quality that will enable users to trust, interpret and reuse data.
-
-* Develop internationally endorsed best practices for FAIR geochemical data.
-    + Define requirements for data documentation (method, samples, data quality, etc.)
-* Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
-    + Align with modern technology, e.g. semantic web standards.
-    + Use, where possible, internationally endorsed vocabularies.
+- Providing standards and best practice guidelines to record provenance, methodology and a measure of data quality that will enable users to trust, interpret and reuse data. -->
+Developing internationally endorsed best practices for FAIR geochemical data.\
+Defining requirements for data documentation (method, samples, data quality, etc.)\
+Developing and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\
+Aligning with modern technology, e.g. semantic web standards.\
+Using, where possible, internationally endorsed vocabularies.
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="40%"}
-![](images/codata-logo.png){#fig-1GC-organisation-cloud width=60%}
-\
-\
-\
-\
-
-![The proposed structure for OneGeochemistry; where it receives input for standards and best practices from various stakeholders working with geochemical data. Expert committees within OneGeochemistry formally check and accept these with goal to making them available in machine actionable formats as well as publications in the IUPAC brown book and on the OneGeochemistry webpage as recommendations for the various stakeholders to be implemented.](images/1GC-organisation-cloud.png){#fig-1GC-organisation-cloud width=60%}
+![The proposed structure for OneGeochemistry; where it receives input for standards and best practices from various stakeholders working with geochemical data. Expert committees within OneGeochemistry formally check and accept these with goal to making them available in machine actionable formats as well as publications in the IUPAC brown book and on the OneGeochemistry webpage as recommendations for the various stakeholders to be implemented.](images/1GC-organisation-cloud.png)
+<!-- {#fig-1GC-organisation-cloud width=60%} -->
 :::
 ::::
 
@@ -65,12 +76,21 @@ Secretary: Alexander Prent
 ## The Briefest History of Geochemistry
 **By Lesley Wyborn**
 
+:::: {.columns}
+::: {.column width="75%"}
 Geochemistry emerged as a discipline in its own right around 1838 and since then, acquisition and analysis of geochemical data have become pervasive. Initially geochemical data was acquired using manual ‘wet chemical’ techniques and only major elements and a few trace elements were routinely recorded. Results were reported in typeset tables in publications, and a publication rarely contained data on more than 15 samples. 
 For the first 120 years little changed, but by the 1960’s a technological revolution began to take place in geochemistry: analytical systems became more automated and microanalytical in-situ techniques were progressively developed. The volumes of data generated increased rapidly and the diversity of elements and isotopes analysed soon covered the periodic table: the data tsunami began.
 As more and more automated techniques became available, it became very difficult to share all geochemical data through tables in paper publications, and data was reported in supplementary papers that could only be retrieved through direct contact with the author: the data were no longer part of the publication and were easily and often lost.
 However, as analytical technologies advanced, technologies to store and curate geochemical data over the long term did not keep up with these developments. Even with the emergence of the internet, the global geochemical community was unable to organise data in a way that it could be digitally curated, shared and even repurposed for new use cases.
 In the last 30 years major databases that store geochemical data emerged, and although many did not survive, EarthChem and GEOROC have been sustained over decades and continue to provide valuable online, published geochemical datasets and showcase the potential of harnessing data into authoritative sources to generate new scientific discoveries.
 Today, the Internet can connect multiple globally distributed databases in real-time. We now urgently need to focus on creating the digital standards and agreeing on best practices that will make any online geochemistry dataset Findable, Accessible, Interoperable and Reusable (FAIR) by both humans and machines. The recently formed OneGeochemistry CODATA Working Group is seeking to both harness and harmonise existing groups working towards global data sharing and promulgate best practices and standards. 
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](images/earth-history.jpg)
+:::
+::::
 
 ## OneGeochemistry Articles & Documents
 Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. (2021). Time to change the data culture in geochemistry. Nature Reviews Earth & Environment, 2(11), 737–739. https://doi.org/10.1038/s43017-021-00237-w
