@@ -15,8 +15,8 @@ website:
         file: participate.qmd
       - text: "Best Practices"
         file: best_practices.qmd
-      - text: "About"
-        file: about.qmd
+      - text: "Our Mission"
+        file: our_mission.qmd
 
 # website:
 #   favicon: /images/logo.png

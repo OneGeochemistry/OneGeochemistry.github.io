@@ -48,7 +48,7 @@ Use, where possible, internationally endorsed vocabularies.
 
 ::: {layout=[40,-10,40,-10,40]}
 
-[![<font size="4"> About OneGeochemistry </font>](images/1GC-codata.png)](about.qmd)
+[![<font size="4"> About OneGeochemistry </font>](images/1GC-codata.png)](our_mission.qmd)
 
 [![<font size="4"> Existing Best Practices </font>](images/best-practice.png)](best_practices.qmd)
 
