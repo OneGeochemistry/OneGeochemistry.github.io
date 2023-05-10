@@ -1,7 +1,7 @@
 ---
 title: 'OneGeochemistry'
-title-block-banner: black <!--'#5e9ca3ff' -->
-title-block-banner-color: '#f49819ff'
+# title-block-banner: black <!--'#5e9ca3ff' -->
+# title-block-banner-color: '#f49819ff'
 description-title: building and maintaining consensus-driven data standards for geochemistry
 ---
 
