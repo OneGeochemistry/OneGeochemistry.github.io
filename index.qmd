@@ -29,7 +29,7 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 ::: {.column width="5%"}
 :::
 ::: {.column width="20%"}
-![](images/earth-rise.jpg)
+![](images/earth-rise.png)
 :::
 ::::
 
