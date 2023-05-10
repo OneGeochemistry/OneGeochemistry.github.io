@@ -2,9 +2,11 @@
 title: 'Best Practices'
 ---
 
+Below we compile existing publications of best practices and standards for various data types or subdisciplines of geochemistry. 
+
 ::: {.callout-tip}
 ## Feedback Welcome
-Below we compile existing publications of best practices and standards for various data types or subdisciplines of geochemistry. If you think we have missed something, please get in touch!
+If you think we have missed something, please get in touch via the 'Participate' section!
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}

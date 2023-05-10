@@ -3,7 +3,7 @@ title: 'Participate'
 ---
 
 
-# Various ways to get involved
+## Various ways to get involved
 
 <!-- Putting in a link use [] for the actual link and then () for the text the link applies to -->
 
