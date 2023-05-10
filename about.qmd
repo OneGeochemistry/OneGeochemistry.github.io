@@ -21,13 +21,13 @@ The OneGeochemistry CODATA Working Group’s mission is to advance geoscientific
 
 **Current Members of the Interim Government**
 
-Kerstin Lehnert\
-Lesley Wyborn\
-Marthe Klöcking\
-Kirsten Elger\
-Dominik Hezel\
-Lucia Profeta\
-Angus Nixon\
+Kerstin Lehnert, Astromat, \
+Marthe Klöcking, DIGIS, University Göttingen\
+Kirsten Elger, GFZ Data Services; EPOS Multi-scale laboratories \
+Lesley Wyborn, AuScope Virtual Research Environments \
+Dominik Hezel, NFDI4Earth, Goethe University Frankfurt\
+Lucia Profeta, EarthChem \
+Angus Nixon, AuScope Geochemistry Network \
 Secretary: Alexander Prent
 
 # The Briefest History of Geochemistry
