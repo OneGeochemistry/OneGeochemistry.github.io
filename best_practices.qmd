@@ -6,7 +6,7 @@ Below we compile existing publications of best practices and standards for vario
 
 ::: {.callout-tip}
 ## Feedback Welcome
-If you think we have missed something, please get in touch via the 'Participate' section!
+If you think we have missed something, please get in touch via the *Participate* section.
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
