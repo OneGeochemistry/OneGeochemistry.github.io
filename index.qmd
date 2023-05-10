@@ -21,7 +21,18 @@ description-title: building and maintaining consensus-driven data standards for 
 > *Benjamin Franklin* -->
 
 
-<font size="5">OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.</font>
+<!-- <font size="5">OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.</font> -->
+
+:::: {.columns}
+::: {.column width="75%"}
+OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](images/earth-rise.jpg)
+:::
+::::
 
 ## Goals
 * Develop internationally endorsed best practices for FAIR geochemical data.
