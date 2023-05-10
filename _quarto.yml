@@ -12,7 +12,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Participate"
-        file: get_engaged.qmd
+        file: participate.qmd
       - text: "Best Practices"
         file: best_practices.qmd
       - text: "About"
