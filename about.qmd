@@ -26,7 +26,7 @@ As OneGeochemistry organises collaboration and coordination of data reporting st
 :::
 ::::
 
-## Kicking of OneGeochemistry through a CODATA Working Group (2022-2024)
+## Starting OneGeochemistry
 
 :::: {.columns}
 ::: {.column width="65%"}

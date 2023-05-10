@@ -14,9 +14,6 @@ description-title: building and maintaining consensus-driven data standards for 
 
 [Join our Slack Channel!](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email)\
 
-## OneGeochemistry is Endorsed by
-
-
 ## The OneGeochemistry Goals
 * Develop internationally endorsed best practices for FAIR geochemical data.
     + Define requirements for data documentation (method, samples, data quality, etc.)
@@ -25,34 +22,26 @@ description-title: building and maintaining consensus-driven data standards for 
     + Use, where possible, internationally endorsed vocabularies.
 
 
-
-
-
-\
-
 ::: {layout=[40,-10,40,-10,40]}
 
-[![<font size="4"> About OneGeochemistry </font>](images/1GC-codata.png)](onegeochemistry.qmd)
+[![<font size="4"> About OneGeochemistry </font>](images/1GC-codata.png)](about.qmd)
 
 [![<font size="4"> Existing Best Practices </font>](images/best-practice.png)](best_practices.qmd)
 
-[![<font size="4"> Get Involved</font>](images/help2.jpg)](get_engaged.qmd)
+[![<font size="4"> Get Involved</font>](images/help2.jpg)](participate.qmd)
 :::
 
 
-
-
-## The OneGeochemistry Initiative is Endorsed By
+## OneGeochemistry is Endorsed By
 
 ::: {layout-ncol=5}
 :::
 
 
-## Supporters of OneGeochemistry
+## OneGeochemistry is Supported by
 
 ::: {layout-ncol=5}
 :::
-
 
 AstroMat\
 AuScope\

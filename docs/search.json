@@ -227,15 +227,15 @@
     "objectID": "index.html#onegeochemistry-is-endorsed-by",
     "href": "index.html#onegeochemistry-is-endorsed-by",
     "title": "OneGeochemistry",
-    "section": "OneGeochemistry is Endorsed by",
-    "text": "OneGeochemistry is Endorsed by"
+    "section": "OneGeochemistry is Endorsed By",
+    "text": "OneGeochemistry is Endorsed By"
   },
   {
     "objectID": "index.html#the-onegeochemistry-goals",
     "href": "index.html#the-onegeochemistry-goals",
     "title": "OneGeochemistry",
     "section": "The OneGeochemistry Goals",
-    "text": "The OneGeochemistry Goals\n\nDevelop internationally endorsed best practices for FAIR geochemical data.\n\nDefine requirements for data documentation (method, samples, data quality, etc.)\n\nDevelop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\n\nAlign with modern technology, e.g. semantic web standards.\nUse, where possible, internationally endorsed vocabularies.\n\n\n\n\n\n\n\n\n\n About OneGeochemistry \n\n\n\n \n\n\n\n\n Existing Best Practices \n\n\n\n \n\n\n\n\n Get Involved"
+    "text": "The OneGeochemistry Goals\n\nDevelop internationally endorsed best practices for FAIR geochemical data.\n\nDefine requirements for data documentation (method, samples, data quality, etc.)\n\nDevelop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\n\nAlign with modern technology, e.g. semantic web standards.\nUse, where possible, internationally endorsed vocabularies.\n\n\n\n\n\n\n\n About OneGeochemistry \n\n\n\n \n\n\n\n\n Existing Best Practices \n\n\n\n \n\n\n\n\n Get Involved"
   },
   {
     "objectID": "index.html#the-onegeochemistry-initiative-is-endorsed-by",
@@ -250,5 +250,19 @@
     "title": "OneGeochemistry",
     "section": "Supporters of OneGeochemistry",
     "text": "Supporters of OneGeochemistry\n\n\n\nAstroMat\nAuScope\nCODATA\nDFG\nDIGIS\nEarthChem\nEPOS\nNFDI4Earth\nNSF\nWorldFAIR"
+  },
+  {
+    "objectID": "index.html#onegeochemistry-is-supported-by",
+    "href": "index.html#onegeochemistry-is-supported-by",
+    "title": "OneGeochemistry",
+    "section": "OneGeochemistry is Supported by",
+    "text": "OneGeochemistry is Supported by\n\n\n\nAstroMat\nAuScope\nCODATA\nDFG\nDIGIS\nEarthChem\nEPOS\nNFDI4Earth\nNSF\nWorldFAIR"
+  },
+  {
+    "objectID": "about.html#starting-onegeochemistry",
+    "href": "about.html#starting-onegeochemistry",
+    "title": "About",
+    "section": "Starting OneGeochemistry",
+    "text": "Starting OneGeochemistry\n\n\nAs of December 2022, the OneGeochemistry initiative is acting as the OneGeochemistry CODATA Working Group under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions. Over two years, this Working Group will be utilised to recruit a larger membership base to the initiative that will then be able to vote on a long-term governance structure for OneGeochemistry. The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the OneGeochemistry vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the Participate section.\n\n\n\n\n\n\n\n\nOneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery of, and access to, geochemical data through coordination and collaboration among international geochemical data providers by:\n Developing internationally endorsed best practices for FAIR geochemical data.\nDefining requirements for data documentation (method, samples, data quality, etc.)\nDeveloping and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\nAligning with modern technology, e.g. semantic web standards.\nUsing, where possible, internationally endorsed vocabularies.\n\n\n\n \n\n\nMembers of the Interim Government\nKerstin Lehnert, Astromat,\nMarthe Klöcking, DIGIS, University Göttingen\nKirsten Elger, GFZ Data Services; EPOS Multi-scale laboratories\nLesley Wyborn, AuScope Virtual Research Environments\nDominik Hezel, NFDI4Earth, Goethe University Frankfurt\nLucia Profeta, EarthChem\nAngus Nixon, AuScope Geochemistry Network\nBoard Secretary: Alexander Prent"
   }
 ]
