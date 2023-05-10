@@ -33,13 +33,18 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 :::
 ::::
 
-## Goals
-* Develop internationally endorsed best practices for FAIR geochemical data.
-    + Define requirements for data documentation (method, samples, data quality, etc.)
-* Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
-    + Align with modern technology, e.g. semantic web standards.
-    + Use, where possible, internationally endorsed vocabularies.
+## Our Goals
+Develop internationally endorsed best practices for FAIR geochemical data.
 
+Define requirements for data documentation (method, samples, data quality, etc.)
+
+Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
+
+Align with modern technology, e.g. semantic web standards.
+
+Use, where possible, internationally endorsed vocabularies.
+
+## Find out More
 
 ::: {layout=[40,-10,40,-10,40]}
 
@@ -52,23 +57,7 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 
 
 ## We are Endorsed By
-
-::: {layout-ncol=5}
-:::
-
+![](images/endorsers.png)
 
 ## We are Supported by
-
-::: {layout-ncol=5}
-:::
-
-AstroMat\
-AuScope\
-CODATA\
-DFG\
-DIGIS\
-EarthChem\
-EPOS\
-NFDI4Earth\
-NSF\
-WorldFAIR\
+![](images/supporters.png)

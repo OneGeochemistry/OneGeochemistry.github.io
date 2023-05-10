@@ -270,7 +270,7 @@
     "href": "index.html#goals",
     "title": "OneGeochemistry",
     "section": "Goals",
-    "text": "Goals\n\nDevelop internationally endorsed best practices for FAIR geochemical data.\n\nDefine requirements for data documentation (method, samples, data quality, etc.)\n\nDevelop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\n\nAlign with modern technology, e.g. semantic web standards.\nUse, where possible, internationally endorsed vocabularies.\n\n\n\n\n\n\n\n About OneGeochemistry \n\n\n\n \n\n\n\n\n Existing Best Practices \n\n\n\n \n\n\n\n\n Get Involved"
+    "text": "Goals\nDevelop internationally endorsed best practices for FAIR geochemical data.\nDefine requirements for data documentation (method, samples, data quality, etc.)\nDevelop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\nAlign with modern technology, e.g. semantic web standards.\nUse, where possible, internationally endorsed vocabularies."
   },
   {
     "objectID": "index.html#we-are-endorsed-by",
@@ -284,7 +284,7 @@
     "href": "index.html#we-are-supported-by",
     "title": "OneGeochemistry",
     "section": "We are Supported by",
-    "text": "We are Supported by\n\n\n\nAstroMat\nAuScope\nCODATA\nDFG\nDIGIS\nEarthChem\nEPOS\nNFDI4Earth\nNSF\nWorldFAIR"
+    "text": "We are Supported by"
   },
   {
     "objectID": "participate.html#meet-us-at-the-next-conference",
@@ -292,5 +292,26 @@
     "title": "Participate",
     "section": "Meet us at the next Conference",
     "text": "Meet us at the next Conference\nThe current OneGeochemistry initiative members are actively organising research data sessions, town hall meetings and occasionally host a booth at international conferences such as EGU General Assembly, Goldschmidt and AGU Fall Meeting. It is easy to get in touch with any of us there, please come over for a chat about the initiative.\n\nEGU General Assembly 2023, Vienna (23 April - 28 April)\n\nTown Hall Meeting on Monday 24 April 2023 (Monday, 19.00, Rm 0.96) (link: )\nSession XY with talks xyz\n\nGoldschmidt 2023, Lyon (9 July - 14 July)\n\nSession XY with talks zyz)"
+  },
+  {
+    "objectID": "index.html#find-out-more",
+    "href": "index.html#find-out-more",
+    "title": "OneGeochemistry",
+    "section": "Find out More",
+    "text": "Find out More\n\n\n\n\n\n About OneGeochemistry \n\n\n\n \n\n\n\n\n Existing Best Practices \n\n\n\n \n\n\n\n\n Get Involved"
+  },
+  {
+    "objectID": "index.html#our-goals",
+    "href": "index.html#our-goals",
+    "title": "OneGeochemistry",
+    "section": "Our Goals",
+    "text": "Our Goals\nDevelop internationally endorsed best practices for FAIR geochemical data.\nDefine requirements for data documentation (method, samples, data quality, etc.)\nDevelop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\nAlign with modern technology, e.g. semantic web standards.\nUse, where possible, internationally endorsed vocabularies."
+  },
+  {
+    "objectID": "participate.html#slack-channel-or-email",
+    "href": "participate.html#slack-channel-or-email",
+    "title": "Participate",
+    "section": "Slack Channel or Email",
+    "text": "Slack Channel or Email\nJoin our slack channel for ad-hoc updates and requests from the organisation, it is an open platform where you can share ideas and suggestions. This is the place for low latency messaging and rapid sharing of resources."
   }
 ]
