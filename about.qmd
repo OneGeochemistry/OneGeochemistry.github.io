@@ -93,7 +93,7 @@ Today, the Internet can connect multiple globally distributed databases in real-
 ::::
 
 ## OneGeochemistry Articles & Documents
-Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. (2021). **Time to change the data culture in geochemistry.** Nature Reviews Earth & Environment, 2(11), 737–739. <https://doi.org/10.1038/s43017-021-00237-w>
+Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. 2021. **Time to change the data culture in geochemistry.** Nature Reviews Earth & Environment, 2(11), 737–739. <https://doi.org/10.1038/s43017-021-00237-w>
 
 Klöcking M, Wyborn L, Lehnert KA, Ware B, Prent AM, Profeta L, Kohlmann F, Noble W, Bruno I, Lambart S, Ananuer H, Barber ND, Becker H, Brodbeck M, Deng H, Deng K, Elger K, Franco GdS, Gao Y, Ghasera KM, Hezel DC, Huang J, Kerswell B, Koch H, Lanati AW, Maat Gt, Martínez-Villegas N, Yobo LN, Redaa A, Schäfer W, Swing MR, Taylor RJM, Traun MK, Whelan J, Zhou T 2023. **Community recommendations for geochemical data, services and analytical capabilities in the 21st century.** Geochimica et Cosmochimica Acta (in press) <http://dx.doi.org/10.1016/j.gca.2023.04.024>
 
@@ -117,5 +117,5 @@ Prent AM, Hezel DC, Klöcking M, Wyborn L, Farrington R, Lehnert K, Elger K, Pro
 
 **OneGeochemistry CODATA Working Group – Terms of Reference.** <https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg>
 
-Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C (2021). **Ten simple rules for making a vocabulary FAIR.** PLoS Computational Biology 17(6): e1009041. <https://doi.org/10.1371/journal.pcbi.1009041>
+Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C 2021. **Ten simple rules for making a vocabulary FAIR.** PLoS Computational Biology 17(6): e1009041. <https://doi.org/10.1371/journal.pcbi.1009041>
 
