@@ -5,30 +5,46 @@ project:
 website:
   favicon: /images/logo.png
   title: "OneGeochemistry"
-  # navbar:
-  #   left:
-  #     # - href: index.qmd
-  #     #   text: Home
-  #     - publications.qmd
-  #     - about.qmd
-  sidebar:
-    style: "docked"
+  navbar:
+    background: primary
     search: true
-    contents:
-      - text: "Welcome"
+    left:
+      - text: "Home"
         file: index.qmd
-      - section: "Participate"
-        contents:          
-          - get_engaged.qmd
-          - current activites.qmd
-      - best_practices.qmd
-      # section: "Best Practices"
-        # contents:
-         # - white papers.qmd
-         # - brown book.qmd
-      - about.qmd
-          # - faq.qmd
-  page-footer: "Copyright 2023, OneGeochemistry"
+      - text: "Participate"
+        file: get_engaged.qmd
+      - text: "Best Practices"
+        file: best_practices.qmd
+      - text: "About"
+        file: about.qmd
+
+# website:
+#   favicon: /images/logo.png
+#   title: "OneGeochemistry"
+#   # navbar:
+#   #   left:
+#   #     # - href: index.qmd
+#   #     #   text: Home
+#   #     - publications.qmd
+#   #     - about.qmd
+#   sidebar:
+#     style: "docked"
+#     search: true
+#     contents:
+#       - text: "Welcome"
+#         file: index.qmd
+#       - section: "Participate"
+#         contents:          
+#           - get_engaged.qmd
+#           - current activites.qmd
+#       - best_practices.qmd
+#       # section: "Best Practices"
+#         # contents:
+#          # - white papers.qmd
+#          # - brown book.qmd
+#       - about.qmd
+#           # - faq.qmd
+#   page-footer: "Copyright 2023, OneGeochemistry"
  
 margin-header: |
   ![](/images/logo.png){width=50%}
