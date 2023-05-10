@@ -4,12 +4,23 @@ title: "About"
 
 ## Rationale
 
+:::: {.columns}
+::: {.column width="75%"}
 Geochemical data have applications in many disciplines including geology, cosmology, environment, resources (groundwater, minerals, energy), geohealth, ocean and agriculture. As such, geochemical data play an important role in at least six of the United Nations Sustainable Development Goals. To support these disciplines and goals, there is a growing need to provide advice and support the implementation of data quality assurance/quality control (QA/QC) validation methods for laboratories, repositories, publishers and policy makers. When provenance, methodology and a measure of data quality are consistently documented others will be enabled to trust, interpret and reuse data. In enabling and simplifying the (re)use of geochemical data, OneGeochemistry will help to facilitate acceleration of the generation of new geoscientific knowledge and discoveries.
 
 As OneGeochemistry organises collaboration and coordination of data reporting standardisation efforts that are non-unique across the diverse geochemistry communities, this initiative fills a niche previously unoccupied. Standardisation efforts have always focused on national, programmatic or less centralised levels. The formalisation of OneGeochemistry and endorsement by societies and associations will enable the initiative to develop and promote influential, community-driven data conventions and best practices necessary to build a global network of high-quality, trusted geochemical data. These actions will enable FAIRer geochemical data, simplifying data (re)use which will both contribute to many UN Sustainable Development goals and accelerate the generation of new geoscientific knowledge and discoveries.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="20%"}
+![](images/earth-data.jpg)
+:::
+::::
 
 ## Kicking of OneGeochemistry through a CODATA Working Group (2022-2024)
 
+:::: {.columns}
+::: {.column width="55%"}
 As of December 2022, the OneGeochemistry (@fig-1GC-organisation-cloud) initiative is acting as the OneGeochemistry CODATA Working Group under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions. Over two years, this Working Group will be utilised to recruit a larger membership base to the initiative that will then be able to vote on a long-term governance structure for OneGeochemistry. The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the OneGeochemistry vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the 'Participate' section.
 
 OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery of, and access to, geochemical data through coordination and collaboration among international geochemical data providers by:
@@ -25,8 +36,20 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 * Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
     + Align with modern technology, e.g. semantic web standards.
     + Use, where possible, internationally endorsed vocabularies.
+:::
+::: {.column width="5%"}
+:::
+::: {.column width="40%"}
+![](images/codata-logo.png){#fig-1GC-organisation-cloud width=60%}
+\
+\
+\
+\
 
 ![The proposed structure for OneGeochemistry; where it receives input for standards and best practices from various stakeholders working with geochemical data. Expert committees within OneGeochemistry formally check and accept these with goal to making them available in machine actionable formats as well as publications in the IUPAC brown book and on the OneGeochemistry webpage as recommendations for the various stakeholders to be implemented.](images/1GC-organisation-cloud.png){#fig-1GC-organisation-cloud width=60%}
+:::
+::::
+
 
 **Members of the Interim Government**
 
