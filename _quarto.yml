@@ -26,11 +26,7 @@ website:
         # contents:
          # - white papers.qmd
          # - brown book.qmd
-      - section: 'About'
-        contents:
-          - onegeochemistry.qmd
-          - publications.qmd
-          - history.qmd
+      - about.qmd
           # - faq.qmd
   page-footer: "Copyright 2023, OneGeochemistry"
  
