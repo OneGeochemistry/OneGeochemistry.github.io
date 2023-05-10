@@ -11,10 +11,7 @@ description-title: building and maintaining consensus-driven data standards for 
 
 <font size="5">OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.</font>
 
-
-[Join our Slack Channel!](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email)\
-
-## The OneGeochemistry Goals
+## Goals
 * Develop internationally endorsed best practices for FAIR geochemical data.
     + Define requirements for data documentation (method, samples, data quality, etc.)
 * Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
