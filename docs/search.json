@@ -271,5 +271,19 @@
     "title": "OneGeochemistry",
     "section": "Goals",
     "text": "Goals\n\nDevelop internationally endorsed best practices for FAIR geochemical data.\n\nDefine requirements for data documentation (method, samples, data quality, etc.)\n\nDevelop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.\n\nAlign with modern technology, e.g. semantic web standards.\nUse, where possible, internationally endorsed vocabularies.\n\n\n\n\n\n\n\n About OneGeochemistry \n\n\n\n \n\n\n\n\n Existing Best Practices \n\n\n\n \n\n\n\n\n Get Involved"
+  },
+  {
+    "objectID": "index.html#we-are-endorsed-by",
+    "href": "index.html#we-are-endorsed-by",
+    "title": "OneGeochemistry",
+    "section": "We are Endorsed By",
+    "text": "We are Endorsed By"
+  },
+  {
+    "objectID": "index.html#we-are-supported-by",
+    "href": "index.html#we-are-supported-by",
+    "title": "OneGeochemistry",
+    "section": "We are Supported by",
+    "text": "We are Supported by\n\n\n\nAstroMat\nAuScope\nCODATA\nDFG\nDIGIS\nEarthChem\nEPOS\nNFDI4Earth\nNSF\nWorldFAIR"
   }
 ]

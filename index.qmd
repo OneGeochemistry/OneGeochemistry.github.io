@@ -5,8 +5,20 @@ title: 'OneGeochemistry'
 description-title: building and maintaining consensus-driven data standards for geochemistry
 ---
 
-> <font size="5">**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.**</font>\
-> *Benjamin Franklin*
+:::: {.columns}
+::: {.column width="12%"}
+![](images/benjamin-franklin.png)
+:::
+::: {.column width="2%"}
+:::
+::: {.column width="86%"}
+**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.**\
+*Benjamin Franklin*
+:::
+::::
+
+<!-- > <font size="5">**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.**</font>\
+> *Benjamin Franklin* -->
 
 
 <font size="5">OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes discovery and access of geochemical data through coordination and collaboration among international geochemical data providers.</font>
@@ -29,13 +41,13 @@ description-title: building and maintaining consensus-driven data standards for 
 :::
 
 
-## OneGeochemistry is Endorsed By
+## We are Endorsed By
 
 ::: {layout-ncol=5}
 :::
 
 
-## OneGeochemistry is Supported by
+## We are Supported by
 
 ::: {layout-ncol=5}
 :::
