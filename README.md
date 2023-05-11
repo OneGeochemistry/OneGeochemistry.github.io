@@ -1,1 +1,1 @@
-This contains the files for the # OneGeochemistry.github.io webpage. 
+This repoe contains the files for the OneGeochemistry.github.io webpage. 
