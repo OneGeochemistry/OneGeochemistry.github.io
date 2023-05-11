@@ -2,11 +2,11 @@
 title: 'Best Practices'
 ---
 
-Below we compile existing publications of best practices and standards for various data types or subdisciplines of geochemistry. 
+Data standardisation begins with community agreement on how to describe analytical data. Below we compile existing publications of best practices and standards for various data types or subdisciplines of geochemistry.
 
 ::: {.callout-tip}
 ## Feedback Welcome
-If you think we have missed something, please get in touch via the *Participate* section.
+If you think we have missed something, please [get in touch](participate.qmd)!
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
