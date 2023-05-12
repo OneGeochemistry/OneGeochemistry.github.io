@@ -30,7 +30,7 @@ As OneGeochemistry organises collaboration and coordination of data reporting st
 
 :::: {.columns}
 ::: {.column width="65%"}
-As of December 2022, the OneGeochemistry initiative is acting as the OneGeochemistry CODATA Working Group under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions. Over two years, this Working Group will be utilised to recruit a larger membership base to the initiative that will then be able to vote on a long-term governance structure for OneGeochemistry. The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the OneGeochemistry vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the *Participate* section.
+As of December 2022, the OneGeochemistry initiative is acting as the OneGeochemistry **OneGeochemistry CODATA Working Group – Terms of Reference.** <https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg> CODATA Working Group under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions. Over two years, this Working Group will be utilised to recruit a larger membership base to the initiative that will then be able to vote on a long-term governance structure for OneGeochemistry. The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the OneGeochemistry vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the *Participate* section.
 :::
 ::: {.column width="5%"}
 :::
@@ -62,7 +62,7 @@ Using, where possible, internationally endorsed vocabularies.
 ::::
 
 
-**Members of the Interim Government**
+## Team
 
 Kerstin Lehnert, Astromat, \
 Marthe Klöcking, DIGIS, University Göttingen\
@@ -73,6 +73,7 @@ Lucia Profeta, EarthChem \
 Angus Nixon, AuScope Geochemistry Network \
 *Board Secretary: Alexander Prent*
 
+x
 ## The Briefest History of Geochemistry
 **By Lesley Wyborn**
 
@@ -92,10 +93,8 @@ Today, the Internet can connect multiple globally distributed databases in real-
 :::
 ::::
 
-## OneGeochemistry Articles & Documents
+## Recommended Reading
 Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G. 2021. **Time to change the data culture in geochemistry.** Nature Reviews Earth & Environment, 2(11), 737–739. <https://doi.org/10.1038/s43017-021-00237-w>
-
-Klöcking M, Wyborn L, Lehnert KA, Ware B, Prent AM, Profeta L, Kohlmann F, Noble W, Bruno I, Lambart S, Ananuer H, Barber ND, Becker H, Brodbeck M, Deng H, Deng K, Elger K, Franco GdS, Gao Y, Ghasera KM, Hezel DC, Huang J, Kerswell B, Koch H, Lanati AW, Maat Gt, Martínez-Villegas N, Yobo LN, Redaa A, Schäfer W, Swing MR, Taylor RJM, Traun MK, Whelan J, Zhou T 2023. **Community recommendations for geochemical data, services and analytical capabilities in the 21st century.** Geochimica et Cosmochimica Acta (in press) <http://dx.doi.org/10.1016/j.gca.2023.04.024>
 
 Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolution and the geological data deficit.** Environmental Geology,53(6), 1377-1380. <http://dx.doi.org/10.1007/s00254-007-1085-z>
 
@@ -111,11 +110,14 @@ Stall, S., Yarmey, L., Cutcher-Gershenfeld, J., Hanson, B, Lehnert, K., Nosek, B
 
 Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., … Mons, B., 2016. **The FAIR Guiding Principles for scientific data management and stewardship.** In Scientific Data 3, 1, <https://doi.org/10.1038/sdata.2016.18>
 
+Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C 2021. **Ten simple rules for making a vocabulary FAIR.** PLoS Computational Biology 17(6): e1009041. <https://doi.org/10.1371/journal.pcbi.1009041>
+
+
+## OneGeochemistry Articles & Documents
+Pivotal articles and documents below. Addtional technical papers and the like can be found on our Zenodo community.
+
+Klöcking M, Wyborn L, Lehnert KA, Ware B, Prent AM, Profeta L, Kohlmann F, Noble W, Bruno I, Lambart S, Ananuer H, Barber ND, Becker H, Brodbeck M, Deng H, Deng K, Elger K, Franco GdS, Gao Y, Ghasera KM, Hezel DC, Huang J, Kerswell B, Koch H, Lanati AW, Maat Gt, Martínez-Villegas N, Yobo LN, Redaa A, Schäfer W, Swing MR, Taylor RJM, Traun MK, Whelan J, Zhou T 2023. **Community recommendations for geochemical data, services and analytical capabilities in the 21st century.** Geochimica et Cosmochimica Acta (in press) <http://dx.doi.org/10.1016/j.gca.2023.04.024>
+
 Lehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alexander, ter Maat, Geertje, & Hezel, Dominik C. (2022). **OneGeochemistry Interim Governance.** Zenodo. <https://doi.org/10.5281/zenodo.6566075>
 
 Prent AM, Hezel DC, Klöcking M, Wyborn L, Farrington R, Lehnert K, Elger K, Profeta L 2023. **Innovating and networking global geochemical data resources through OneGeochemistry.** Elements (in press)
-
-**OneGeochemistry CODATA Working Group – Terms of Reference.** <https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg>
-
-Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C 2021. **Ten simple rules for making a vocabulary FAIR.** PLoS Computational Biology 17(6): e1009041. <https://doi.org/10.1371/journal.pcbi.1009041>
-
