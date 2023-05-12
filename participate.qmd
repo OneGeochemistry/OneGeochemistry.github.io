@@ -57,6 +57,8 @@ A group of geochemists who are experts on a specific geochemical data type and o
 **Technical expert committee:**
 A group of information technology experts who implement the recommended best practices in machine-readable format.
 
+**Test Of Elements paper last Paragraph**
+The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the introductory vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the OneGeochemistry website on www.onegeochemistry.org. Please join OneGeochemistry using the above mentioned channels or by getting in touch with Alexander Prent on onegeochemistry@codata.org.
 
 <!-- ### Become a Member
 
