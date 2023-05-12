@@ -47,7 +47,7 @@ OneGeochemistry is still developing and we want your input in designing the futu
 ### Meet us at the next Conference
 :::: {.columns}
 ::: {.column width="15%"}
-![](images/conference-2.png)
+![](images/conference.png)
 :::
 ::: {.column width="3%"}
 :::
