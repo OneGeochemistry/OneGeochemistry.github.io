@@ -26,6 +26,19 @@ As OneGeochemistry organises collaboration and coordination of data reporting st
 :::
 ::::
 
+## Our Goals
+Develop internationally endorsed best practices for FAIR geochemical data.
+
+Define requirements for data documentation (method, samples, data quality, etc.)
+
+Develop and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
+
+Align with modern technology, e.g. semantic web standards.
+
+Use, where possible, internationally endorsed vocabularies.
+
+
+
 ## Starting OneGeochemistry
 
 :::: {.columns}
