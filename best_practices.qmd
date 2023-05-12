@@ -2,7 +2,7 @@
 title: 'Best Practices'
 ---
 
-Data standardisation begins with community agreement on how to describe analytical data. Below we compile existing publications of best practices and standards for various data types or subdisciplines of geochemistry.
+The way geochemical data are reported varies accross and within geochemistry communities. Advice and best practice publications do exist to help standarise the way data is reported, supporting re-producibility and interoperability. Please have a look at the list of publications below and use the appropriate one(s) as a guide to format your data as well as a guide to which additional metadata you should include in your (data) publication. There are papers on argon geochronology, uranium-lead geochronology or more generalized papers on how to consicely describe a sample in order for it to be reusable by future researchers.
 
 ::: {.callout-tip}
 ## Feedback Welcome
