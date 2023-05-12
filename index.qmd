@@ -43,7 +43,7 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 
 ::: {layout=[40,-10,40,-10,40]}
 
-[![<font size="4"> About Our Mission </font>](images/logo.png)](our_mission.qmd)
+[![<font size="4"> Our Mission </font>](images/logo.png)](our_mission.qmd)
 
 [![<font size="4"> Existing Best Practices </font>](images/best-practice2.jpg)](best_practices.qmd)
 
@@ -51,8 +51,11 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 :::
 
 
-## We are Endorsed By
+## Endorsed by
+The following international geo- and cosmochemical societies have endorsed OneGeochemistry as the trusted international initiative tasked with bringing together the community and coordinate global efforts in geochemical data standardisation.
+<!--Their endorsement will help disseminate the goals and activities of OneGeochemistry to a broad membership throughout the geochemical sub-disciplines, and increase participation in the initiative. Additional national and/or sub-disciplinary societies will be contacted in the future and the OneGeochemistry board invites suggestions and recommendations from the community.-->
 ![](images/endorsers.png)
 
-## We are Supported by
-![](images/supporters.png)
+## Supported by
+Predominantly a voluntary effort, the OneGeochemistry initiative is currently run through a working group of the International Science Council’s Committee on DATA (CODATA) and receives a small amount of funding through the Horizon Europe project 'WorldFAIR' and from AuScope. Most OneGeochemistry activities are directly supported by the participating national and international data systems.
+![](images/supporters_v2.png)

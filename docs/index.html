@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.3.302">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -75,29 +75,31 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">OneGeochemistry</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./participate.html">
+    <a class="nav-link" href="./participate.html" rel="" target="">
  <span class="menu-text">Participate</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./best_practices.html">
+    <a class="nav-link" href="./best_practices.html" rel="" target="">
  <span class="menu-text">Best Practices</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./our_mission.html">
+    <a class="nav-link" href="./our_mission.html" rel="" target="">
  <span class="menu-text">Our Mission</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -114,8 +116,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#find-out-more" id="toc-find-out-more" class="nav-link active" data-scroll-target="#find-out-more">Find out More</a></li>
-  <li><a href="#we-are-endorsed-by" id="toc-we-are-endorsed-by" class="nav-link" data-scroll-target="#we-are-endorsed-by">We are Endorsed By</a></li>
-  <li><a href="#we-are-supported-by" id="toc-we-are-supported-by" class="nav-link" data-scroll-target="#we-are-supported-by">We are Supported by</a></li>
+  <li><a href="#endorsed-by" id="toc-endorsed-by" class="nav-link" data-scroll-target="#endorsed-by">Endorsed by</a></li>
+  <li><a href="#supported-by" id="toc-supported-by" class="nav-link" data-scroll-target="#supported-by">Supported by</a></li>
   </ul>
 </nav>
     </div>
@@ -169,7 +171,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-figure quarto-figure-center" style="flex-basis: 28.6%;justify-content: center;">
 <figure class="figure">
 <p><a href="./our_mission.html"><img src="images/logo.png" class="img-fluid figure-img"></a></p>
-<p></p><figcaption class="figure-caption"><font size="4"> About Our Mission </font></figcaption><p></p>
+<p></p><figcaption class="figure-caption"><font size="4"> Our Mission </font></figcaption><p></p>
 </figure>
 </div>
 <div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 7.1%;justify-content: center;">
@@ -193,13 +195,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="we-are-endorsed-by" class="level2">
-<h2 class="anchored" data-anchor-id="we-are-endorsed-by">We are Endorsed By</h2>
-<p><img src="images/endorsers.png" class="img-fluid"></p>
+<section id="endorsed-by" class="level2">
+<h2 class="anchored" data-anchor-id="endorsed-by">Endorsed by</h2>
+<p>The following international geo- and cosmochemical societies have endorsed OneGeochemistry as the trusted international initiative tasked with bringing together the community and coordinate global efforts in geochemical data standardisation. <!--Their endorsement will help disseminate the goals and activities of OneGeochemistry to a broad membership throughout the geochemical sub-disciplines, and increase participation in the initiative. Additional national and/or sub-disciplinary societies will be contacted in the future and the OneGeochemistry board invites suggestions and recommendations from the community.--> <img src="images/endorsers.png" class="img-fluid"></p>
 </section>
-<section id="we-are-supported-by" class="level2">
-<h2 class="anchored" data-anchor-id="we-are-supported-by">We are Supported by</h2>
-<p><img src="images/supporters.png" class="img-fluid"></p>
+<section id="supported-by" class="level2">
+<h2 class="anchored" data-anchor-id="supported-by">Supported by</h2>
+<p>Predominantly a voluntary effort, the OneGeochemistry initiative is currently run through a working group of the International Science Council’s Committee on DATA (CODATA) and receives a small amount of funding through the Horizon Europe project ‘WorldFAIR’ and from AuScope. Most OneGeochemistry activities are directly supported by the participating national and international data systems. <img src="images/supporters_v2.png" class="img-fluid"></p>
 
 
 </section>
@@ -232,9 +234,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -299,6 +315,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
