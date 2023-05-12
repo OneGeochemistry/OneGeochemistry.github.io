@@ -75,7 +75,7 @@ Send your questions, comments and ideas to the current OneGeochemistry secretary
 ### Become a OneGeochemistry Ambassador
 :::: {.columns}
 ::: {.column width="15%"}
-![](images/ambassador.png){width=100%}
+![](images/ambassador.png){width=80%}
 :::
 ::: {.column width="3%"}
 :::
