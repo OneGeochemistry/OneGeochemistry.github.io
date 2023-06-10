@@ -9,7 +9,7 @@ title: 'Participate'
 ::: {.column width="5%"}
 :::
 ::: {.column width="75%"}
-OneGeochemistry is an initiative for the community by the community. The OneGeochemistry initiative is a voluntary effort supported by a part time funded coordinator and only works with through the involvement of the community, your involvement.
+OneGeochemistry is an initiative for the community by the community. The OneGeochemistry initiative is a voluntary effort supported by a part time funded coordinator and relies on the involvement of the community: your involvement.
 
 OneGeochemistry aims to become an organisation that coordinates across all geo- and cosmochemical data types, both supporting existing community standards as well as facilitating the development of new ones where needed.
 :::
@@ -17,18 +17,23 @@ OneGeochemistry aims to become an organisation that coordinates across all geo- 
 
 
 ## Ways to get involved
-:::: {.columns}
+<!-- :::: {.columns}
 ::: {.column width="15%"}
 ![](images/get-involved.png)
 :::
 ::: {.column width="3%"}
 :::
 ::: {.column width="82%"}
-Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an ambassador, joining or starting an expert committee to help with the development of digital best practices. Just want to keep informed? Then join the Slack channel and/or email list.
+Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an [ambassador](participate.qmd#become-a-onegeochemistry-ambassador), joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then [join the Slack channel](participate.qmd#newsletter) and/or email list.
 
 OneGeochemistry is still developing and we want your input in designing the future of the initiative! We are planning a community workshop in mid 2024 where you can shape the future of OneGeochemistry, vote for the next governance board and perhaps even put yourself up for election. More details to follow.
 :::
-::::
+:::: --->
+
+Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an [ambassador](participate.qmd#become-a-onegeochemistry-ambassador), joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then [join the Slack channel](participate.qmd#newsletter) and/or email list.
+
+OneGeochemistry is still developing and we want your input in designing the future of the initiative! We are planning a community workshop in mid 2024 where you can shape the future of OneGeochemistry, vote for the next governance board and perhaps even put yourself up for election. More details to follow.
+
 
 
 ### Newsletter
@@ -39,7 +44,7 @@ OneGeochemistry is still developing and we want your input in designing the futu
 ::: {.column width="3%"}
 :::
 ::: {.column width="82%"}
-[Join our slack channel](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email) for ad-hoc updates and requests from the organisation, it is an open platform where you can share ideas and suggestions. This is the place for low latency messaging and rapid sharing of resources.
+[Join our Slack channel](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email) for ad-hoc updates and requests from the organisation, it is an open platform where you can share ideas and suggestions. This is the place for low latency messaging and rapid sharing of resources.
 :::
 ::::
 
@@ -47,12 +52,12 @@ OneGeochemistry is still developing and we want your input in designing the futu
 ### Meet us at the next Conference
 :::: {.columns}
 ::: {.column width="15%"}
-![](images/conference-2.png)
+![](images/conference.png)
 :::
 ::: {.column width="3%"}
 :::
 ::: {.column width="82%"}
-OneGeochemistry is represented at most of the major, international geoscience and geochemistry conferences. Find out more about the initiative and meet the current members: it is easy to get in touch with any of us there, please come over for a chat about the initiative. See the [conference calendar](participate.qmd#conference-calendar) below for upcoming events near you.
+OneGeochemistry is represented at most of the major, international geoscience and geochemistry conferences. Find out more about the initiative and meet the current members: it is easy to get in touch with any of us there, please come over for a chat about the initiative. See the [conference calendar](participate.qmd#conference-calendar) below for upcoming events.
 :::
 ::::
 
@@ -95,12 +100,12 @@ Get in touch at [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org)
 ::: {.column width="3%"}
 :::
 ::: {.column width="82%"}
-Multiple best practices and recommendations for specific data types, analytical techniques or sub-disciplines have already been defined (see [Best Practices](best_practices.qmd)). The larger the size of the community that agrees and commits to a particular standard, the larger the community that can share and reuse data, particularly in machine-to-machine environments. OneGeochemistry provides the framework and support to harmonise and curate these existing standards through a number of expert committees.
+Multiple best practices and recommendations for specific data types, analytical techniques or sub-disciplines have already been defined (see [Best Practices](best_practices.qmd)). The larger the size of the community that agrees and commits to a particular standard, the larger the community that can share and reuse data, particularly in machine-to-machine environments. OneGeochemistry provides the framework and support to harmonise and curate these existing standards through expert committees.
 
 The task of these expert committees would be to compile and further develop standards for each distinct analytical technique or related groups of analytical methods. We suggest two types of committees:
 
 **Scientific expert committees:**
-A group of geochemists who are experts on a specific geochemical data type and or methodology review, harmonise and aggregate existing best practices (e.g. metadata profiles, vocabularies).
+A group of geochemistry experts who review, harmonise and aggregate existing best practices for a specific geochemical data type and/or methodology (e.g. metadata profiles, vocabularies).
 
 **Technical expert committee:**
 A group of information technology experts who implement the recommended best practices in machine-readable format.
@@ -129,7 +134,7 @@ Making geochemical data more standardised and interoperable between institutions
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Name    |
 |    -----    | ---- | ---- | ----------- |
-|    Goldschmidt 2023    |    9-14 July 2023   |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Session/5007)    |
+|    Goldschmidt 2023    |    9-14 Jul 2023   |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Session/5007)    |
 |        |       |    Session    |    [6m - Data science techniques (ML, data analytics) for planetary science data: exploiting legacy geochemical data and optimizing future planetary missions](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Symposium/382)    |
 |        |       |    Poster    |    [Basis for geochemistry data science applications; data standardisation through the OneGeochemistry initiative](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Paper/20761)    |
 |        |       |    Talk    |    [How Historically the Technological Advances in Geochemical Analysis Exceeded our Ability to Store, Curate and Globally Share Geochemical Data](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Paper/19570)    |

@@ -2,7 +2,9 @@
 title: 'Best Practices'
 ---
 
-The way geochemical data are reported varies accross and within geochemistry communities. Advice and best practice publications do exist to help standarise the way data is reported, supporting re-producibility and interoperability. Please have a look at the list of publications below and use the appropriate one(s) as a guide to format your data as well as a guide to which additional metadata you should include in your (data) publication. There are papers on argon geochronology, uranium-lead geochronology or more generalized papers on how to consicely describe a sample in order for it to be reusable by future researchers.
+The format in which geochemical data are reported varies widely across the geochemistry community. Here we compile best practice publications that help standardise the way data are reported, supporting reproducibility and interoperability.
+
+Please have a look at the list of publications below and use the appropriate one(s) as a guide to format your data as well as a guide to which additional metadata should be included in your (data) publication. There are recommendations for **isotope ratio and chemical data** in general, **argon geochronology**, **uranium-lead geochronology**, more generalised papers on **how to concisely describe a sample** in order for it to be reusable by future researchers, and more.
 
 ::: {.callout-tip}
 ## Feedback Welcome
