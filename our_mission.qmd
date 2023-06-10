@@ -76,10 +76,13 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 ::: {.column width="5%"}
 :::
 ::: {.column width="30%"}
-![The proposed structure for OneGeochemistry; where it receives input for standards and best practices from various stakeholders working with geochemical data. Expert committees within OneGeochemistry formally check and accept these with goal to making them available in machine actionable formats as well as publications in the IUPAC brown book and on the OneGeochemistry webpage as recommendations for the various stakeholders to be implemented.](images/1GC-organisation-cloud.png)
+<!-- ![The proposed structure for OneGeochemistry; where it receives input for standards and best practices from various stakeholders working with geochemical data. Expert committees within OneGeochemistry formally check and accept these with goal to making them available in machine actionable formats as well as publications in the IUPAC brown book and on the OneGeochemistry webpage as recommendations for the various stakeholders to be implemented.](images/1GC-organisation-cloud.png) -->
 <!-- {#fig-1GC-organisation-cloud width=60%} -->
 :::
 ::::
+
+![The proposed structure for OneGeochemistry; where it receives input for standards and best practices from various stakeholders working with geochemical data. Expert committees within OneGeochemistry formally check and accept these with goal to making them available in machine actionable formats as well as publications in the IUPAC brown book and on the OneGeochemistry webpage as recommendations for the various stakeholders to be implemented.](images/1GC-organisation-cloud.png)
+
 - Developing internationally endorsed best practices for FAIR geochemical data.
 - Defining requirements for data documentation (method, samples, data quality, etc.).
 - Developing and implement interoperability standards for geochemical data to enable machine-to-machine exchange and integration of geochemical data.
