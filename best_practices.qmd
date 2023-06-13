@@ -1,6 +1,9 @@
 ---
 title: 'Best Practices'
 ---
+It is important to adhere to best practices to ensure that your data is formatted in a standard manner that can be easily understood and processed. By following the appropriate best practice from the list below, you can create data that is standardized and easily accessible, which can be crucial for successful analysis and decision-making. Have a look at the list below and familiarize yourself with these best practices in order to apply them to your data formatting efforts.
+
+Below best practices are grouped by publications on **ensuring quality, repositories, samples, rock type, methods, vision, generic isotopes, chronology and paleoclimate**.
 
 The format in which geochemical data are reported varies widely across the geochemistry community. Here we compile best practice publications that help standardise the way data are reported, supporting reproducibility and interoperability.
 
@@ -11,6 +14,17 @@ Please have a look at the list of publications below and use the appropriate one
 If you think we have missed something, please [get in touch](participate.qmd)!
 :::
 
+::: {.callout-tip}
+##Ensuring Quality
+{.callout-note appearance="simple" collapse="true"}
+## Peng et al. 2022. Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets.
+
+Open-source science builds on open and free resources that include data, metadata, software, and workflows. Informed decisions on whether and how to (re)use digital datasets are dependent on an understanding about the quality of the underpinning data and relevant information. However, quality information, being difficult to curate and often context specific, is currently not readily available for sharing within and across disciplines. To help address this challenge and promote the creation and (re)use of freely and openly shared information about the quality of individual datasets, members of several groups around the world have undertaken an effort to develop international community guidelines with practical recommendations for the Earth science community, collaborating with international domain experts. The guidelines were inspired by the guiding principles of being findable, accessible, interoperable, and reusable (FAIR). Use of the FAIR dataset quality information guidelines is intended to help stakeholders, such as scientific data centers, digital data repositories, and producers, publishers, stewards and managers of data, to: i) capture, describe, and represent quality information of their datasets in a manner that is consistent with the FAIR Guiding Principles; ii) allow for the maximum discovery, trust, sharing, and reuse of their datasets; and iii) enable international access to and integration of dataset quality information. This article describes the processes that developed the guidelines that are aligned with the FAIR principles, presents a generic quality assessment workflow, describes the guidelines for preparing and disseminating dataset quality information, and outlines a path forward to improve their disciplinary diversity.
+
+Peng, G., Lacagnina, C., Downs, R.R., Ganske, A., Ramapriyan, H.K., Ivánová, I., Wyborn, L., Jones, D., Bastin, L., Shie, C., Moroni, D.F., 2022. **Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets.** Data Science Journal 21 (1), 8. <https://doi.org/10.5334/dsj-2022-008>
+:::
+
+----------------------------------------------------------------------
 :::{.callout-note appearance="simple" collapse="true"}
 ## Abbott+ 2022. Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis.
 Tephra is a unique volcanic product with an unparalleled role in understanding past eruptions, long-term behavior of volcanoes, and the effects of volcanism on climate and the environment. Tephra deposits also provide spatially widespread, extremely high-resolution time-stratigraphic markers across a range of sedimentary settings and are used in a range of disciplines (e.g., volcanology, climate science, archaeology, ecology, and impact assessment). Nonetheless, the study of tephra deposits is challenged by a lack of standardization that often inhibits data integration across geographic regions and across disciplines.
