@@ -1,7 +1,5 @@
 ---
 title: 'OneGeochemistry'
-# title-block-banner: black <!--'#5e9ca3ff' -->
-# title-block-banner-color: '#f49819ff'
 description-title: building and maintaining consensus-driven data standards for geochemistry
 ---
 
@@ -39,7 +37,7 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 
 
 
-## Find out More
+## Find out More {#sec-test}
 
 ::: {layout=[40,-10,40,-10,40]}
 
@@ -50,6 +48,7 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 [![<font size="4"> Get Involved</font>](images/help.png)](participate.qmd)
 :::
 
+[Conference Calender with OneGeochemistry involvement](https://onegeochemistry.github.io/participate.html#conference-calendar)
 
 ## Endorsed by
 The following international geo- and cosmochemical societies have endorsed OneGeochemistry as the trusted international initiative tasked with bringing together the community and coordinate global efforts in geochemical data standardisation.

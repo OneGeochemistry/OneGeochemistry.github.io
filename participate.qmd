@@ -128,7 +128,7 @@ Data infrastructure organisations, or groups as well as laboratories and institu
 
 Making geochemical data more standardised and interoperable between institutions and nations **creating a global network of geochemical data resources**. -->
 
-## Conference Calendar
+## Conference Calendar {#sec-calendar}
 
 :::{.callout-note appearance="simple"}
 ## Upcoming Events
