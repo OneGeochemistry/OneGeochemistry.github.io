@@ -18,8 +18,8 @@ website:
       - text: "Our Mission"
         file: our_mission.qmd
 
-resources:
-  - CNAME
+#resources:
+#  - CNAME
 
 # website:
 #   favicon: /images/logo.png
