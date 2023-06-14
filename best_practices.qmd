@@ -24,6 +24,13 @@ Open-source science builds on open and free resources that include data, metadat
 Peng, G., Lacagnina, C., Downs, R.R., Ganske, A., Ramapriyan, H.K., Ivánová, I., Wyborn, L., Jones, D., Bastin, L., Shie, C., Moroni, D.F., 2022. **Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets.** Data Science Journal 21 (1), 8. <https://doi.org/10.5334/dsj-2022-008>
 :::
 
+:::{.callout-note appearance="simple" collapse="true"}
+## Staudigel+ 2003. Electronic data publication in geochemistry.
+
+Many disciplines of geochemistry have no data reporting standards, and their use of metadata is inadequately developed. This presents problems to the quality of the published science, and it limits the utility of computers in data analysis and the exploitation of Information Technology (IT). We discuss problems of data and metadata publication, in particular for geochemistry, and offer solutions to these problems in the form of consistent data publication formats and a proposal for publication of metadata in geochemistry. Metadata are grouped according to types (location, sampling, characterization), and this grouping allows for the transfer of these formats to other Earth science disciplines. In a companion paper [Helly et al., 2003], we illustrate how these metadata groupings can be used in an IT context. Formats presented here are comprehensive and allow for modification and expansion. It is the hope of the authors that this paper initiates a constructive discussion of data formats and metadata in geochemistry. The most recent contributions to this discussion may be found at http:\\earthref.org\metadata\GERM\.
+
+Staudigel, H., Helly, J., Koppers, A. A. P., Shaw, H. F., McDonough, W. F., Hofmann, A. W., Langmuir, C. H., Lehnert, K., Sarbas, B., Derry, L. A., & Zindler, A. (2003). **Electronic data publication in geochemistry.**. Geochemistry, Geophysics, Geosystems, 4(3). https://doi.org/10.1029/2002GC000314
+:::
 
 ## Repositories
 ::: {.callout-note appearance="simple" collapse="true"}
