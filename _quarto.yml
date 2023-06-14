@@ -18,6 +18,9 @@ website:
       - text: "Our Mission"
         file: our_mission.qmd
 
+resources:
+  - CNAME
+
 # website:
 #   favicon: /images/logo.png
 #   title: "OneGeochemistry"
