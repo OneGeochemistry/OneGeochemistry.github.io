@@ -71,14 +71,6 @@ Many disciplines of geochemistry have no data reporting standards, and their use
 Staudigel, H., Helly, J., Koppers, A. A. P., Shaw, H. F., McDonough, W. F., Hofmann, A. W., Langmuir, C. H., Lehnert, K., Sarbas, B., Derry, L. A., & Zindler, A., 2003. **Electronic data publication in geochemistry.** Geochemistry, Geophysics, Geosystems, 4(3). <https://doi.org/10.1029/2002GC000314>
 :::
 
-:::{.callout-note appearance="simple" collapse="true"}
-## Wyborn+ 2018. A modular approach to developing interdisciplinary, interoperable standards for geochemical data based on the Semantic Sensor Network (SSN) Ontology.
-
-Interoperability across multiple scientific disciplines has generally had limited success, as most standards are specific to a single community or discipline. However, many components of scientific data are common to multiple disciplines, and if these can be identified and leveraged then valuable foundations are laid for cross-discipline interoperability. A recent joint W3C and OGC standard - the Semantic Sensor Network (SSN) ontology - specifies the semantics of sensors, observation, sampling, and actuation, and supports a modular approach to the specification of the details of these elements of a scientific information system. This separation of concerns then allows the relevant experts to define community-endorsed standards for individual disciplines, with protocols and vocabularies in each of the modular components, within a common overall framework. Where the same component is used in many disciplines (e.g., geographical location, units of measure, colour, elements of the periodic table, definition of magnetic properties) common (universal) reference standards, protocols, can be established. This modular approach will ultimately facilitate interdisciplinary science and lay the foundations for digital scientific data to be born connected to multiple disciplines. An example of this approach is shown through the subdiscipline of geochemistry.
-
-Wyborn, L.A.I., Cox, S.J.D., Lehnert, K.A., and Klump, K., 2018. **A modular approach to developing interdisciplinary, interoperable standards for geochemical data based on the Semantic Sensor Network (SSN) Ontology.** <https://doi.org/10.13140/RG.2.2.17794.04806>
-:::
-
 
 
 ## Samples
