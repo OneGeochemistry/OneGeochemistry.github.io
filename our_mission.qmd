@@ -136,6 +136,14 @@ Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
+## Cox+ 2021. Ten simple rules for making a vocabulary FAIR.
+
+We present ten simple rules that support converting a legacy vocabulary—a list of terms available in a print-based glossary or in a table not accessible using web standards—into a FAIR vocabulary. Various pathways may be followed to publish the FAIR vocabulary, but we emphasise particularly the goal of providing a globally unique resolvable identifier for each term or concept. A standard representation of the concept should be returned when the individual web identifier is resolved, using SKOS or OWL serialised in an RDF-based representation for machine-interchange and in a web-page for human consumption. Guidelines for vocabulary and term metadata are provided, as well as development and maintenance considerations. The rules are arranged as a stepwise recipe for creating a FAIR vocabulary based on the legacy vocabulary. By following these rules you can achieve the outcome of converting a legacy vocabulary into a standalone FAIR vocabulary, which can be used for unambiguous data annotation. In turn, this increases data interoperability and enables data integration.
+
+Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C 2021. **Ten simple rules for making a vocabulary FAIR.** PLoS Computational Biology 17(6): e1009041. <https://doi.org/10.1371/journal.pcbi.1009041>
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
 ## Jackson+ Wyborn 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit.
 
 Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolution and the geological data deficit.** Environmental Geology,53(6), 1377-1380. <http://dx.doi.org/10.1007/s00254-007-1085-z>
@@ -196,12 +204,14 @@ Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., … Mons, B.
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
-## Cox+ 2021. Ten simple rules for making a vocabulary FAIR.
+## Wyborn+ 2018. A modular approach to developing interdisciplinary, interoperable standards for geochemical data based on the Semantic Sensor Network (SSN) Ontology.
 
-We present ten simple rules that support converting a legacy vocabulary—a list of terms available in a print-based glossary or in a table not accessible using web standards—into a FAIR vocabulary. Various pathways may be followed to publish the FAIR vocabulary, but we emphasise particularly the goal of providing a globally unique resolvable identifier for each term or concept. A standard representation of the concept should be returned when the individual web identifier is resolved, using SKOS or OWL serialised in an RDF-based representation for machine-interchange and in a web-page for human consumption. Guidelines for vocabulary and term metadata are provided, as well as development and maintenance considerations. The rules are arranged as a stepwise recipe for creating a FAIR vocabulary based on the legacy vocabulary. By following these rules you can achieve the outcome of converting a legacy vocabulary into a standalone FAIR vocabulary, which can be used for unambiguous data annotation. In turn, this increases data interoperability and enables data integration.
+Interoperability across multiple scientific disciplines has generally had limited success, as most standards are specific to a single community or discipline. However, many components of scientific data are common to multiple disciplines, and if these can be identified and leveraged then valuable foundations are laid for cross-discipline interoperability. A recent joint W3C and OGC standard - the Semantic Sensor Network (SSN) ontology - specifies the semantics of sensors, observation, sampling, and actuation, and supports a modular approach to the specification of the details of these elements of a scientific information system. This separation of concerns then allows the relevant experts to define community-endorsed standards for individual disciplines, with protocols and vocabularies in each of the modular components, within a common overall framework. Where the same component is used in many disciplines (e.g., geographical location, units of measure, colour, elements of the periodic table, definition of magnetic properties) common (universal) reference standards, protocols, can be established. This modular approach will ultimately facilitate interdisciplinary science and lay the foundations for digital scientific data to be born connected to multiple disciplines. An example of this approach is shown through the subdiscipline of geochemistry.
 
-Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C 2021. **Ten simple rules for making a vocabulary FAIR.** PLoS Computational Biology 17(6): e1009041. <https://doi.org/10.1371/journal.pcbi.1009041>
+Wyborn, L.A.I., Cox, S.J.D., Lehnert, K.A., and Klump, K., 2018. **A modular approach to developing interdisciplinary, interoperable standards for geochemical data based on the Semantic Sensor Network (SSN) Ontology.** <https://doi.org/10.13140/RG.2.2.17794.04806>
 :::
+
+
 
 ## OneGeochemistry Articles & Documents
 The OneGeochemistry team has published a number of articles to define the goals of this initiative and its ongoing development.\
@@ -227,14 +237,6 @@ Lehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alex
 ## Prent+ 2023. Innovating and networking global geochemical data resources through OneGeochemistry.
 
 Prent A.M., Hezel D.C., Klöcking M., Wyborn L., Farrington R., Lehnert K., Elger K., Profeta L., 2023. **Innovating and networking global geochemical data resources through OneGeochemistry.** Preprint submitted to Elements. <https://doi.org/10.31223/X5595Z>
-:::
-
-:::{.callout-note appearance="simple" collapse="true"}
-## Wyborn+ 2018. A modular approach to developing interdisciplinary, interoperable standards for geochemical data based on the Semantic Sensor Network (SSN) Ontology.
-
-Interoperability across multiple scientific disciplines has generally had limited success, as most standards are specific to a single community or discipline. However, many components of scientific data are common to multiple disciplines, and if these can be identified and leveraged then valuable foundations are laid for cross-discipline interoperability. A recent joint W3C and OGC standard - the Semantic Sensor Network (SSN) ontology - specifies the semantics of sensors, observation, sampling, and actuation, and supports a modular approach to the specification of the details of these elements of a scientific information system. This separation of concerns then allows the relevant experts to define community-endorsed standards for individual disciplines, with protocols and vocabularies in each of the modular components, within a common overall framework. Where the same component is used in many disciplines (e.g., geographical location, units of measure, colour, elements of the periodic table, definition of magnetic properties) common (universal) reference standards, protocols, can be established. This modular approach will ultimately facilitate interdisciplinary science and lay the foundations for digital scientific data to be born connected to multiple disciplines. An example of this approach is shown through the subdiscipline of geochemistry.
-
-Wyborn, L.A.I., Cox, S.J.D., Lehnert, K.A., and Klump, K., 2018. **A modular approach to developing interdisciplinary, interoperable standards for geochemical data based on the Semantic Sensor Network (SSN) Ontology.** <https://doi.org/10.13140/RG.2.2.17794.04806>
 :::
 
 ## Acknowledgements
