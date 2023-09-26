@@ -18,6 +18,7 @@ If you think we have missed something, please [get in touch](participate.qmd)!
 Can't find a best practice appropriate for your data, but think there should be one? Consider getting involved in a OneGeochemistry [expert committee](participate.html#expert-committees) and produce a new best practice document.
 :::
 
+See also the best practice articles published by the Association of Applied Geochemists: <https://www.appliedgeochemists.org/best-practices>.
 
 ## General
 
@@ -53,6 +54,14 @@ Demetriades, A., Huimin, D., Kai, L., Savin, I., Birke, M., Johnson, C.C., Argyr
 ## Demetriades+ 2022. International Union of Geological Sciences Manual of Standard Methods for Establishing the Global Geochemical Reference Network.
 
 Demetriades, A., Johnson, C.C., Smith, D.B., Ladenberger, A., Adánez Sanjuan, P., Argyraki, A., Stouraiti, C., Caritat, P. de, Knights, K.V., Prieto Rincón, G., Simubali, G.N. (Editors), 2022. **International Union of Geological Sciences Manual of Standard Methods for Establishing the Global Geochemical Reference Network.** IUGS Commission on Global Geochemical Baselines, Athens, Hellenic Republic, Special Publication 2, 515 pp. Zenodo. <https://doi.org/10.5281/ZENODO.7307696>
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Goldstein+ 2014. Requirements for the Publication of Geochemical Data.
+
+At their meeting during the 2008 American Geophysical Union, the Editors Roundtable agreed on a joint editorial policy statement that established a common set of standards for reporting geochemical data. The policy addresses the problem of inconsistency and incompleteness of data and metadata in publications, and helps to facilitate the incorporation of data into digital data collections.
+
+Goldstein, S. L., Hofmann, A. W., Lehnert, K. A., 2014. **Requirements for the Publication of Geochemical Data.** Version 1.0. Interdisciplinary Earth Data Alliance (IEDA). <https://doi.org/10.1594/IEDA/100426>
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
@@ -103,6 +112,14 @@ Wallace, K.L., Bursik, M.I., Kuehn, S., Kurbatov, A.V., Abbott, P., Bonadonna, C
 
 
 ## Chronology
+::: {.callout-note appearance="simple" collapse="true"}
+## Boone+ 2023. Supplementary Information 1: A geospatial platform for the tectonic interpretation of low-temperature thermochronology Big Data.
+To promote a more efficient and transparent geochemistry data ecosystem, a consortium of Australian university research laboratories called the AuScope Geochemistry Network assembled to build a collaborative platform for the express purpose of preserving, disseminating and collating geochronology and isotopic data. In partnership with geoscience-data-solutions company Lithodat Pty Ltd, the open, cloud-based AusGeochem platform (https://ausgeochem.auscope.org.au) was developed to simultaneously serve as a geosample registry, a geochemical data repository and a data analysis tool. Informed by method-specific groups of geochemistry experts and established international data reporting practices, community-agreed database schemas were developed for rock and mineral geosample metadata and secondary ion mass spectrometry U-Pb analysis, with additional models for laser ablation-inductively coupled-mass spectrometry U-Pb and Lu-Hf, Ar-Ar, fission-track and (U-Th-Sm)/He under development. Collectively, the AusGeochem platform provides the geochemistry community with a new, dynamic resource to help facilitate FAIR (Findable, Accessible, Interoperable, Reusable) data management, streamline data dissemination and advanced quantitative investigations of Earth system processes. By systematically archiving detailed geochemical (meta-)data in structured schemas, intractably large datasets comprising thousands of analyses produced by numerous laboratories can be readily interrogated in novel and powerful ways. These include rapid derivation of inter-data relationships, facilitating on-the-fly data compilation, analysis and visualisation.
+Presented in Supplementary Information 1 are the fission track and (U-Th)/He datatables for AusGeochem, including data type and unit specifications, and field descriptions.
+
+Boone, S.C., Kohlmann, F., Noble, W. et al., 2023. **A geospatial platform for the tectonic interpretation of low-temperature thermochronology Big Data.** Sci Rep 13, 8581. <https://doi.org/10.1038/s41598-023-35776-3>
+:::
+
 ::: {.callout-note appearance="simple" collapse="true"}
 ## Mustaphi+ 2019. Guidelines for reporting and archiving 210Pb sediment chronologies to improve fidelity and extend data lifecycle.
 

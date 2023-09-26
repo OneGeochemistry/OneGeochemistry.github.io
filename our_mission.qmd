@@ -144,6 +144,14 @@ Cox SJD, Gonzalez-Beltran AN, Magagna B, Marinescu M-C 2021. **Ten simple rules 
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
+## Crystal-Ornelas+ 2021. A Guide to Using GitHub for Developing and Versioning Data Standards and Reporting Formats.
+
+Data standardization combined with descriptive metadata facilitate data reuse, which is the ultimate goal of the Findable, Accessible, Interoperable, and Reusable (FAIR) principles. Community data or metadata standards are increasingly created through an approach that emphasizes collaboration between various stakeholders. Such an approach requires platforms for collaboration on the development process that centers on sharing information and receiving feedback. Our objective in this study was to conduct a systematic review to identify data standards and reporting formats that use version control for developing data standards and to summarize common practices, particularly in earth and environmental sciences. Out of 108 data standards and reporting formats identified in our review, 32 used GitHub as the version control platform, and no other platforms were used. We found no universally accepted methodology for developing and publishing data standards. Many GitHub repositories did not use key features that could help developers to gather user feedback, or to create and revise standards that build on previous work. We provide guidance for community-driven standard development and associated documentation on GitHub based on a systematic review of existing practices.
+
+Crystal-Ornelas, R., Varadharajan, C., Bond-Lamberty, B., Boye, K., Burrus, M., Cholia, S., et al., 2021. **A guide to using GitHub for developing and versioning data standards and reporting formats.** Earth and Space Science, 8, e2021EA001797. <https://doi.org/10.1029/2021EA001797>
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
 ## Jackson+ Wyborn 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit.
 
 Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolution and the geological data deficit.** Environmental Geology,53(6), 1377-1380. <http://dx.doi.org/10.1007/s00254-007-1085-z>
@@ -234,9 +242,9 @@ Lehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alex
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
-## Prent+ 2023. Innovating and networking global geochemical data resources through OneGeochemistry.
+## Prent+ 2023. Innovating and Networking Global Geochemical Data Resources Through OneGeochemistry.
 
-Prent A.M., Hezel D.C., Klöcking M., Wyborn L., Farrington R., Lehnert K., Elger K., Profeta L., 2023. **Innovating and networking global geochemical data resources through OneGeochemistry.** Preprint submitted to Elements. <https://doi.org/10.31223/X5595Z>
+Prent A.M., Hezel D.C., Klöcking M., Wyborn L., Farrington R., Lehnert K., Elger K., Profeta L., 2023. **Innovating and networking global geochemical data resources through OneGeochemistry.** Elements 19(3), 136–137. <https://doi.org/10.2138/gselements.19.3.136>
 :::
 
 ## Acknowledgements
