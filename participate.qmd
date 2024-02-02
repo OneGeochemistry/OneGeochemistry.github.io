@@ -133,12 +133,13 @@ Join us at an upcoming conference or browse our past events and presentations. A
 
 :::{.callout-note appearance="simple"}
 ## Upcoming Events
-|    Event    |    Date    |    Type    |    Name    |
+|    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    SciDataCon 2023, Salzburg, AUT    |    25 Oct 2023    |    Session    |    [Why Persistent Identifiers and How Their Connectivity Enhances Research](https://www.scidatacon.org/IDW-2023-Salzburg/sessions/510/)    |
+|    EGU General Assembly 2024    |    14-19 Apr 2024    |    TBC    |    TBC    |
 |        |        |        |        |
-|    AGU 2023, San Francisco, USA    |    11-20 Jul 2023    |    Session    |    [V012 - Enabling Data-driven Geochemical Research in the Era of Wide, Open, Geochemical and Cosmochemical Data Resources](https://agu.confex.com/agu/fm23/prelim.cgi/Session/190063)    |
-<!--|    MetSoc 2023    |    YYY    |    Talk?    |    [XXX]()    | -->
+|    MetSoc 2024, Brussels, BE    |    28 Jul-2 Aug 2024    |    TBC    |    TBC    |
+|        |        |        |        |
+|    Goldschmidt 2024, Chicago, USA     |    18-23 Aug 2024    |    TBC    |    TBC    |
 :::
 
 <!--Beyond FAIR: Reusing Chemical Data Across-disciplines with CARE, TRUST, and Openness -->
@@ -147,8 +148,12 @@ Join us at an upcoming conference or browse our past events and presentations. A
 
 :::{.callout-note appearance="simple" collapse="true"}
 ## Past Events & Resources
-|    Event    |    Date    |    Type    |    Name    |    Resources    |
+|    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    AGU 2023, San Francisco, USA    |    11-20 Jul 2023    |    Session    |    [V012 - Enabling Data-driven Geochemical Research in the Era of Wide, Open, Geochemical and Cosmochemical Data Resources](https://agu.confex.com/agu/fm23/prelim.cgi/Session/190063)    |        |
+|        |        |        |        |        |
+|    SciDataCon 2023, Salzburg, AUT    |    25 Oct 2023    |    Session    |    [Why Persistent Identifiers and How Their Connectivity Enhances Research](https://www.scidatacon.org/IDW-2023-Salzburg/sessions/510/)    |        |
+|        |        |        |        |        |
 |    IUGG 2023, Berlin, DE    |    11-20 Jul 2023    |    Poster    |    [Addressing the need for global standards for geochemical data – the OneGeochemistry initiative](https://iugg2023.floq.live/event/IUGG23/search?objectClass=programelement&objectId=645caeb3766b0683937358cd&type=detail)    |        |
 |        |        |        |        |        |
 |    Goldschmidt 2023, Lyon, FR    |    9-14 Jul 2023    |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Session/5007)    |        |

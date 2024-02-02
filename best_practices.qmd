@@ -29,11 +29,12 @@ To promote a more efficient and transparent geochemistry data ecosystem, a conso
 Boone, S.C., Dalton, H., Prent, A., Kohlmann, F., Theile, M., Gréau, Y., Florin, G., Noble, W., Hodgekiss, S., Ware, B., Phillips, D., Kohn, B., O'Reilly, S., Gleadow, A., McInnes, B., Rawling, T., 2022. **AusGeochem: An Open Platform for Geochemical Data Preservation, Dissemination and Synthesis.** Geostandards and Geoanalytical Research 46, 245--25. <https://doi.org/10.1111/ggr.12419>
 :::
 
-::: {.callout-note appearance="simple" collapse="true"}
-## Brantley+ 2021. The future low-temperature geochemical data-scape as envisioned by the U.S. geochemical community.
-Data sharing benefits the researcher, the scientific community, and the public by allowing the impact of data to be generalized beyond one project and by making science more transparent. However, many scientific communities have not developed protocols or standards for publishing, citing, and versioning datasets. One community that lags in data management is that of low-temperature geochemistry (LTG). This paper resulted from an initiative from 2018 through 2020 to convene LTG and data scientists in the U.S. to strategize future management of LTG data. Through webinars, a workshop, a preprint, a townhall, and a community survey, the group of U.S. scientists discussed the landscape of data management for LTG – the data-scape. Currently this data-scape includes a “street bazaar” of data repositories. This was deemed appropriate in the same way that LTG scientists publish articles in many journals. The variety of data repositories and journals reflect that LTG scientists target many different scientific questions, produce data with extremely different structures and volumes, and utilize copious and complex metadata. Nonetheless, the group agreed that publication of LTG science must be accompanied by sharing of data in publicly accessible repositories, and, for sample-based data, registration of samples with globally unique persistent identifiers. LTG scientists should use certified data repositories that are either highly structured databases designed for specialized types of data, or unstructured generalized data systems. Recognizing the need for tools to enable search and cross-referencing across the proliferating data repositories, the group proposed that the overall data informatics paradigm in LTG should shift from “build data repository, data will come” to “publish data online, cybertools will find”. Funding agencies could also provide portals for LTG scientists to register funded projects and datasets, and forge approaches that cross national boundaries. The needed transformation of the LTG data culture requires emphasis in student education on science and management of data.
+:::{.callout-note appearance="simple" collapse="true"}
+## Chamberlain+ 2021. Time to change the data culture in geochemistry.
 
-Brantley, S.L., Wen, T., Agarwal, D.A., Catalano, J.G., Schroeder, P.A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A.M., Hooper, R.P., Ma, X., Jin, L., McHenry, K., Aronson, E., Shaughnessy, A.R., Derry, L.A., Richardson, J., Bales, J., Pierce, E.M., 2021. **The future low-temperature geochemical data-scape as envisioned by the U.S. geochemical community.** Computers & Geosciences 157, 104933. <https://doi.org/10.1016/j.cageo.2021.104933>
+Geochemical data are vital for understanding Earth’s past, present and future. However, currently only a fraction of geochemical data are findable, accessible, interoperable and reusable, limiting their use in the broadest range of scientific studies. There is an urgent need for international coordination of geochemical data and methods to unlock their full research potential.
+
+Chamberlain, K. J., Lehnert, K. A., McIntosh, I. M., Morgan, D. J., & Wörner, G., 2021. **Time to change the data culture in geochemistry.** Nature Reviews Earth & Environment, 2(11), 737–739. <https://doi.org/10.1038/s43017-021-00237-w>
 :::
 
 ::: {.callout-note appearance="simple" collapse="true"}
@@ -42,12 +43,6 @@ Brantley, S.L., Wen, T., Agarwal, D.A., Catalano, J.G., Schroeder, P.A., Lehnert
 In an International Journal such as Chemical Geology, it is vitally important to include a reasonable assessment of precision and accuracy, and appropriate information regarding analytical methodologies so that data can be compared between different laboratories. The policy of the Journal to insure adequate documentation is outlined below.
 
 Deines, P., Goldstein, S.L., Oelkers, E.H., Rudnick, R.L., Walter, L.M., 2003. **Standards for publication of isotope ratio and chemical data in Chemical Geology.** Chemical Geology 202, 1--4. <https://doi.org/10.1016/j.chemgeo.2003.08.003>
-:::
-
-::: {.callout-note appearance="simple" collapse="true"}
-## Demetriades+ 2020. International Union of Geological Sciences Manual of Standard Geochemical Methods for the Global Black Soil Project.
-
-Demetriades, A., Huimin, D., Kai, L., Savin, I., Birke, M., Johnson, C.C., Argyraki, A., 2020. **International Union of Geological Sciences Manual of Standard Geochemical Methods for the Global Black Soil Project.** <https://doi.org/10.5281/ZENODO.7267967>
 :::
 
 ::: {.callout-note appearance="simple" collapse="true"}
@@ -164,6 +159,28 @@ Schaen, A.J., Jicha, B.R., Hodges, K.V., Vermeesch, P., Stelten, M.E., Mercer, C
 ## Walker+ 2008. Geochron Workshop reports sponsored by EarthChem and EARTHTIME.
 
 Walker, D.J., Condon, D., Thompson, W., Renne, P., Koppers, A., Hodges, K., Reiners, P., Stockli, D., Schmitz, M., Bowring, S., Gehrels, G., 2008. **Geochron Workshop reports sponsored by EarthChem and EARTHTIME.** Zenodo. <https://doi.org/10.5281/ZENODO.4313859>
+:::
+
+
+## Low-T Geochemistry
+::: {.callout-note appearance="simple" collapse="true"}
+## Bertrand+ 2024. Inorganic geochemistry of lake sediments: A review of analytical techniques and guidelines for data interpretation.
+Inorganic geochemistry is a powerful tool in paleolimnology. It has become one of the most commonly used techniques to analyze lake sediments, particularly due to the development and increasing availability of XRF core scanners during the last two decades. It allows for the reconstruction of the continuous processes that occur in lakes and their watersheds, and it is ideally suited to identify event deposits. How earth surface processes and limnological conditions are recorded in the inorganic geochemical composition of lake sediments is, however, relatively complex. Here, we review the main techniques used for the inorganic geochemical analysis of lake sediments and we offer guidance on sample preparation and instrument selection. We then summarize the best practices to process and interpret bulk inorganic geochemical data. In particular, we emphasize that log-ratio transformation is critical for the rigorous statistical analysis of geochemical datasets, whether they are obtained by XRF core scanning or more traditional techniques. In addition, we show that accurately interpreting inorganic geochemical data requires a sound understanding of the main components of the sediment (organic matter, biogenic silica, carbonates, lithogenic particles) and mineral assemblages. Finally, we provide a series of examples illustrating the potential and limits of inorganic geochemistry in paleolimnology. Although the examples presented in this paper focus on lake and fjord sediments, the principles presented here also apply to other sedimentary environments.
+
+Bertrand, S., Tjallingii, R., Kylander, M. E., Wilhelm, B., Roberts, S. J., Arnaud, F., Brown, E., & Bindler, R., 2024. **Inorganic geochemistry of lake sediments: A review of analytical techniques and guidelines for data interpretation.** Earth-Science Reviews 249, 104639. <https://doi.org/10.1016/j.earscirev.2023.104639>
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Brantley+ 2021. The future low-temperature geochemical data-scape as envisioned by the U.S. geochemical community.
+Data sharing benefits the researcher, the scientific community, and the public by allowing the impact of data to be generalized beyond one project and by making science more transparent. However, many scientific communities have not developed protocols or standards for publishing, citing, and versioning datasets. One community that lags in data management is that of low-temperature geochemistry (LTG). This paper resulted from an initiative from 2018 through 2020 to convene LTG and data scientists in the U.S. to strategize future management of LTG data. Through webinars, a workshop, a preprint, a townhall, and a community survey, the group of U.S. scientists discussed the landscape of data management for LTG – the data-scape. Currently this data-scape includes a “street bazaar” of data repositories. This was deemed appropriate in the same way that LTG scientists publish articles in many journals. The variety of data repositories and journals reflect that LTG scientists target many different scientific questions, produce data with extremely different structures and volumes, and utilize copious and complex metadata. Nonetheless, the group agreed that publication of LTG science must be accompanied by sharing of data in publicly accessible repositories, and, for sample-based data, registration of samples with globally unique persistent identifiers. LTG scientists should use certified data repositories that are either highly structured databases designed for specialized types of data, or unstructured generalized data systems. Recognizing the need for tools to enable search and cross-referencing across the proliferating data repositories, the group proposed that the overall data informatics paradigm in LTG should shift from “build data repository, data will come” to “publish data online, cybertools will find”. Funding agencies could also provide portals for LTG scientists to register funded projects and datasets, and forge approaches that cross national boundaries. The needed transformation of the LTG data culture requires emphasis in student education on science and management of data.
+
+Brantley, S.L., Wen, T., Agarwal, D.A., Catalano, J.G., Schroeder, P.A., Lehnert, K., Varadharajan, C., Pett-Ridge, J., Engle, M., Castronova, A.M., Hooper, R.P., Ma, X., Jin, L., McHenry, K., Aronson, E., Shaughnessy, A.R., Derry, L.A., Richardson, J., Bales, J., Pierce, E.M., 2021. **The future low-temperature geochemical data-scape as envisioned by the U.S. geochemical community.** Computers & Geosciences 157, 104933. <https://doi.org/10.1016/j.cageo.2021.104933>
+:::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Demetriades+ 2020. International Union of Geological Sciences Manual of Standard Geochemical Methods for the Global Black Soil Project.
+
+Demetriades, A., Huimin, D., Kai, L., Savin, I., Birke, M., Johnson, C.C., Argyraki, A., 2020. **International Union of Geological Sciences Manual of Standard Geochemical Methods for the Global Black Soil Project.** <https://doi.org/10.5281/ZENODO.7267967>
 :::
 
 
