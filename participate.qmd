@@ -140,6 +140,8 @@ Join us at an upcoming conference or browse our past events and presentations. A
 |    MetSoc 2024, Brussels, BE    |    28 Jul-2 Aug 2024    |    TBC    |    TBC    |
 |        |        |        |        |
 |    Goldschmidt 2024, Chicago, USA     |    18-23 Aug 2024    |    TBC    |    TBC    |
+|        |        |        |        |
+|    37th International Geological Congress 2024, Busan, KR     |    25-31 Aug 2024    |    TBC    |    TBC    |
 :::
 
 <!--Beyond FAIR: Reusing Chemical Data Across-disciplines with CARE, TRUST, and Openness -->
