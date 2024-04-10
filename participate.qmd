@@ -135,11 +135,12 @@ Join us at an upcoming conference or browse our past events and presentations. A
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    EGU General Assembly 2024    |    14-19 Apr 2024    |    TBC    |    TBC    |
+|    EGU General Assembly 2024    |    14-19 Apr 2024    |    Splinter Meeting    |    [The OneGeochemistry Initiative](https://meetingorganizer.copernicus.org/EGU24/session/50934)    |
 |        |        |        |        |
 |    MetSoc 2024, Brussels, BE    |    28 Jul-2 Aug 2024    |    TBC    |    TBC    |
 |        |        |        |        |
-|    Goldschmidt 2024, Chicago, USA     |    18-23 Aug 2024    |    TBC    |    TBC    |
+|    Goldschmidt 2024, Chicago, USA     |    18-23 Aug 2024    |    Workshop    |    [Open Data in Geochemistry: Making, Delivering and Harnessing FAIR Data with Global Data Providers](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Session/6220)    |
+|        |        |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Session/6488)    |
 |        |        |        |        |
 |    37th International Geological Congress 2024, Busan, KR     |    25-31 Aug 2024    |    TBC    |    TBC    |
 :::
@@ -152,7 +153,10 @@ Join us at an upcoming conference or browse our past events and presentations. A
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
-|    AGU 2023, San Francisco, USA    |    11-20 Jul 2023    |    Session    |    [V012 - Enabling Data-driven Geochemical Research in the Era of Wide, Open, Geochemical and Cosmochemical Data Resources](https://agu.confex.com/agu/fm23/prelim.cgi/Session/190063)    |        |
+|    AGU 2023, San Francisco, USA    |    11-15 Dec 2023    |    Poster    |    [Interdisciplinary Science and Cross Domain Interoperability on a Global Scale Through FAIR Implementation Profiles; Examples from the WorldFAIR Geochemistry Work Package](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1419611)    |        |
+|        |        |    Poster    |    [FAIR Implementation Profiles for Geochemical Data, Data Collections and Repositories](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1418622)    |        |
+|        |        |    Poster    |    [The Path to Creating Open Global Networks of All Types of Geochemical Data from Multiple Countries, Repositories and Researchers: what variables and vocabularies are YOU using to describe your data?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1440848)    |        |
+|        |        |    Poster    |    [Using FAIR Implementation Profiles (FIPs) and FAIR Enabling Resources (FERs) to Accelerate Machine-to-machine Interoperability of Geoscience Datasets Within and Across Repositories, Communities and Other Domains](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1440456)    |        |
 |        |        |        |        |        |
 |    SciDataCon 2023, Salzburg, AUT    |    25 Oct 2023    |    Session    |    [Why Persistent Identifiers and How Their Connectivity Enhances Research](https://www.scidatacon.org/IDW-2023-Salzburg/sessions/510/)    |        |
 |        |        |        |        |        |
