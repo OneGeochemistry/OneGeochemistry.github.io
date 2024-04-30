@@ -223,7 +223,58 @@ Wyborn, L.A.I., Cox, S.J.D., Lehnert, K.A., and Klump, K., 2018. **A modular app
 
 ## OneGeochemistry Articles & Documents
 The OneGeochemistry team has published a number of articles to define the goals of this initiative and its ongoing development.\
-Addtional technical papers and documentations are archived in our [Zenodo community](https://zenodo.org/communities/onegeochemistry/?page=1&size=20).
+Additional documentation and technical papers are archived in our [Zenodo community](https://zenodo.org/communities/onegeochemistry/?page=1&size=20).
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Prent+ 2024. WorldFAIR Deliverable D5.3: Guidelines for implementing Geochemistry FIPs.
+
+As a long-tail scientific discipline with highly specific and heterogeneous analytical methods, the geochemistry community faces challenges in achieving FAIR data compliance. While many repositories satisfy the Findable and Accessible principles of FAIR, increased modernisation of existing standards and development of additional data standards are required to achieve Interoperability and Reusability of data.
+</br>
+This third deliverable of the WorldFAIR Geochemistry Work Package (WP05) aims to guide the geochemistry data infrastructure community towards convergence by identifying FAIR Enabling Resources (FERs) that are currently being used by the geosciences community.  Promulgation of used resources and their uptake by other infrastructure providers is part of the push towards convergence. The WorldFAIR Geochemistry Work Package proposes creating a reference FIP or catalogue of FERs to promote interoperability and prevent duplication of efforts. The geochemistry reference FIP is designed as a living document, allowing continual updates by the community. It serves as a tool for laboratories, repositories, and infrastructure providers to enhance data FAIRness. Through the provision of a reference FAIR Implementation Profile (FIP) or catalogue of FERs as part of this report, data providers and producers are provided with a tool to help select FERs when building or updating their infrastructure to become more FAIR.
+</br>
+Together with the second deliverable (D5.2) of the WorldFAIR Geochemistry Work Package which outlined the usefulness and importance of FIPs, this report and the associated reference FIP can be used by the geochemistry community - particularly by data creators and providers - to improve their FAIRness. We recommend that new and emerging geochemistry data producers and providers consult the geochemistry reference FIP and ideally choose to implement existing FERs, although the selection and implementation of FERs should align with the principles and community needs that the specific data system serves.
+</br>
+The goal is to facilitate the implementation of commonly-used FERs, and so improving data FAIRness, with a resource that fosters interoperability, accelerates convergence on data standards, and ultimately enhances the accessibility and reusability of geochemical data. This report and the reference FIP aim to encourage the reuse of available resources, prevent duplication, and enhance convergence on data standards within the geochemistry community. Community collaboration, the continuous evolution of the living reference FIP document to support FAIR compliance and convergence towards standardisation are needed to continue improving FAIRness in the geochemistry data community.
+
+Prent, A., Farrington, R., Wyborn, L., Nixon, A., Elger, K., Klöcking, M., Hezel, D., & Lehnert, K. (2024). WorldFAIR (D5.3) Guidelines for implementing Geochemistry FIPs (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.10712808>
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Prent+ 2024. WorldFAIR Deliverable D5.2: Geochemistry Methodology and Outreach.
+
+Together with the earlier WorldFAIR Milestone 6, this D5.2 report focuses on advocating the utility and significance of FAIR Implementation Profiles (FIPs) for the geochemistry community, culminating in presenting a set of policy and organisational recommendations. The primary goal of this report is to foster alignment across the complex and heterogeneous geochemistry community, in producing and integrating FAIR data for the huge diversity of sample types and target analytes of this community, each often having numerous analytical methods. This document presents various ways in which the community can increase FAIRness through the publication of FERs for different levels of data granularity and FAIR community size and complexity (Figure 2). Additionally, interoperability of data between methodologies is suggested to be overcome through data abstraction (Box 1).
+</br>
+Following the FIP methodology, this D5.2 report makes reference to the fifteen FAIR Principles, divided into scientific and technical components. Scientific component implementations, and related community engagement, are to be based on best practice publications that outline data reporting and methodology descriptions from within specific geochemistry sub-disciplines. Parts of these publications, including tables and images in PDF or document formats, could be converted into machine actionable FAIR-enabling resources (FERs), and be part of a generic FIP for geochemistry. Technical components need to be generated, reviewed and assessed by geochemistry data infrastructure and repository technical staff, along with the development of additionally needed FERs in consultation with other FAIR data management expert groups (e.g., CODATA-DDI Alliance activity, the DDI-CDI group, the RDA Vocabulary Services Interest Group, IUPAC, etc.) and the “Ten Simple Rules for making a vocabulary FAIR” (Cox et al. 2021).
+</br>
+This report is the result of interactions with the geochemistry community through the OneGeochemistry Initiative, its board members, research infrastructure experts, analytical facilities and international leaders in geochemistry data management systems (EarthChem, DIGIS-GEOROC, AGN–AusGeochem, GFZ Data Services, NFDI4Earth, and EPOS MSL Laboratories).
+
+Prent, A., Wyborn, L., & Farrington, R. (2024). WorldFAIR (D5.2) Geochemistry Methodology and Outreach (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.10406332>
+:::
+
+
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Prent+ 2023. WorldFAIR Milestone MS6: Geochemistry Scientific Content Component.
+
+WorldFAIR Milestone 6, reported here, specifies work done and being undertaken for Deliverable 5.2 (due month 20), ‘Geochemistry Methodology and Outreach’, which has the following description: “This deliverable will outline the methodology used to develop and update FIPs and promulgate knowledge of them, including publishers to ensure the quality, interoperability and reusability of data in publications”.
+</br>
+As geochemical data is collected on a diversity of natural and synthetic samples (rocks, sediments, minerals, fossils, meteorites, cosmic dust, fluids, gases, etc), from the Earth or other planetary bodies, there is an incredible range of analytical instruments used and hundreds of analytical techniques applied. This results in a community with many subdisciplines that produce typically ‘long tail’ data - data that are highly specific and small in volume. The community and the data produced are heterogeneous and overlaps of common minimum variables are scarce.
+</br>
+We conclude that developing a single FAIR Implementation Profile (FIP) for all geochemical data will not be possible; rather, there will need to be multiple linked FIPs for geochemistry subdisciplines and at multiple levels of granularity. As a FIP is underpinned by FAIR Enabling Resources (FERs), many such FERs need to be publicly available or need to be published. By specifying any FER(s) that accompany each FAIR principle within the individual FIP, users of any geochemical dataset/database will have accurate documentation for each FAIR Principles, and thus enhance machine readability.
+</br>
+This Milestone describes progress towards developing a methodology designed to assist in defining the individual FERs required to fully describe the minimum scientific and technical variables used to describe any geochemical analysis. These FERs will enable the generation of multiple FIPs, facilitating published results to be reproduced and shared globally with sufficient metadata to make any geochemical resource FAIR for both humans and machines.
+</br>
+This Milestone report then discusses how the components of this methodology are being executed in the community, discusses resulting progress towards minimum common variables of samples, discusses how to make best practices for geochemical methods available online and specifies a set of vocabularies published to describe methodologies.
+
+Prent, A., Wyborn, L., Farrington, R., Lehnert, K., Klöcking, M., Elger, K., Hezel, D., ter Maat, G., Profeta, L., & Rawling, T. (2023). WorldFAIR Project (MS6) Geochemistry Scientific Content Component (Version 1.1). Zenodo. <https://doi.org/10.5281/zenodo.7977116>
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Prent+ 2023. Innovating and Networking Global Geochemical Data Resources Through OneGeochemistry.
+
+Prent A.M., Hezel D.C., Klöcking M., Wyborn L., Farrington R., Lehnert K., Elger K., Profeta L., 2023. **Innovating and networking global geochemical data resources through OneGeochemistry.** Elements 19(3), 136–137. <https://doi.org/10.2138/gselements.19.3.136>
+:::
+
 
 :::{.callout-note appearance="simple" collapse="true"}
 ## Klöcking+ 2023. Community recommendations for geochemical data, services and analytical capabilities in the 21st century.
@@ -241,11 +292,6 @@ OneGeochemistry is an international collaboration between multiple national and 
 Lehnert, Kerstin, Klöcking, Marthe, Elger, Kirsten, Wyborn, Lesley, Prent, Alexander, ter Maat, Geertje, & Hezel, Dominik C., 2022. **OneGeochemistry Interim Governance.** Zenodo. <https://doi.org/10.5281/zenodo.6566074>
 :::
 
-:::{.callout-note appearance="simple" collapse="true"}
-## Prent+ 2023. Innovating and Networking Global Geochemical Data Resources Through OneGeochemistry.
-
-Prent A.M., Hezel D.C., Klöcking M., Wyborn L., Farrington R., Lehnert K., Elger K., Profeta L., 2023. **Innovating and networking global geochemical data resources through OneGeochemistry.** Elements 19(3), 136–137. <https://doi.org/10.2138/gselements.19.3.136>
-:::
 
 ## Acknowledgements
 Many of the images on these pages come from [pixabay](https://pixabay.com/).
