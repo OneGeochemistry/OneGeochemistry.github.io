@@ -152,7 +152,7 @@ Crystal-Ornelas, R., Varadharajan, C., Bond-Lamberty, B., Boye, K., Burrus, M., 
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
-## Jackson+ Wyborn 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit.
+## Jackson+Wyborn 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit.
 
 Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolution and the geological data deficit.** Environmental Geology,53(6), 1377-1380. <http://dx.doi.org/10.1007/s00254-007-1085-z>
 :::
@@ -236,7 +236,7 @@ Together with the second deliverable (D5.2) of the WorldFAIR Geochemistry Work P
 </br>
 The goal is to facilitate the implementation of commonly-used FERs, and so improving data FAIRness, with a resource that fosters interoperability, accelerates convergence on data standards, and ultimately enhances the accessibility and reusability of geochemical data. This report and the reference FIP aim to encourage the reuse of available resources, prevent duplication, and enhance convergence on data standards within the geochemistry community. Community collaboration, the continuous evolution of the living reference FIP document to support FAIR compliance and convergence towards standardisation are needed to continue improving FAIRness in the geochemistry data community.
 
-Prent, A., Farrington, R., Wyborn, L., Nixon, A., Elger, K., Klöcking, M., Hezel, D., & Lehnert, K. (2024). WorldFAIR (D5.3) Guidelines for implementing Geochemistry FIPs (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.10712808>
+Prent, A., Farrington, R., Wyborn, L., Nixon, A., Elger, K., Klöcking, M., Hezel, D., & Lehnert, K. (2024). **WorldFAIR (D5.3) Guidelines for implementing Geochemistry FIPs** (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.10712808>
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
@@ -248,7 +248,7 @@ Following the FIP methodology, this D5.2 report makes reference to the fifteen F
 </br>
 This report is the result of interactions with the geochemistry community through the OneGeochemistry Initiative, its board members, research infrastructure experts, analytical facilities and international leaders in geochemistry data management systems (EarthChem, DIGIS-GEOROC, AGN–AusGeochem, GFZ Data Services, NFDI4Earth, and EPOS MSL Laboratories).
 
-Prent, A., Wyborn, L., & Farrington, R. (2024). WorldFAIR (D5.2) Geochemistry Methodology and Outreach (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.10406332>
+Prent, A., Wyborn, L., & Farrington, R. (2024). **WorldFAIR (D5.2) Geochemistry Methodology and Outreach** (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.10406332>
 :::
 
 
@@ -266,7 +266,7 @@ This Milestone describes progress towards developing a methodology designed to a
 </br>
 This Milestone report then discusses how the components of this methodology are being executed in the community, discusses resulting progress towards minimum common variables of samples, discusses how to make best practices for geochemical methods available online and specifies a set of vocabularies published to describe methodologies.
 
-Prent, A., Wyborn, L., Farrington, R., Lehnert, K., Klöcking, M., Elger, K., Hezel, D., ter Maat, G., Profeta, L., & Rawling, T. (2023). WorldFAIR Project (MS6) Geochemistry Scientific Content Component (Version 1.1). Zenodo. <https://doi.org/10.5281/zenodo.7977116>
+Prent, A., Wyborn, L., Farrington, R., Lehnert, K., Klöcking, M., Elger, K., Hezel, D., ter Maat, G., Profeta, L., & Rawling, T. (2023). **WorldFAIR Project (MS6) Geochemistry Scientific Content Component** (Version 1.1). Zenodo. <https://doi.org/10.5281/zenodo.7977116>
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
@@ -282,6 +282,20 @@ Prent A.M., Hezel D.C., Klöcking M., Wyborn L., Farrington R., Lehnert K., Elge
 The majority of geochemical and cosmochemical research is based upon observations and, in particular, upon the acquisition, processing and interpretation of analytical data from physical samples. The exponential increase in volumes and rates of data acquisition over the last century, combined with advances in instruments, analytical methods and an increasing variety of data types analysed, has necessitated the development of new ways of data curation, access and sharing. Together with novel data processing methods, these changes have enabled new scientific insights and are driving innovation in Earth and Planetary Science research. Yet, as approaches to data-intensive research develop and evolve, new challenges emerge. As large and often global data compilations increasingly form the basis for new research studies, institutional and methodological differences in data reporting are proving to be significant hurdles in synthesising data from multiple sources. Consistent data formats and data acquisition descriptions are becoming crucial to enable quality assessment, reusability and integration of results fostering confidence in available data for reuse. Here, we explore the key challenges faced by the geo- and cosmochemistry community and, by drawing comparisons from other communities, recommend possible approaches to overcome them. The first challenge is bringing together the numerous sub-disciplines within our community under a common international initiative. One key factor for this convergence is gaining endorsement from the international geochemical, cosmochemical and analytical societies and associations, journals and institutions. Increased education and outreach, spearheaded by ambassadors recruited from leading scientists across disciplines, will further contribute to raising awareness, and to uniting and mobilising the community. Appropriate incentives, recognition and credit for good data management as well as an improved, user-oriented technical infrastructure will be essential for achieving a cultural change towards an environment in which the effective use and real-time interchange of large datasets is common-place. Finally, the development of best practices for standardised data reporting and exchange, driven by expert committees, will be a crucial step towards making geo- and cosmochemical data more Findable, Accessible, Interoperable and Reusable by both humans and machines (FAIR).
 
 Klöcking M, Wyborn L, Lehnert KA, Ware B, Prent AM, Profeta L, Kohlmann F, Noble W, Bruno I, Lambart S, Ananuer H, Barber ND, Becker H, Brodbeck M, Deng H, Deng K, Elger K, Franco GdS, Gao Y, Ghasera KM, Hezel DC, Huang J, Kerswell B, Koch H, Lanati AW, Maat Gt, Martínez-Villegas N, Yobo LN, Redaa A, Schäfer W, Swing MR, Taylor RJM, Traun MK, Whelan J, Zhou T., 2023. **Community recommendations for geochemical data, services and analytical capabilities in the 21st century.** Geochimica et Cosmochimica Acta. <http://dx.doi.org/10.1016/j.gca.2023.04.024>
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Prent+Rawling 2022. WorldFAIR Deliverable D5.1: Formalisation of OneGeochemistry.
+
+Report on the formalisation of the OneGeochemistry CODATA Working Group.  Project Deliverable D5.1 for EC WIDERA-funded project "WorldFAIR: Global cooperation on FAIR data policy and practice".
+</br>
+The WorldFAIR Geochemistry Work Package Deliverable 5.1 sets out to formalise the OneGeochemistry Initiative. With the exponential growth of data volumes and production, better coordination and collaboration is needed within the Earth and Planetary Science community producing geochemical data. The mission of OneGeochemistry is to address this need and in order to do so effectively the OneGeochemistry Interim Board has applied to become the OneGeochemistry CODATA Working Group. This application has been approved by the CODATA Executive Committee. The OneGeochemistry CODATA Working Group will be led by a chair and co-chair and will form expert advisory groups where required. Becoming a CODATA Working Group gives the OneGeochemistry Initiative credibility and authority to successfully pursue a long-term governance structure and accomplish the other WorldFAIR deliverables of WP05 (Geochemistry).
+</br>
+Accomplishing an outline of the methodology used to populate and update FAIR Implementation Profiles and to promulgate knowledge of them, as well as creating a set of guidelines for laboratories and repositories on how to use FAIR Implementation Profiles and common variables to QA/QC data, will enable FAIRer (Wilkinson et al., 2016) geochemical data, which will in turn make interdisciplinary use easier.
+</br>
+Geochemical data has direct application to six of the seventeen UN Sustainable Development Goals (SDG#6 (Clean Water and Sanitation); SDG#7 (Affordable and Clean Energy); SDG#8 (Decent Work and Economic Growth); SDG#9 (Industry, Innovation and Infrastructure); SDG#13 (Climate Action); SDG#15 (Life on Land) and FAIR geochemical data will accelerate the generation of new geoscientific knowledge and discoveries. Within the greater framework of the WorldFAIR project, this deliverable has come together in collaboration with CODATA (WP01 and WP02) and the International Union of Pure and Applied Chemistry (IUPAC, WP03).
+
+Prent, A., & Rawling, T. (2022). **WorldFAIR Project (D5.1) Formalisation of OneGeochemistry** (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.7380947>
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
