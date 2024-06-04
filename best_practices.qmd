@@ -100,11 +100,19 @@ Damerow, J.E., Varadharajan, C., Boye, K., Brodie, E.L., Burrus, M., Chadwick, K
 ::: {.callout-note appearance="simple" collapse="true"}
 ## Abbott+ 2022. Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis.
 Tephra is a unique volcanic product with an unparalleled role in understanding past eruptions, long-term behavior of volcanoes, and the effects of volcanism on climate and the environment. Tephra deposits also provide spatially widespread, extremely high-resolution time-stratigraphic markers across a range of sedimentary settings and are used in a range of disciplines (e.g., volcanology, climate science, archaeology, ecology, and impact assessment). Nonetheless, the study of tephra deposits is challenged by a lack of standardization that often inhibits data integration across geographic regions and across disciplines.
-
+</br>
 Here we present comprehensive recommendations for tephra data gathering and reporting that were developed by the tephra science community to serve as guidelines for future investigators and to ensure that sufficient data are gathered for transparency and interoperability.  Recommendations include standardized field and laboratory data collection along with reporting and correlation guidance. These are organized as tabulated lists of key metadata with their definition and purpose. They are system independent and usable for template, tool, and database development.  This new standardized framework promotes consistent tephra documentation and archiving, fosters interdisciplinary communication, and improves effectiveness of data sharing among diverse communities of researchers.  Wider adoption will help to expand the applicability and usability of tephra data and facilitate scientific collaboration and data reuse.
 
 Abbott, P., Bonadonna, C., Bursik, M., Cashman, K., Davies, S., Jensen, B., Kuehn, S., Kurbatov, A., Lane, C., Plunkett, G., Smith, V., Thomlinson, E., Thordarsson, T., Walker, J.D., Wallace, K., 2022. **Community Established Best Practice Recommendations for Tephra Studies-from Collection through Analysis.** Zenodo. <https://doi.org/10.5281/zenodo.6568306>
 :::
+
+::: {.callout-note appearance="simple" collapse="true"}
+## Case+ 2024. Guide and data requirements for submission of mineral deposit geochemical data in the Critical Minerals in Ores (CMiO) database.
+This guide and template details data requirements for submission of mineral deposit geochemical data to the Critical Minerals in Ores (CMiO) database, hosted by Geoscience Australia, in partnership with the United States Geological Survey and the Geological Survey of Canada. The CMiO database is designed to capture multielement geochemical data from a wide variety of critical mineral-bearing deposits around the world. Samples included within this database must be well-characterized and come from localities that have been sufficiently studied to have a reasonable constraint on their deposit type and environment of formation. As such, only samples analysed by modern geochemical methods, and with certain minimum metadata attribution, can be accepted. Data that is submitted to the CMiO database will also be published via the Geoscience Australia Portal (portal.ga.gov.au) and Critical Minerals Mapping Initiative Portal (https://portal.ga.gov.au/persona/cmmi).
+
+Case, G.N.D., Bastrakov, E.N., Graham, G.E., Hawkins, S.G., Hofstra, A.H., Huston, D.L., Lawley, C.J.M., Lisitsin, V.A., Wang, B. 2024. **Guide and data requirements for submission of mineral deposit geochemical data in the Critical Minerals in Ores (CMiO) database.** Record 2024/17. Geoscience Australia, Canberra. <https://dx.doi.org/10.26186/149408>
+:::
+
 
 ::: {.callout-note appearance="simple" collapse="true"}
 ## Wallace+ 2022. Community established best practice recommendations for tephra studies---from collection through analysis.
