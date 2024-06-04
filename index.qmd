@@ -64,4 +64,4 @@ The following international geo- and cosmochemical societies have endorsed OneGe
 
 ## Supported by
 Predominantly a voluntary effort, the OneGeochemistry initiative is currently run through a working group of the International Science Council’s Committee on DATA (CODATA) and receives a small amount of funding through the Horizon Europe project 'WorldFAIR' and from AuScope. Most OneGeochemistry activities are directly supported by the participating national and international data systems.
-![](images/supporters_v2.png)
+![](images/supporters_v3.png)
