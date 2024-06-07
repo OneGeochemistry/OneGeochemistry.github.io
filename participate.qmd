@@ -135,14 +135,16 @@ Join us at an upcoming conference or browse our past events and presentations. A
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    EGU General Assembly 2024    |    14-19 Apr 2024    |    Splinter Meeting    |    [The OneGeochemistry Initiative](https://meetingorganizer.copernicus.org/EGU24/session/50934)    |
 |        |        |        |        |
 |    MetSoc 2024, Brussels, BE    |    28 Jul-2 Aug 2024    |    TBC    |    TBC    |
 |        |        |        |        |
 |    Goldschmidt 2024, Chicago, USA     |    18-23 Aug 2024    |    Workshop    |    [Open Data in Geochemistry: Making, Delivering and Harnessing FAIR Data with Global Data Providers](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Session/6220)    |
 |        |        |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Session/6488)    |
+|        |        |    Talk    |    [OneGeochemistry: moving beyond stand-alone databases to an online Open FAIR Global Geochemical Data Network](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Paper/24577)    |
 |        |        |        |        |
 |    37th International Geological Congress 2024, Busan, KR     |    25-31 Aug 2024    |    TBC    |    TBC    |
+|        |        |        |        |
+|    2024 eResearch Australasia Conference, Melbourne, AUS     |    29-31 Oct 2024    |    TBC    |    TBC    |
 :::
 
 <!--Beyond FAIR: Reusing Chemical Data Across-disciplines with CARE, TRUST, and Openness -->
@@ -153,6 +155,9 @@ Join us at an upcoming conference or browse our past events and presentations. A
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    EGU General Assembly 2024    |    14-19 Apr 2024    |    Splinter Meeting    |    [The OneGeochemistry Initiative](https://meetingorganizer.copernicus.org/EGU24/session/50934)    |        |
+|        |        |    Talk    |    [FAIR Convergence using FAIR Implementation Profiles and the FAIR evolution pathways concept: lessons learned from the WorldFAIR Geochemistry Work Package](https://meetingorganizer.copernicus.org/EGU24/EGU24-21810.html)    |        |
+|        |        |        |        |        |
 |    AGU 2023, San Francisco, USA    |    11-15 Dec 2023    |    Poster    |    [Interdisciplinary Science and Cross Domain Interoperability on a Global Scale Through FAIR Implementation Profiles; Examples from the WorldFAIR Geochemistry Work Package](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1419611)    |        |
 |        |        |    Poster    |    [FAIR Implementation Profiles for Geochemical Data, Data Collections and Repositories](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1418622)    |        |
 |        |        |    Poster    |    [The Path to Creating Open Global Networks of All Types of Geochemical Data from Multiple Countries, Repositories and Researchers: what variables and vocabularies are YOU using to describe your data?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1440848)    |        |
