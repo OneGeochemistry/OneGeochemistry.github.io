@@ -85,7 +85,7 @@ Peng, G., Lacagnina, C., Downs, R.R., Ganske, A., Ramapriyan, H.K., Ivánová, I
 
 The Joint Committee for Guides in Metrology (JCGM) has introduced a revised third edition of the International Vocabulary of Metrology – basic and general concepts and associated terms (VIM: 2008) that replaces the second edition which was published in 1993. This article includes a table containing the terms and definitions that are most relevant to geoanalysis, designed to extend awareness and to promote best practice in the use of this terminology. Comparison is made, where appropriate, with definitions from the earlier 1993 definitions, to demonstrate the way in which thinking in metrological concepts has evolved over this time period.
 
-Potts, P. J. (2012). Glossary of Analytical and Metrological Terms from the International Vocabulary of Metrology (2008). Geostandards and Geoanalytical Research 36(3) 231–246. <https://doi.org/10.1111/j.1751-908x.2011.00122.x>
+Potts, P. J. (2012). **Glossary of Analytical and Metrological Terms from the International Vocabulary of Metrology (2008).** Geostandards and Geoanalytical Research 36(3) 231–246. <https://doi.org/10.1111/j.1751-908x.2011.00122.x>
 :::
 
 
