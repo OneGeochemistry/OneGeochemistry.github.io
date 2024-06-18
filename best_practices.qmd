@@ -18,7 +18,12 @@ If you think we have missed something, please [get in touch](participate.qmd)!
 Can't find a best practice appropriate for your data, but think there should be one? Consider getting involved in a OneGeochemistry [expert committee](participate.html#expert-committees) and produce a new best practice document.
 :::
 
-See also the best practice articles published by the Association of Applied Geochemists: <https://www.appliedgeochemists.org/best-practices>.
+See also:
+
+- Best practice articles published by the AAG: <https://www.appliedgeochemists.org/best-practices>
+- IAG Guide to the use of Metrological Terminology: <https://www.geoanalyst.org/glossary/>
+- JCGM Guides in Metrology: <https://www.bipm.org/en/committees/jc/jcgm/publications>
+
 
 ## General
 
