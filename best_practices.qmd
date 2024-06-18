@@ -8,8 +8,13 @@ The best practice documents compiled below are grouped by publications on **isot
 
 We encourage you to follow the relevant best practice from the list below to standardise your data and make them easily accessible, which can be crucial for successful future analysis and decision-making.
 
-<!---Here we compile best practice publications that help standardise the way data are reported, supporting reproducibility and interoperability.
-Please have a look at the list of publications below and use the appropriate one(s) as a guide to format your data as well as a guide to which additional metadata should be included in your (data) publication.--->
+Additional resources:
+
+- Best practice articles published by the AAG: <https://www.appliedgeochemists.org/best-practices>
+- IAG Guide to the use of Metrological Terminology: <https://www.geoanalyst.org/glossary/>
+- JCGM Guides in Metrology: <https://www.bipm.org/en/committees/jc/jcgm/publications>
+
+</br>
 
 ::: {.callout-tip}
 ## Feedback Welcome
@@ -17,12 +22,6 @@ If you think we have missed something, please [get in touch](participate.qmd)!
 
 Can't find a best practice appropriate for your data, but think there should be one? Consider getting involved in a OneGeochemistry [expert committee](participate.html#expert-committees) and produce a new best practice document.
 :::
-
-See also:
-
-- Best practice articles published by the AAG: <https://www.appliedgeochemists.org/best-practices>
-- IAG Guide to the use of Metrological Terminology: <https://www.geoanalyst.org/glossary/>
-- JCGM Guides in Metrology: <https://www.bipm.org/en/committees/jc/jcgm/publications>
 
 
 ## General
@@ -80,6 +79,15 @@ Open-source science builds on open and free resources that include data, metadat
 
 Peng, G., Lacagnina, C., Downs, R.R., Ganske, A., Ramapriyan, H.K., Ivánová, I., Wyborn, L., Jones, D., Bastin, L., Shie, C., Moroni, D.F., 2022. **Global Community Guidelines for Documenting, Sharing, and Reusing Quality Information of Individual Digital Datasets.** Data Science Journal 21 (1), 8. <https://doi.org/10.5334/dsj-2022-008>
 :::
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Potts 2012. Glossary of Analytical and Metrological Terms from the International Vocabulary of Metrology (2008).
+
+The Joint Committee for Guides in Metrology (JCGM) has introduced a revised third edition of the International Vocabulary of Metrology – basic and general concepts and associated terms (VIM: 2008) that replaces the second edition which was published in 1993. This article includes a table containing the terms and definitions that are most relevant to geoanalysis, designed to extend awareness and to promote best practice in the use of this terminology. Comparison is made, where appropriate, with definitions from the earlier 1993 definitions, to demonstrate the way in which thinking in metrological concepts has evolved over this time period.
+
+Potts, P. J. (2012). Glossary of Analytical and Metrological Terms from the International Vocabulary of Metrology (2008). Geostandards and Geoanalytical Research 36(3) 231–246. <https://doi.org/10.1111/j.1751-908x.2011.00122.x>
+:::
+
 
 :::{.callout-note appearance="simple" collapse="true"}
 ## Staudigel+ 2003. Electronic data publication in geochemistry.
