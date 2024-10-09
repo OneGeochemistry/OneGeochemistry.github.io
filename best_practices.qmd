@@ -136,6 +136,17 @@ Wallace, K.L., Bursik, M.I., Kuehn, S., Kurbatov, A.V., Abbott, P., Bonadonna, C
 :::
 
 
+## Laboratory Data Processing
+::: {.callout-note appearance="simple" collapse="true"}
+## Turner+Webber 2024. Principles and Practice of X-Ray Fluorescence Spectrometry –1: Fundamentals of XRF and Matrix Corrections.
+This chapter (Principles and Practice of X-Ray Fluorescence Spectrometry – 1: Fundamentals of XRF and Matrix Corrections) is a contribution to the Geostandards and Geoanalytical Research Handbook of Rock and Mineral Analysis – an online textbook that is a fully revised and updated edition of the Handbook of Silicate Rock Analysis (P. J. Potts, 1987, Blackie, Glasgow).
+</br>
+Chapter 6, Part 1 (from Section 2 of the handbook dealing with techniques for the determination of major and trace elements) considers the fundamentals of XRF spectrometry and matrix corrections in detail. Part 2 deals with wavelength dispersive and energy dispersive instrumentation. Following an introduction dealing with the analytical characteristics of XRF spectrometry, Part 1 continues with a detailed consideration of the origin and excitation of X-ray spectra. Sub-chapters that tackle the interaction of X-rays with matter and the matrix effect in geological materials follow this. Part 1 is concluded with a mathematical treatment of the correction of absorption-enhancement effects.
+
+Turner, K. E., & Webber, E. (2024). **GGR Handbook of Rock and Mineral Analysis Chapter 6 (Part 1) Principles and Practice of X‐Ray Fluorescence Spectrometry –1: Fundamentals of XRF and Matrix Corrections**. Geostandards and Geoanalytical Research 48(3), 505–541. <https://doi.org/10.1111/ggr.12559>
+:::
+
+
 ## Chronology
 ::: {.callout-note appearance="simple" collapse="true"}
 ## Boone+ 2023. Supplementary Information 1: A geospatial platform for the tectonic interpretation of low-temperature thermochronology Big Data.
