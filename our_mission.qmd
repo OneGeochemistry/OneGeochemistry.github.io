@@ -158,6 +158,14 @@ Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolut
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
+## Klöcking+ 2024. Geochemical Databases.
+
+Geochemistry is a data-driven discipline. Modern laboratories produce highly diverse data, and the recent exponential increase in data volumes is challenging established practices and capabilities for organizing, analyzing, preserving, and accessing these data. At the same time, sophisticated computational techniques, including machine learning, are increasingly applied to geochemical research questions, which require easy access to large volumes of high-quality, well-organized, and standardized data. Data management has been important since the beginning of geochemistry but has recently become a necessity for the discipline to thrive in the age of digitalization and artificial intelligence. This paper summarizes the landscape of geochemical databases, distinguishing different types of data systems based on their purpose, and their evolution in a historic context. We apply the life cycle model of geochemical data; explain the relevance of current standards, practices, and policies that determine the design of modern geochemical databases and data management; the ethics of data reuse such as data ownership, data attribution, and data citation; and finally create a vision for the future of geochemical databases: data being born digital, connected to agreed community standards, and contributing to global democratization of geochemical data.
+
+Klöcking, M., Lehnert, K., & Wyborn, L. (2025). **Geochemical databases**. In: A. Anbar & D Weis (Eds), Treatise on Geochemistry (pp. 97-135). Elsevier. <https://doi.org/10.1016/B978-0-323-99762-1.00123-6>
+:::
+
+:::{.callout-note appearance="simple" collapse="true"}
 ## McEwen+ 2020. Towards a Digital IUPAC.
 
 Communicating chemical knowledge is at the core of the IUPAC mission and underlies the success of the chemistry enterprise. In the global economy of the 21st century, this involves exchange among computer systems along with the expert scientists who use them. To enable the application of IUPAC outputs in the digital environment, IUPAC must augment its efforts to enable accessibility and interpretation by machines as well as humans. The Union must adapt to a digital work culture to engage in its mission of sustainable development, common language and free exchange of scientific information. [Frey 2014, https://doi.org/10.1515/ci.2014.36.1.14] 
