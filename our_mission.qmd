@@ -233,6 +233,24 @@ Wyborn, L.A.I., Cox, S.J.D., Lehnert, K.A., and Klump, K., 2018. **A modular app
 The OneGeochemistry team has published a number of articles to define the goals of this initiative and its ongoing development.\
 Additional documentation and technical papers are archived in our [Zenodo community](https://zenodo.org/communities/onegeochemistry/?page=1&size=20).
 
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Wyborn+ 2024. Enabling FAIR data in Geochemistry through the WorldFAIR Project.
+
+Increasingly policy makers, funders, and publishers require geochemical datasets to be compliant with the FAIR (Findable, Accessible, Interoperable and Reusable) Principles [1]. However, inconsistent interpretations of FAIR in geochemistry mean many researchers do not know what FAIR compliance entails and seek guidance. The OneGeochemistry initiative aims to establish global best practices for FAIR geochemical laboratory data.
+</br>
+OneGeochemistry participated in the CODATA and RDA-led WorldFAIR Project on Global Cooperation on FAIR Data Policy and Practice, that was funded by the European Commission for 2022-2024 and collectively sought to advance implementation of the FAIR principles and improve Interoperability and Reusability by connecting initiatives on data management and FAIR data practices, including using FAIR Implementation Profiles (FIPs).
+</br>
+The Project concluded that a dual approach to accelerating standards/best practices to enable FAIR compliance is recommended to increase FAIRness of geochemical data:
+<ol>
+<li> As geochemistry consists of multiple sub-disciplines, each with its own methods and terminologies, multiple working groups will be needed to develop required best practices for each; and </li>
+<li> As there are already many community protocols and best practices at either the local, national, or international level, there is an urgency to publish online current existing protocols, vocabularies, etc., with a view to forming focused international communities of practice to coalesce on global data agreements.</li>
+</ol>
+Four Deliverables were produced by the Geochemistry Case Study in the WorldFAIR Project: these are summarised and links are provided to each.
+
+Wyborn, L., Prent, A., Klöcking, M., Lehnert, K., Farrington, R., Nixon, A., Hezel, D., Elger, K., & Profeta, L. (2024). **Enabling FAIR data in Geochemistry through the WorldFAIR Project**. Version 1.0. Zenodo. <https://doi.org/10.5281/zenodo.13932070>
+:::
+
 :::{.callout-note appearance="simple" collapse="true"}
 ## Prent+ 2024. WorldFAIR Deliverable D5.3: Guidelines for implementing Geochemistry FIPs.
 
