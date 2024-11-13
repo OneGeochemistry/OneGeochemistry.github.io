@@ -8,7 +8,7 @@ OneGeochemistry is an international collaboration of organisations that support 
 It is our mission to advance geoscientific knowledge and discoveries by building and maintaining consensus-driven standards that make geochemistry research data globally findable and accessible, and truly interoperable and reusable to both humans and machines.
 OneGeochemistry seeks to create a global geochemical data network that facilitates and promotes data discovery and access through coordination and collaboration among international geochemical data providers.
 
-Since December 2022, OneGeochemistry is acting as a [CODATA Working Group](https://codata.org/initiatives/decadal-programme2/worldfair/onegeochemistry-wg) under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions.
+Since December 2022, OneGeochemistry is acting as a [CODATA Working Group](https://codata.org/initiatives/making-data-work/worldfair-2/onegeochemistry-wg/) under the International Science Council to bring together the disparate geochemistry initiatives across Scientific Unions, Associations, Societies and Commissions.
 
 <!---:::: {.columns}
 ::: {.column width="20%"}

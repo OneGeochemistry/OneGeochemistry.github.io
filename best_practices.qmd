@@ -109,6 +109,18 @@ Many disciplines of geochemistry have no data reporting standards, and their use
 Staudigel, H., Helly, J., Koppers, A. A. P., Shaw, H. F., McDonough, W. F., Hofmann, A. W., Langmuir, C. H., Lehnert, K., Sarbas, B., Derry, L. A., & Zindler, A., 2003. **Electronic data publication in geochemistry.** Geochemistry, Geophysics, Geosystems, 4(3). <https://doi.org/10.1029/2002GC000314>
 :::
 
+:::{.callout-note appearance="simple" collapse="true"}
+## Welti+ 2024. A common standard template for representing stable isotope results and associated metadata.
+
+This dataset contains a common standard template for representing the metadata of stable isotope results environmental samples (e.g., soils, rocks, water, gases) and a CSIRO-specific vocabulary for use across CSIRO research activities. The templates includes core properties of stable isotope results, analytical methods, and uncertainty of analyses, as well as associated metadata such as such as their name, identifier, type, and location. The templates enables users with disparate data to find common ground regardless of differences within the data itself i.e. sample types, collections.
+</br>
+The standardized templates can prevent duplicate sample metadata entry and lower metadata redundancy, thereby improving the stable isotope data curation and discovery. They have been developed iteratively, revised, and improved based on feedback from researchers and lab technicians.
+</br>
+Use of this template and vocabularies will facilitate interoperable and machine-readable platform-ready data collections.
+
+Welti, N., Flick, L., Hawkins, S., Fraser, G., Waltenberg, K., Crawford, J., Huhges, C., Puccini, A., Szarvas, S., Gerber, C., Suckow, A., Abhijit, P., & Liu, F. (2024). **A common standard template for representing stable isotope results and associated metadata.** v1. CSIRO. Data Collection. <https://doi.org/10.25919/0e5m-q876>
+:::
+
 
 
 ## Samples
