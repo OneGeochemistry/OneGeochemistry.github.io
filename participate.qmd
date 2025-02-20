@@ -17,23 +17,9 @@ OneGeochemistry aims to become an organisation that coordinates across all geo- 
 
 
 ## Ways to get involved
-<!-- :::: {.columns}
-::: {.column width="15%"}
-![](images/get-involved.png)
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="82%"}
 Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an [ambassador](participate.qmd#become-a-onegeochemistry-ambassador), joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then [join the Slack channel](participate.qmd#newsletter) and/or email list.
 
-OneGeochemistry is still developing and we want your input in designing the future of the initiative! We are planning a community workshop in mid 2024 where you can shape the future of OneGeochemistry, vote for the next governance board and perhaps even put yourself up for election. More details to follow.
-:::
-:::: --->
-
-Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an [ambassador](participate.qmd#become-a-onegeochemistry-ambassador), joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then [join the Slack channel](participate.qmd#newsletter) and/or email list.
-
-OneGeochemistry is still developing and we want your input in designing the future of the initiative! We are planning a community workshop in mid 2024 where you can shape the future of OneGeochemistry, vote for the next governance board and perhaps even put yourself up for election. More details to follow.
-
+For general enquiries, comments and suggestions contact [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org).
 
 
 ### Newsletter
@@ -61,20 +47,6 @@ OneGeochemistry is represented at most of the major, international geoscience an
 :::
 ::::
 
-
-### Contact the Coordinator
-:::: {.columns}
-::: {.column width="15%"}
-![](images/mail.png){width=50% fig-alt="Image by Dean Norris from Pixabay"}
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="82%"}
-Send your questions, comments and ideas to the current OneGeochemistry secretary Alexander Prent at [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org).
-:::
-::::
-
-<!-- **We'll share some info on such and such basis, these are the channels, actively ask people to share the initiative's imperative** -->
 
 
 ### Become a OneGeochemistry Ambassador
@@ -135,8 +107,6 @@ Join us at an upcoming conference or browse our past events and presentations. A
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    AGU 2024, Washington, USA     |    9-13 Dec 2024    |    Poster    |    [OneGeochemistry: Collaboration amongst and beyond geochemistry and isotope researchers to enable integration of their data in interdisciplinary research infrastructures](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1722833)    |
-|        |        |        |        |
 |    EGU General Assembly 2025, Vienna, AT    |    27 Apr - 2 May 2025    |    tbc    |    tbc    |
 |        |        |        |        |
 |    Goldschmidt 2025, Prague, CZ    |    6-11 July 2025    |    tbc    |    tbc    |
@@ -150,6 +120,8 @@ Join us at an upcoming conference or browse our past events and presentations. A
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    AGU 2024, Washington, USA     |    9-13 Dec 2024    |    Poster    |    [OneGeochemistry: Collaboration amongst and beyond geochemistry and isotope researchers to enable integration of their data in interdisciplinary research infrastructures](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1722833)    |        |
+|        |        |        |        |        |
 |    2024 eResearch Australasia Conference, Melbourne, AUS     |    29-31 Oct 2024    |    several talks    |    [full program](https://conference.eresearch.edu.au/program/)    |        |
 |        |        |        |        |        |
 |    37th International Geological Congress 2024, Busan, KR     |    25-31 Aug 2024    |    several talks    |    [full program](https://www.igc2024korea.org/content/14401)    |        |

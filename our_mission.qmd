@@ -90,18 +90,20 @@ OneGeochemistry seeks to create a global geochemical data network that facilitat
 - Using, where possible, internationally endorsed vocabularies.
 
 ## Team
-*Secretary & Coordinator:*\
-**Alexander Prent**
-
-*Interim Board Members:*\
+*Steering Committee:*\
 **Kerstin Lehnert**, Columbia University, representing the [Astromaterials Data System](https://www.astromat.org/), \
-**Marthe Klöcking**, University of Göttingen, representing [DIGIS for GEOROC 2.0](https://georoc.eu)\
+**Marthe Klöcking**, University of Münster, representing [DIGIS for GEOROC 2.0](https://georoc.eu)\
 **Kirsten Elger**, German Research Centre for Geosciences, representing [GFZ Data Services](https://bib.telegrafenberg.de/dataservices) and [EPOS Multi-Scale Laboratories](https://www.epos-eu.org/tcs/multi-scale-laboratories) \
 **Lesley Wyborn**, Australian National University, [AuScope Virtual Research Environments](https://www.auscope.org.au/avre) \
 **Dominik Hezel**, Goethe University Frankfurt, representing [NFDI4Earth](https://www.nfdi4earth.de/) and [MetBase](https://metbase.org/)\
 **Lucia Profeta**, Columbia University, representing [EarthChem](https://www.earthchem.org/) \
 **Angus Nixon**, University of Adelaide, representing the [AuScope Geochemistry Network](https://www.auscope.org.au/agn) \
 
+*Chairs:*\
+2024--2026 Angus Nixon, Kerstin, Lehnert
+
+*Former Members:*
+Alexander Prent, Geertje ter Maat
 
 
 ## The Briefest History of Geochemistry
@@ -151,10 +153,19 @@ Data standardization combined with descriptive metadata facilitate data reuse, w
 Crystal-Ornelas, R., Varadharajan, C., Bond-Lamberty, B., Boye, K., Burrus, M., Cholia, S., et al., 2021. **A guide to using GitHub for developing and versioning data standards and reporting formats.** Earth and Space Science, 8, e2021EA001797. <https://doi.org/10.1029/2021EA001797>
 :::
 
+::: {.callout-note appearance="simple" collapse="true"}
+## Hezel+ 2024. The MetBase database has been merged into Astromat.
+
+MetBase has been the world’s largest database for meteorite compositions, but has now passed this torch on to the Astromaterials Data System (Astromat), into which MetBase has recently been merged. This merger had been planned for some time and took almost 1 year to complete. Not only differences in the structure of the databases, in the content and organization of data and metadata, and in the terminology used but also incorporation of new data needed to be resolved to combine the data holdings of MetBase with the Astromat synthesis database. Astromat is NASA’s primary archive for laboratory analyses of astromaterial samples and funded by NASA to provide services for the preservation and open access of data from astromaterials, including meteorites, in alignment with the FAIR principles. After merging MetBase into Astromat’s synthesis database, this now provides the cosmochemical community the largest compilation of cosmochemical analytical data by far: over 2 million analytical data points. Astromat is also part of a bigger ecosystem of geo- and cosmochemcial databases, as its foundation is aligned with other large geochemical databases such as EarthChem and GEOROC. The visualization tools and the teaching tool from MetBase will be further developed and now exist as independent tools. We provide a brief history of the two databases and their journeys, an outlook toward the future, as well as lessons learned from this merger. We recommend that other cosmochemical databases try whenever possible to adopt the Astromat database schema as early as possible, or get in contact for alternative options. We believe MetBase now being a part of Astromat is a match made in heaven and hope Astromat will become a reliable and trusted service within the community.
+
+Hezel, D.C., Lehnert, K.A., Elangovan, P., Ji, P., Mays, J., Koblitz, J. (2024) **The MetBase database has been merged into Astromat.** Meteoritics & Planetary Science, 60(1), 143-148. <https://doi.org/10.1111/maps.14293>
+:::
+
+
 :::{.callout-note appearance="simple" collapse="true"}
 ## Jackson+Wyborn 2008. One Planet: One Geology? The Google Earth revolution and the geological data deficit.
 
-Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolution and the geological data deficit.** Environmental Geology,53(6), 1377-1380. <http://dx.doi.org/10.1007/s00254-007-1085-z>
+Jackson I and Wyborn L 2008. **One Planet: One Geology? The Google Earth revolution and the geological data deficit.** Environmental Geology, 53(6), 1377-1380. <http://dx.doi.org/10.1007/s00254-007-1085-z>
 :::
 
 :::{.callout-note appearance="simple" collapse="true"}
