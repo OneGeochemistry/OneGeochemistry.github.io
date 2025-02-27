@@ -8,8 +8,7 @@ The best practice documents compiled below are grouped by publications on **isot
 
 We encourage you to follow the relevant best practice from the list below to standardise your data and make them easily accessible, which can be crucial for successful future analysis and decision-making.
 
-Additional resources:
-
+#### Additional resources
 - Best practice articles published by the AAG: <https://www.appliedgeochemists.org/best-practices>
 - IAG Guide to the use of Metrological Terminology: <https://www.geoanalyst.org/glossary/>
 - JCGM Guides in Metrology: <https://www.bipm.org/en/committees/jc/jcgm/publications>

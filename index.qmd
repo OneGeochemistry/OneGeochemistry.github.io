@@ -20,6 +20,42 @@ Advance scientific knowledge and discovery by promoting best practices and proto
 
 ## Find out More {#sec-test}
 
+::::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/benjamin-franklin.png){width=45% style="display: block; margin: 0 auto"}
+
+**“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.**
+
+*Benjamin Franklin*
+
+:::
+
+
+::: {.column width="3%"}
+:::
+
+:::: {.column width="72%"}
+
+::: {.callout-note appearance="simple" icon=false}
+Find a [Best Practice](best_practices.qmd): Browse existing best practice recommendations for different aspects of geochemical data and research.
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+[Participate](participate.qmd): Review membership types and other ways to get involved in OneGeochemistry.
+:::
+
+::: {.callout-note appearance="simple" icon=false}
+[Conference Calendar](https://onegeochemistry.github.io/participate.html#sec-calendar): Check out the conference calendar for upcoming conferences and past OneGeochemistry events and resources.
+:::
+::::
+:::::
+
+
+
+
+
 <!--::: {.column-margin}
 **“We must, indeed, all hang together or, most assuredly, we shall all hang separately”.**\
 *Benjamin Franklin*
@@ -39,7 +75,7 @@ Check out the conference calendar for upcoming conferences and past OneGeochemis
 -->
 
 
-::: {.callout-note appearance="simple" icon=false}
+<!--::: {.callout-note appearance="simple" icon=false}
 ## Find a [Best Practice](best_practices.qmd):
 Browse existing best practice recommendations for different aspects of geochemical data and research.
 :::
@@ -64,7 +100,7 @@ Check out the conference calendar for upcoming conferences and past OneGeochemis
 ::: {.column width="8%"}
 ![](images/benjamin-franklin.png)
 :::
-::::
+::::-->
 
 
 

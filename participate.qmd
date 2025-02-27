@@ -9,59 +9,39 @@ title: 'Participate'
 ::: {.column width="5%"}
 :::
 ::: {.column width="75%"}
-OneGeochemistry is an initiative for the community by the community. The OneGeochemistry initiative is a voluntary effort supported by a part time funded coordinator and relies on the involvement of the community: your involvement.
+OneGeochemistry is an initiative for the community by the community. The OneGeochemistry initiative is a voluntary effort and relies on the involvement of the community: your involvement.
 
 OneGeochemistry aims to become an organisation that coordinates across all geo- and cosmochemical data types, both supporting existing community standards as well as facilitating the development of new ones where needed.
 :::
 ::::
 
 
+
+
+
+
 ## Ways to get involved
-Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an [ambassador](participate.qmd#become-a-onegeochemistry-ambassador), joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then [join the Slack channel](participate.qmd#newsletter) and/or email list.
+Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an ambassador, joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then join the email list and/or Slack channel.
 
 For general enquiries, comments and suggestions contact [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org).
 
 
-### Newsletter
-:::: {.columns}
-::: {.column width="15%"}
-![](images/contact.png)
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="82%"}
-[Join our Slack channel](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email) for ad-hoc updates and requests from the organisation, it is an open platform where you can share ideas and suggestions. This is the place for low latency messaging and rapid sharing of resources.
-:::
-::::
-
-
-### Meet us at the next Conference
-:::: {.columns}
-::: {.column width="15%"}
-![](images/conference.png)
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="82%"}
-OneGeochemistry is represented at most of the major, international geoscience and geochemistry conferences. Find out more about the initiative and meet the current members: it is easy to get in touch with any of us there, please come over for a chat about the initiative. See the [conference calendar](participate.html#sec-calendar) below for upcoming events.
-:::
-::::
 
 
 
-### Become a OneGeochemistry Ambassador
-:::: {.columns}
-::: {.column width="15%"}
-![](images/ambassador.png){width=80%}
-:::
-::: {.column width="3%"}
-:::
-::: {.column width="82%"}
-Ambassadors are envisaged as early to mid-career researchers that promote good data management following current best practices and standards. Assisted by the OneGeochemistry board members, ambassadors will spread awareness in the communities of the importance of data management in geo- and cosmochemistry, the existing landscape of data systems, and inspire new and future generations to contribute.
 
-Get in touch at [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org) if you are interested or want to find out more.
-:::
-::::
+### Membership
+General membership may be obtained through self-nomination by registering for the [OneGeochemistry community email list](https://lists.codata.org/mailman/listinfo/onegeochemistry-community_lists.codata.org).
+Regular updates on OneGeochemistry activities and other relevant information will be sent to all members via this community email list.
+
+As a member you can also join or lead expert committees to advise on and help coordinate development of standard data reporting methods, method specific vocabularies, as well as metadata profiles.
+Members are expected to align with and support the goals, interests, and principles of the OneGeochemistry initiative.
+
+Data systems that are interested to collaborate through OneGeochemistry to implement agreed best practices for laboratory analytical data are encouraged to apply for *Type 2* membership by contacting onegeochemistry\@codata.org. Type 2 membership is open to all repository and database providers, research and government infrastructures that develop and/or operate substantial, publicly and long-term available geochemical data services.
+
+Please refer to the [governance document](https://doi.org/10.5281/zenodo.14222982) for full details on OneGeochemistry membership.
+
+
 
 
 ### Expert Committees
@@ -74,42 +54,52 @@ Get in touch at [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org)
 ::: {.column width="82%"}
 Multiple best practices and recommendations for specific data types, analytical techniques or sub-disciplines have already been defined (see [Best Practices](best_practices.qmd)). The larger the size of the community that agrees and commits to a particular standard, the larger the community that can share and reuse data, particularly in machine-to-machine environments. OneGeochemistry provides the framework and support to harmonise and curate these existing standards through expert committees.
 
-The task of these expert committees would be to compile and further develop standards for each distinct analytical technique or related groups of analytical methods. We suggest two types of committees:
+Expert Committees review, develop and update standards to enable FAIR and Open Geochemistry as the foundational elements of the OneGeochemistry data network. Standards will be registered with the IUGS Commission for the Management and Application of Geoscience Information (CGI) and committees are encouraged to create citable publications in the peer-reviewed geochemical literature.
 
-**Scientific expert committees:**
-A group of geochemistry experts who review, harmonise and aggregate existing best practices for a specific geochemical data type and/or methodology (e.g. metadata profiles, vocabularies).
-
-**Technical expert committee:**
-A group of information technology experts who implement the recommended best practices in machine-readable format.
-
-<!--**Test Of Elements paper last Paragraph**
-The OneGeochemistry initiative invites you, other researchers, data groups and initiatives to help make the introductory vision come true, by making geochemical data more standardised and interoperable between institutions and nations creating a global network of geochemical data resources. For more information please visit the OneGeochemistry website on www.onegeochemistry.org. Please join OneGeochemistry using the above mentioned channels or by getting in touch with Alexander Prent on onegeochemistry@codata.org. -->
+Get in touch at [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org) if you are interested or want to find out more.
 :::
 ::::
 
 
-<!-- ### Become a Member
 
-Becoming a member is the lightweight option with which you will receive updates via a mailing list and are actively encouraged to share your ideas about the best way to make geochemical data and resources more interoperable across the globe.
 
-Being a member you can make yourself electable for the board, join or lead scientific and technical expert committees to advise on and help coordinate development of standard data reporting methods, method specific vocabularies, as well as metadata profiles. -->
 
-<!-- ### Become a Partner
 
-Data infrastructure organisations, or groups as well as laboratories and institutes can become OneGeochemistry partner and contribute via a representative member of their organisation to the OneGeochemistry mission.
 
-Making geochemical data more standardised and interoperable between institutions and nations **creating a global network of geochemical data resources**. -->
+### Other Participation Options
+:::: {.columns}
+::: {.column width="15%"}
+![](images/contact.png)
+:::
+::: {.column width="3%"}
+:::
+::: {.column width="82%"}
+[Join our Slack channel](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email) for ad-hoc updates and requests from the organisation, it is an open platform where you can share ideas and suggestions. This is the place for low latency messaging and rapid sharing of resources.
+
+*OneGeochemistry Ambassadors* are envisaged as early to mid-career researchers that promote good data management following current best practices and standards. Assisted by the OneGeochemistry board members, ambassadors will spread awareness in the communities of the importance of data management in geo- and cosmochemistry, the existing landscape of data systems, and inspire new and future generations to contribute.
+Contact [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org) to find out more.
+:::
+::::
+
+
+
+
+
+
+
+
 
 ## Conference Calendar {#sec-calendar}
-Join us at an upcoming conference or browse our past events and presentations. Additional resources can also be found in our [Zenodo community](https://zenodo.org/communities/onegeochemistry/).
+OneGeochemistry is represented at most of the major, international geoscience and geochemistry conferences. Join us at an upcoming conference to find out more about the initiative and meet the current members; or browse our past events and presentations below.
+Additional resources can also be found in our [Zenodo community](https://zenodo.org/communities/onegeochemistry/).
 
 :::{.callout-note appearance="simple"}
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    EGU General Assembly 2025, Vienna, AT    |    27 Apr - 2 May 2025    |    tbc    |    tbc    |
+|    EGU General Assembly 2025, Vienna, AT    |    27 Apr - 2 May 2025    |    Splinter Meeting    |    [OneGeochemistry: Creating a Global Network of FAIR Geochemical Data through Community Consensus (SPM82)](https://meetingorganizer.copernicus.org/EGU25/session/54864)    |
 |        |        |        |        |
-|    Goldschmidt 2025, Prague, CZ    |    6-11 July 2025    |    tbc    |    tbc    |
+|    Goldschmidt 2025, Prague, CZ    |    6-11 July 2025    |    Town Hall    |    tbc    |
 :::
 
 <!--Beyond FAIR: Reusing Chemical Data Across-disciplines with CARE, TRUST, and Openness -->
