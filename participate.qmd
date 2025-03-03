@@ -31,13 +31,18 @@ For general enquiries, comments and suggestions contact [onegeochemistry\@codata
 
 
 ### Membership
-General membership may be obtained through self-nomination by registering for the [OneGeochemistry community email list](https://lists.codata.org/mailman/listinfo/onegeochemistry-community_lists.codata.org).
-Regular updates on OneGeochemistry activities and other relevant information will be sent to all members via this community email list.
 
-As a member you can also join or lead expert committees to advise on and help coordinate development of standard data reporting methods, method specific vocabularies, as well as metadata profiles.
+As a member you will receive regular updates on OneGeochemistry activities and other relevant information via our community email list.
+Members can also join or lead expert committees to develop or maintain standards for geochemical data reporting (see [below](participate.qmd#expert-committees)).
+
 Members are expected to align with and support the goals, interests, and principles of the OneGeochemistry initiative.
 
-Data systems that are interested to collaborate through OneGeochemistry to implement agreed best practices for laboratory analytical data are encouraged to apply for *Type 2* membership by contacting onegeochemistry\@codata.org. Type 2 membership is open to all repository and database providers, research and government infrastructures that develop and/or operate substantial, publicly and long-term available geochemical data services.
+:::{.callout-warning icon=false}
+## Join OneGeochemistry today!
+General membership may be obtained through self-nomination by registering for the [OneGeochemistry community email list](https://lists.codata.org/mailman/listinfo/onegeochemistry-community_lists.codata.org).
+:::
+
+Data systems that are interested in collaboration through OneGeochemistry are encouraged to apply for *Type 2* membership by contacting onegeochemistry\@codata.org. Type 2 membership is open to all repository and database providers, research and government infrastructures that develop and/or operate substantial, publicly and long-term available geochemical data services.
 
 Please refer to the [governance document](https://doi.org/10.5281/zenodo.14222982) for full details on OneGeochemistry membership.
 
@@ -51,7 +56,7 @@ Please refer to the [governance document](https://doi.org/10.5281/zenodo.1422298
 ::: {.column width="3%"}
 :::
 ::: {.column width="82%"}
-Multiple best practices and recommendations for specific data types, analytical techniques or sub-disciplines have already been defined (see [Best Practices](best_practices.qmd)). The larger the size of the community that agrees and commits to a particular standard, the larger the community that can share and reuse data, particularly in machine-to-machine environments. OneGeochemistry provides the framework and support to harmonise and curate these existing standards through expert committees.
+Multiple best practices and recommendations for specific data types, analytical techniques or sub-disciplines have already been defined (see [Best Practices](best_practices.qmd)). Such standardised protocols include method specific vocabularies as well as method-specific metadata profiles. The larger the size of the community that agrees and commits to a particular standard, the larger the community that can share and reuse data, particularly in machine-to-machine environments. OneGeochemistry provides the framework and support to harmonise and curate these existing standards through expert committees.
 
 Expert Committees review, develop and update standards to enable FAIR and Open Geochemistry as the foundational elements of the OneGeochemistry data network. Standards will be registered with the IUGS Commission for the Management and Application of Geoscience Information (CGI) and committees are encouraged to create citable publications in the peer-reviewed geochemical literature.
 
