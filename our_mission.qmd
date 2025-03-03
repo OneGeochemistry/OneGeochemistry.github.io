@@ -84,7 +84,7 @@ Today, the Internet can connect multiple globally distributed databases in real-
 
 ## Governance & Leadership
 
-OneGeochemistry is organised according to the structure defined in its [governance](https://doi.org/10.5281/zenodo.14222982).
+OneGeochemistry is a voluntary initiative with an organised [governance](https://doi.org/10.5281/zenodo.14222982) structure.
 
 :::{.callout-note appearance="simple" icon=false collapse="false"}
 ## Participating Data Systems

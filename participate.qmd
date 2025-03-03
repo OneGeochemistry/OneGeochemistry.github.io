@@ -21,7 +21,7 @@ OneGeochemistry aims to become an organisation that coordinates across all geo- 
 
 
 ## Ways to get involved
-Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an ambassador, joining or starting an [expert committee](participate.qmd#expert-committees) to help with the development of digital best practices. Just want to keep informed? Then join the email list and/or Slack channel.
+Involvement has many forms. We are always keen to hear your ideas, comments and feedback on the initiative. If you have more time to contribute, consider becoming an ambassador, joining or starting an expert committee to help with the development of digital best practices. Just want to keep informed? Then join the email list and/or Slack channel.
 
 For general enquiries, comments and suggestions contact [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org).
 
@@ -40,7 +40,6 @@ Members are expected to align with and support the goals, interests, and princip
 Data systems that are interested to collaborate through OneGeochemistry to implement agreed best practices for laboratory analytical data are encouraged to apply for *Type 2* membership by contacting onegeochemistry\@codata.org. Type 2 membership is open to all repository and database providers, research and government infrastructures that develop and/or operate substantial, publicly and long-term available geochemical data services.
 
 Please refer to the [governance document](https://doi.org/10.5281/zenodo.14222982) for full details on OneGeochemistry membership.
-
 
 
 
@@ -76,7 +75,7 @@ Get in touch at [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org)
 ::: {.column width="82%"}
 [Join our Slack channel](https://onegeochemistry.slack.com/join/shared_invite/zt-18gjyj49u-FRf1XwCU1vj8xxCEUYoD7Q#/shared-invite/email) for ad-hoc updates and requests from the organisation, it is an open platform where you can share ideas and suggestions. This is the place for low latency messaging and rapid sharing of resources.
 
-*OneGeochemistry Ambassadors* are envisaged as early to mid-career researchers that promote good data management following current best practices and standards. Assisted by the OneGeochemistry board members, ambassadors will spread awareness in the communities of the importance of data management in geo- and cosmochemistry, the existing landscape of data systems, and inspire new and future generations to contribute.
+**OneGeochemistry Ambassadors** are envisaged as early to mid-career researchers that promote good data management following current best practices and standards. Assisted by the OneGeochemistry board members, ambassadors will spread awareness in the communities of the importance of data management in geo- and cosmochemistry, the existing landscape of data systems, and inspire new and future generations to contribute.
 Contact [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org) to find out more.
 :::
 ::::
