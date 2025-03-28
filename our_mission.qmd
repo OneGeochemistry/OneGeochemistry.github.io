@@ -93,6 +93,7 @@ OneGeochemistry is a voluntary initiative with an organised [governance](https:/
 - [DIGIS for GEOROC 2.0](https://georoc.eu)
 - [EarthChem](https://www.earthchem.org/)
 - [EPOS Multi-Scale Laboratories](https://www.epos-eu.org/tcs/multi-scale-laboratories)
+- [Geoscience Australia](https://www.ga.gov.au/scientific-topics/disciplines/geochemistry)
 - [GFZ Data Services](https://bib.telegrafenberg.de/dataservices)
 :::
 
@@ -103,11 +104,12 @@ OneGeochemistry is a voluntary initiative with an organised [governance](https:/
 **Marthe Klöcking**, University of Münster (DIGIS for GEOROC 2.0)\
 **Lucia Profeta**, Columbia University (EarthChem) \
 **Kirsten Elger**, German Research Centre for Geosciences (GFZ Data Services, EPOS Multi-Scale Laboratories) \
+**Keith Sircombe**, Geoscience Australia \
 **Lesley Wyborn**, Australian National University\
 **Dominik Hezel**, Goethe University Frankfurt\
 
 *Chairs:*\
-2024--2026 Angus Nixon, Kerstin, Lehnert \
+2024--2026 Angus Nixon, Kerstin Lehnert \
 contact: [onegeochemistry\@codata.org](mailto:onegeochemistry@codata.org)
 :::
 
