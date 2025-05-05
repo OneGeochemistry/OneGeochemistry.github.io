@@ -101,9 +101,8 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    EGU General Assembly 2025, Vienna, AT    |    27 Apr - 2 May 2025    |    Splinter Meeting    |    [OneGeochemistry: Creating a Global Network of FAIR Geochemical Data through Community Consensus (SPM82)](https://meetingorganizer.copernicus.org/EGU25/session/54864)    |
-|        |        |        |        |
 |    Goldschmidt 2025, Prague, CZ    |    6-11 July 2025    |    Town Hall    |    tbc    |
+|        |        |    Booth    |    [Booth 18: Open Data for Geo/Cosmochemistry: EarthChem & the Astromaterials Data System](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/7852)    | 
 :::
 
 <!--Beyond FAIR: Reusing Chemical Data Across-disciplines with CARE, TRUST, and Openness -->
@@ -114,6 +113,8 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    EGU General Assembly 2025, Vienna, AT    |    27 Apr - 2 May 2025    |    Splinter Meeting    |    [OneGeochemistry: Creating a Global Network of FAIR Geochemical Data through Community Consensus (SPM82)](https://meetingorganizer.copernicus.org/EGU25/session/54864)    |        |
+|        |        |        |        |        |
 |    AGU 2024, Washington, USA     |    9-13 Dec 2024    |    Poster    |    [OneGeochemistry: Collaboration amongst and beyond geochemistry and isotope researchers to enable integration of their data in interdisciplinary research infrastructures](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1722833)    |        |
 |        |        |        |        |        |
 |    2024 eResearch Australasia Conference, Melbourne, AUS     |    29-31 Oct 2024    |    several talks    |    [full program](https://conference.eresearch.edu.au/program/)    |        |

@@ -101,12 +101,13 @@ OneGeochemistry is a voluntary initiative with an organised [governance](https:/
 ## Steering Committee
 **Kerstin Lehnert**, Columbia University (Astromaterials Data System) \
 **Angus Nixon**, University of Adelaide (AuScope Geochemistry Network) \
-**Marthe Klöcking**, University of Münster (DIGIS for GEOROC 2.0)\
+**Marie Traun**, University of Göttingen (DIGIS for GEOROC 2.0)\
 **Lucia Profeta**, Columbia University (EarthChem) \
 **Kirsten Elger**, German Research Centre for Geosciences (GFZ Data Services, EPOS Multi-Scale Laboratories) \
 **Keith Sircombe**, Geoscience Australia \
 **Lesley Wyborn**, Australian National University\
 **Dominik Hezel**, Goethe University Frankfurt\
+**Marthe Klöcking**, University of Münster\
 
 *Chairs:*\
 2024--2026 Angus Nixon, Kerstin Lehnert \
