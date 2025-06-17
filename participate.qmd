@@ -101,8 +101,9 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    Goldschmidt 2025, Prague, CZ    |    6-11 July 2025    |    Town Hall    |    tbc    |
-|        |        |    Booth    |    [Booth 18: Open Data for Geo/Cosmochemistry: EarthChem & the Astromaterials Data System](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/7852)    | 
+|    Goldschmidt 2025, Prague, CZ    |    6-11 July 2025    |    Town Hall    |    Wed 9 July 1-2pm Club A (1st Floor, PCC): Support the Databases     |
+|        |        |    Booth    |    [Booth 18: Open Data for Geo/Cosmochemistry: EarthChem & the Astromaterials Data System](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/7852)    |
+|        |        |    Session    |    [14b-O3 - Software and Databases for Modernizing and Empowering Geochemical Research - GIS and Other Tools](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/8243)    |
 :::
 
 <!--Beyond FAIR: Reusing Chemical Data Across-disciplines with CARE, TRUST, and Openness -->
