@@ -1,0 +1,20 @@
+---
+title: "Database Resilience Town Hall - Goldschmidt"
+---
+
+To users of geochemical, isotopic and cosmochemical data everywhere,
+
+Many of us rely on publicly available geochemical databases to find data for use in research, or to store our own data when publishing in academic journals or other publication outlets. These services depend on nationally awarded research grants that may or may not be available consistently and continuously in the future. Geochemical databases today cannot be taken for granted. While they have managed to be around for over 25 years, they are vulnerable and not presently a sustainable and resilient data infrastructure for geochemistry. Support of the community - YOU - is essential if we are to maintain access to these crucial resources so they can continue to deliver the data and services our geochemical and cosmochemical community needs in the pursuit of scientific discovery.
+
+In partnership with the OneGeochemistry initiative, representatives from major global geochemical databases have issued a ‘Call to Action’ and will be holding a Town Hall to offer a forum for the community to learn, discuss, and take action, with the goal of building a solution for more resilient data services for the future.
+
+::: {.callout-warning appearance="simple" icon=false}
+**When:** Wednesday July 9th, 13:00 - 14:00 CEST \
+**Where:** Club A 1st Floor (Goldschmidt, Prague) \
+**Why:** To ensure access to vital geochemical data is preserved into the future
+:::
+
+
+Join the [OneGeochemistry community mailing list](https://lists.codata.org/mailman/listinfo/onegeochemistry-community_lists.codata.org) to show your support and stay up to date.
+
+For more background, read the [latest Elements piece](https://www.elementsmagazine.org/wp-content/uploads/archives/e21_3/e21_3_dep_PartingShots.pdf) on the future of databases and the community.

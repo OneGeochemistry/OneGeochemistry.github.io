@@ -17,6 +17,9 @@ website:
         file: best_practices.qmd
       - text: "Our Mission"
         file: our_mission.qmd
+      - text: "Database Resilience"
+        file: resilience.qmd
+        
 
 #resources:
 #  - CNAME
