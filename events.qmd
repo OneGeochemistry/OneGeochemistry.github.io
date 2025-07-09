@@ -1,6 +1,8 @@
 ---
-title: "Database Resilience Town Hall - Goldschmidt"
+title: "Meetings & Events"
 ---
+
+## Database Resilience Town Hall - Goldschmidt
 
 To users of geochemical, isotopic and cosmochemical data everywhere,
 
