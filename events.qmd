@@ -14,7 +14,7 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 |    NFDI4Earth Joint Plenary, Bremen, DE    |    22-25 Sep 2025    |    Sessions & Workshops    |    [program](https://www.nfdi4earth.de/joint-plenary-2025)    |
 |    SciDataCon 2025, Brisbane, AUS    |    13-16 Oct 2025    |    Session    |    [Coalition building to support sustainable digital data standards](https://scidatacon.org/event/9/contributions/51/)    |
 |    GSA Connects 2025, San Antonio, USA     |    19-22 Oct 2025    |    Lecture    |    [Regarding Resilience of Community Databases](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95241/application/10794)    |
-|    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    several talks    |    [full program](https://conference.eresearch.edu.au/program/)    |
+|    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    Session    |    [How and where are you preserving your raw machine observable data for future science?](https://conference.eresearch.edu.au/how-and-where-are-you-preserving-your-raw-machine-observable-data-for-future-science/)    |
 |    AGU 2025, New Orleans, USA     |    15-19 Dec 2025    |    tbc    |    [AGU25](https://www.agu.org/annual-meeting)    |
 :::
 
