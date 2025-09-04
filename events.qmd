@@ -2,6 +2,121 @@
 title: "Meetings & Events"
 ---
 
+## Conference Calendar {#sec-calendar}
+OneGeochemistry is represented at most of the major, international geoscience and geochemistry conferences. Join us at an upcoming conference to find out more about the initiative and meet the current members; or browse our past events and presentations below.
+Additional resources can also be found in our [Zenodo community](https://zenodo.org/communities/onegeochemistry/).
+
+:::{.callout-note appearance="simple"}
+## Upcoming Events
+|    Event    |    Date    |    Type    |    Title    |
+|    -----    |     ----    |    ----    |    -----------    |
+|    Geo4Göttingen, Göttingen, DE    |    14-18 Sep 2025    |    Session    |    [Geochemical Databases and Data Analysis Tools](https://www.conftool.pro/geo4goettingen2025/index.php?page=browseSessions&form_session=291)    |
+|    NFDI4Earth Joint Plenary, Bremen, DE    |    22-25 Sep 2025    |    Sessions & Workshops    |    [program](https://www.nfdi4earth.de/joint-plenary-2025)    |
+|    SciDataCon 2025, Brisbane, AUS    |    13-16 Oct 2025    |    Session    |    [Coalition building to support sustainable digital data standards](https://scidatacon.org/event/9/contributions/51/)    |
+|    GSA Connects 2025, San Antonio, USA     |    19-22 Oct 2025    |    Lecture    |    [Regarding Resilience of Community Databases](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95241/application/10794)    |
+|    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    several talks    |    [full program](https://conference.eresearch.edu.au/program/)    |
+|    AGU 2025, New Orleans, USA     |    15-19 Dec 2025    |    tbc    |    [AGU25](https://www.agu.org/annual-meeting)    |
+:::
+
+
+:::{.callout-note appearance="simple" collapse="true"}
+## Past Events & Resources
+|    Event    |    Date    |    Type    |    Title    |    Resources    |
+|    ------    |     ------     |     --     |     -----------     |     --     |
+|    Goldschmidt 2025, Prague, CZ    |    6-11 Jul 2025    |    Town Hall    |    Wed 9 July 1-2pm Club A (1st Floor, PCC): Support the Databases     |       |
+|        |        |    Booth    |    [Booth 18: Open Data for Geo/Cosmochemistry: EarthChem & the Astromaterials Data System](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/7852)    |       |
+|        |        |    Session    |    [14b-O3 - Software and Databases for Modernizing and Empowering Geochemical Research - GIS and Other Tools](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/8243)    |       |
+|        |        |        |        |        |
+|    EGU General Assembly 2025, Vienna, AT    |    27 Apr - 2 May 2025    |    Splinter Meeting    |    [OneGeochemistry: Creating a Global Network of FAIR Geochemical Data through Community Consensus (SPM82)](https://meetingorganizer.copernicus.org/EGU25/session/54864)    |        |
+|        |        |        |        |        |
+|    AGU 2024, Washington, USA     |    9-13 Dec 2024    |    Poster    |    [OneGeochemistry: Collaboration amongst and beyond geochemistry and isotope researchers to enable integration of their data in interdisciplinary research infrastructures](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1722833)    |        |
+|        |        |        |        |        |
+|    2024 eResearch Australasia Conference, Melbourne, AUS     |    29-31 Oct 2024    |    several talks    |    [full program](https://conference.eresearch.edu.au/2024-program/)    |        |
+|        |        |        |        |        |
+|    37th International Geological Congress 2024, Busan, KR     |    25-31 Aug 2024    |    several talks    |    [full program](https://www.igc2024korea.org/content/14401)    |        |
+|        |        |        |        |        |
+|    Goldschmidt 2024, Chicago, USA     |    18-23 Aug 2024    |    Workshop    |    [Open Data in Geochemistry: Making, Delivering and Harnessing FAIR Data with Global Data Providers](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Session/6220)    | |
+|        |        |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Session/6488)    | |
+|        |        |    Talk    |    [OneGeochemistry: moving beyond stand-alone databases to an online Open FAIR Global Geochemical Data Network](https://conf.goldschmidt.info/goldschmidt/2024/meetingapp.cgi/Paper/24577)    | |
+|        |        |        |        |        |
+|    MetSoc 2024, Brussels, BE    |    28 Jul-2 Aug 2024    |    Workshop    |        |        |
+|        |        |        |        |        |
+|    EGU General Assembly 2024    |    14-19 Apr 2024    |    Splinter Meeting    |    [The OneGeochemistry Initiative](https://meetingorganizer.copernicus.org/EGU24/session/50934)    |        |
+|        |        |    Talk    |    [FAIR Convergence using FAIR Implementation Profiles and the FAIR evolution pathways concept: lessons learned from the WorldFAIR Geochemistry Work Package](https://meetingorganizer.copernicus.org/EGU24/EGU24-21810.html)    |        |
+|        |        |        |        |        |
+|    AGU 2023, San Francisco, USA    |    11-15 Dec 2023    |    Poster    |    [Interdisciplinary Science and Cross Domain Interoperability on a Global Scale Through FAIR Implementation Profiles; Examples from the WorldFAIR Geochemistry Work Package](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1419611)    |        |
+|        |        |    Poster    |    [FAIR Implementation Profiles for Geochemical Data, Data Collections and Repositories](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1418622)    |        |
+|        |        |    Poster    |    [The Path to Creating Open Global Networks of All Types of Geochemical Data from Multiple Countries, Repositories and Researchers: what variables and vocabularies are YOU using to describe your data?](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1440848)    |        |
+|        |        |    Poster    |    [Using FAIR Implementation Profiles (FIPs) and FAIR Enabling Resources (FERs) to Accelerate Machine-to-machine Interoperability of Geoscience Datasets Within and Across Repositories, Communities and Other Domains](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1440456)    |        |
+|        |        |        |        |        |
+|    SciDataCon 2023, Salzburg, AUT    |    25 Oct 2023    |    Session    |    [Why Persistent Identifiers and How Their Connectivity Enhances Research](https://www.scidatacon.org/IDW-2023-Salzburg/sessions/510/)    |        |
+|        |        |        |        |        |
+|    IUGG 2023, Berlin, DE    |    11-20 Jul 2023    |    Poster    |    [Addressing the need for global standards for geochemical data – the OneGeochemistry initiative](https://iugg2023.floq.live/event/IUGG23/search?objectClass=programelement&objectId=645caeb3766b0683937358cd&type=detail)    |        |
+|        |        |        |        |        |
+|    Goldschmidt 2023, Lyon, FR    |    9-14 Jul 2023    |    Booth    |    [OneGeochemistry Exhibition](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Session/5007)    |        |
+|         |        |    Session    |    [6m - Data science techniques (ML, data analytics) for planetary science data: exploiting legacy geochemical data and optimizing future planetary missions](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Symposium/382)    |        |
+|         |        |    Poster    |    [Basis for geochemistry data science applications; data standardisation through the OneGeochemistry initiative](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Paper/20761)    |        |
+|         |        |    Talk    |    [How Historically the Technological Advances in Geochemical Analysis Exceeded our Ability to Store, Curate and Globally Share Geochemical Data](https://conf.goldschmidt.info/goldschmidt/2023/meetingapp.cgi/Paper/19570)    |        |
+|        |        |        |        |        |
+|    EGU General Assembly 2023    |    23-28 Apr 2022    |    Town Hall    |    [OneGeochemistry: Towards a Global Network of Geochemical Data](https://meetingorganizer.copernicus.org/EGU23/session/47695)    |        |
+|        |        |    Session    |    [Recent advances in computational petrology and geochemical data analysis](https://meetingorganizer.copernicus.org/EGU23/session/45146)    |        |
+|        |        |    Talk    |    [The OneGeochemistry initiative as a CODATA Working Group; bringing together international geochemical data systems for easy data discovery](https://doi.org/10.5194/egusphere-egu23-16338)    |        |
+|        |        |    Poster    |    [The WorldFAIR project: enabling global interdisciplinary cooperation on integrating FAIR Data policy and practices in geochemistry with ten other disciplinary groups](https://doi.org/10.5194/egusphere-egu23-15749)    |        |
+|        |        |        |        |        |
+|    AGU 2022    |    12-16 Dec 2022    |    Session    |    [V42A - Data-Driven Research in Geochemistry: Status Quo and Future Possibilities III Oral](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/168503)    |        |
+|        |        |    Talk    |    [V42A-02 - OneGeochemistry: Progress on the Path toward Shared, Reusable, and Interoperable Geochemical Data](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1189876)    |        |
+|        |        |    Poster    |    [V31B-01 - Challenging the Status Quo: What Databases/Data Compilations are You Using for Your Data-Driven Geochemical Research? Will they still be accessible in 2030? Are your data compilations ethical?](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1191848)    |        |
+|        |        |    Talk    |    [IN13A-08 - Global Cooperation for Interdisciplinary FAIR Data Policy and Practice: The WorldFAIR Project and OneGeochemistry](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1193646)    |        |
+|        |        |        |        |        |
+|    Vocabulary Symposium 2022, Canberra, AUS    |    14-15 Nov 2022    |    Talk    |    [Developing Vocabularies for the International OneGeochemistry Initiative: Specifying Locally, Harmonising Globally](https://sites.google.com/ardc.edu.au/vocabulary-symposium-2022/program)    |    [slides](https://doi.org/10.5281/zenodo.7834705)    |
+|        |        |        |        |        |
+|    DDE Update Meeting, Paris, FR    |    07-Nov-22    |        |    [Programme Overview](https://www.ddeworld.org/news/detail/173)    |        |
+|        |        |        |        |        |
+|    1st International Conference on FAIR Digital Objects, Leiden, NL    |    26-28 Oct 2022    |        |    [Programme Overview](https://www.fdo2022.org/programme)    |        |
+|        |        |        |        |        |
+|    2nd FAIR Convergence Symposium, Leiden, NL    |    24-26 Oct 2022    |        |    [Programme Overview](https://codata.org/events/conferences/fair-convergence-symposium-2022/)    |        |
+|        |        |        |        |        |
+|    eResearch Australasia 2022, Brisbane, AUS    |    17-20 Oct 2022    |    Talk    |    [Contributions from the Land Down Under to the EU Horizon Funded Project “WorldFAIR": Global Cooperation on FAIR Data Policy and Practice](https://conference.eresearch.edu.au/2022/08/contributions-from-the-land-down-under-to-the-eu-horizon-funded-project-worldfair-global-cooperation-on-fair-data-policy-and-practice/)    |        |
+|        |        |        |        |        |
+|    GSA 2022 Denver, USA    |    9-12 Oct 2022    |    Talk    |    [Toward a global network of interoperable geoanalytical data resources - the OneGeochemistry initiative](https://gsa.confex.com/gsa/2022AM/meetingapp.cgi/Paper/383348)    |        |
+|        |        |        |        |        |
+|    GeoMinKöln 2022 Cologne, DE    |    11-15 Sep 2022    |    Talk    |    [OneGeochemistry: Paving the way to true Interoperability in Geochemistry Data](https://www.conftool.pro/geominkoeln2022/index.php?page=browseSessions&amp;form_session=177#paperID569)    |        |
+|        |        |        |        |        |
+|    Goldschmidt 2022, Honolulu, USA    |    10-15 Jul 2022    |    Workshop    |    [Standards for the Publication of Geochemical Data - Fostering the Conversation](https://2022.goldschmidt.info/goldschmidt/2022/meetingapp.cgi/Session/3311)    |        |
+|        |        |    Workshop    |    [Earth Science meets Data Science: what are our needs for geochemical data, services and analytical capabilities in the 21st century?](https://2022.goldschmidt.info/goldschmidt/2022/meetingapp.cgi/Session/3301)    |    [slides](https://doi.org/10.5281/zenodo.7212406)    |
+|        |        |    Session    |    [Modern Geochemical Data Systems, Modelling Platforms and Data Standards: creating new opportunities to address scientific problems](https://2022.goldschmidt.info/goldschmidt/2022/meetingapp.cgi/Session/3296)    |        |
+|        |        |        |        |        |
+|    SciDataCon-IDW 2022, Seoul, KR    |    20-23 Jun 2022    |    Session    |    [Mapping the Global Landscape of Geochemistry Initiatives and Databases](https://www.scidatacon.org/IDW-2022/sessions/437/)     |        |
+|        |        |    Session    |    [WorldFAIR - Global cooperation on FAIR data policy and practice](https://www.scidatacon.org/IDW-2022/sessions/439/)     |        |
+|        |        |        |        |        |
+|    EGU 2022    |    23-27 May 2022    |    Session    |    [Making Geoanalytical Data FAIR:Managing Data from Field to Laboratory to Archive to Publication](https://meetingorganizer.copernicus.org/EGU22/session/42044)    |        |
+|        |        |    Great Debate    |    [Where is my data, where did it come from and how was it obtained? Improving Access to Geoanalytical Research Data](https://meetingorganizer.copernicus.org/EGU22/session/42788)    |    [recording](https://www.youtube.com/watch?v=nqjpOePQU0w)    |
+|        |        |        |        |        |
+|    AGU 2021    |    13-17 Dec 2021    |    Talk    |    [The Future of X-informatics Lies in Collaborative Convergence: an Exemplar from the Global Global OneGeochemistry Initiative](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/932728)    |        |
+|        |        |        |        |        |
+|    Virtual SciDataCon 2021    |    21-Oct-21    |    Session    |    [The OneGeochemistry Initiative: Mobilising a Global Network of FAIR Geochemical Data to Support Research into the Grand Challenge of an Environmentally Sustainable Future](https://www.scidatacon.org/virtual-2021/sessions/360/)    |    [slides](https://doi.org/10.5281/zenodo.5765463)    |
+|        |        |        |        |        |
+|    eResearch Australasia 2021    |    11-15 Oct 2021    |    Talk    |    OneGeochemistry: a Proposed International Framework to Enable Online Interchange of Globally Distributed Geochemical Data      |    [slides](https://doi.org/10.5281/zenodo.5761987)    |
+|        |        |        |        |        |
+|    GeoKarlsruhe 2021, Karlsruhe, DE    |    19-24 Sep 2021    |    Talk    |    [OneGeochemistry: Enabling a coordinated online global network of multiple distributed geochemical repositories and databases](https://www.geokarlsruhe2021.de/)    |    [slides](https://doi.org/10.5281/zenodo.5767877)    |
+|        |        |        |        |        |
+|    Goldschmidt 2021    |    4-6 Jul 2021    |    Talk    |    [Open Access Beyond Publications: Data, Software, Samples](https://doi.org/10.7185/gold2021.7662)    |        |
+|        |        |    Talk    |    [OneGeochemistry: Creating a Global Network of Geochemical Data to Support the 17 United Nations Sustainable Development Goals](https://doi.org/10.7185/gold2021.6562)    |        |
+|        |        |        |        |        |
+|    EGU 2021    |    19-30 Apr 2021    |    Splinter meeting    |    [OneGeochemistry - An International Initiative to Establish Data Standards for Geochemistry](https://meetingorganizer.copernicus.org/EGU21/session/41486)    |        |
+|        |        |    Session    |    [Managing Geochemical Data from Field to Lab to Publication to Archive](https://meetingorganizer.copernicus.org/EGU21/session/40315)    |        |
+|        |        |    Abstract    |    [Managing Open and Fair Data in Geochemistry: Where are we a decade after the Editors Roundtable?](https://doi.org/10.5194/egusphere-egu21-16420)    |        |
+|        |        |        |        |        |
+|    Goldschmidt 2020    |    21-26 Jun 2020    |    Talk    |    [OneGeochemistry: Creating a Global FAIR-Way to Access and Share Geochemistry Data](https://doi.org/10.46427/gold2020.2910)    |        |
+|        |        |        |        |        |
+|    CODATA 2019    |    01-Sep-19    |    Talk    |    [OneGeochemistry: Towards an Interoperable Global Network of FAIR Geochemical Data](https://conference.codata.org/CODATA_2019/sessions/88/paper/536/)    |    [slides](https://doi.org/10.5281/zenodo.5767949)    |
+|        |        |        |        |        |
+|    AGU Fall Meeting 2019    |    01-Dec-19    |    Town Hall    |    [OneGeochemistry: Toward a Global Network of Geochemical Data](https://www.agu.org/Fall-Meeting-2019/Events/Data-TH23L)    |        |
+:::
+
+
+
+
 ## Town Hall: Resilience of Geochemical Databases
 9 July 2025: Goldschmidt Conference Prague.
 

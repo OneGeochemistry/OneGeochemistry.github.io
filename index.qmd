@@ -47,7 +47,7 @@ Find a [Best Practice](best_practices.qmd): Browse existing best practice recomm
 :::
 
 ::: {.callout-note appearance="simple" icon=false}
-[Conference Calendar](https://onegeochemistry.github.io/participate.html#sec-calendar): Check out the conference calendar for upcoming conferences and past OneGeochemistry events and resources.
+[Conference Calendar](https://onegeochemistry.github.io/events.html#sec-calendar): Check out the conference calendar for upcoming conferences and past OneGeochemistry events and resources.
 :::
 ::::
 :::::
