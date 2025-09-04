@@ -23,7 +23,7 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
-|    Goldschmidt 2025, Prague, CZ    |    6-11 Jul 2025    |    Town Hall    |    Wed 9 July 1-2pm Club A (1st Floor, PCC): Support the Databases     |       |
+|    Goldschmidt 2025, Prague, CZ    |    6-11 Jul 2025    |    Town Hall    |    [Database Resilience Town Hall](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/8328)     |       |
 |        |        |    Booth    |    [Booth 18: Open Data for Geo/Cosmochemistry: EarthChem & the Astromaterials Data System](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/7852)    |       |
 |        |        |    Session    |    [14b-O3 - Software and Databases for Modernizing and Empowering Geochemical Research - GIS and Other Tools](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/8243)    |       |
 |        |        |        |        |        |
@@ -109,9 +109,9 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 |        |        |        |        |        |
 |    Goldschmidt 2020    |    21-26 Jun 2020    |    Talk    |    [OneGeochemistry: Creating a Global FAIR-Way to Access and Share Geochemistry Data](https://doi.org/10.46427/gold2020.2910)    |        |
 |        |        |        |        |        |
-|    CODATA 2019    |    01-Sep-19    |    Talk    |    [OneGeochemistry: Towards an Interoperable Global Network of FAIR Geochemical Data](https://conference.codata.org/CODATA_2019/sessions/88/paper/536/)    |    [slides](https://doi.org/10.5281/zenodo.5767949)    |
+|    CODATA 2019    |    1 Sep 2019    |    Talk    |    [OneGeochemistry: Towards an Interoperable Global Network of FAIR Geochemical Data](https://conference.codata.org/CODATA_2019/sessions/88/paper/536/)    |    [slides](https://doi.org/10.5281/zenodo.5767949)    |
 |        |        |        |        |        |
-|    AGU Fall Meeting 2019    |    01-Dec-19    |    Town Hall    |    [OneGeochemistry: Toward a Global Network of Geochemical Data](https://www.agu.org/Fall-Meeting-2019/Events/Data-TH23L)    |        |
+|    AGU Fall Meeting 2019    |    1 Dec 2019    |    Town Hall    |    [OneGeochemistry: Toward a Global Network of Geochemical Data](https://www.agu.org/Fall-Meeting-2019/Events/Data-TH23L)    |        |
 :::
 
 
