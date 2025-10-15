@@ -99,6 +99,13 @@ The Joint Committee for Guides in Metrology (JCGM) has introduced a revised thir
 Potts, P. J. (2012). **Glossary of Analytical and Metrological Terms from the International Vocabulary of Metrology (2008).** Geostandards and Geoanalytical Research 36(3) 231–246. <https://doi.org/10.1111/j.1751-908x.2011.00122.x>
 :::
 
+:::{.callout-note appearance="simple" collapse="true"}
+## Skrzypek+ 2022. Minimum requirements for publishing hydrogen, carbon, nitrogen, oxygen and sulfur stable-isotope delta results (IUPAC Technical Report).
+
+Stable hydrogen, carbon, nitrogen, oxygen and sulfur (HCNOS) isotope compositions expressed as isotope-delta values are typically reported relative to international standards such as Vienna Standard Mean Ocean Water (VSMOW), Vienna Peedee belemnite (VPDB) or Vienna Cañon Diablo Troilite (VCDT). These international standards are chosen by convention and the calibration methods used to realise them in practice undergo occasional changes. To ensure longevity and reusability of published data, a comprehensive description of (1) analytical procedure, (2) traceability, (3) data processing, and (4) uncertainty evaluation is required. Following earlier International Union of Pure and Applied Chemistry documents on terminology and notations, this paper proposes minimum requirements for publishing HCNOS stable-isotope delta results. Each of the requirements are presented with illustrative examples.
+
+Skrzypek, Grzegorz, Allison, Colin E., Böhlke, John K., Bontempo, Luana, Brewer, Paul, Camin, Federica, Carter, James F., Chartrand, Michelle M. G., Coplen, Tyler B., Gröning, Manfred, Hélie, Jean-François, Esquivel-Hernández, Germain, Kraft, Rebecca A., Magdas, Dana A., Mann, Jacqueline L., Meija, Juris, Meijer, Harro A. J., Moossen, Heiko, Ogrinc, Nives, Perini, Matteo, Possolo, Antonio, Rogers, Karyne M., Schimmelmann, Arndt, Shemesh, Aldo, Soto, David X., Thomas, Freddy, Wielgosz, Robert, Winchester, Michael R., Yan, Zhao and Dunn, Philip J. H. (2022). **Minimum requirements for publishing hydrogen, carbon, nitrogen, oxygen and sulfur stable-isotope delta results (IUPAC Technical Report).** Pure and Applied Chemistry 94(11-12), 1249-1255. <https://doi.org/10.1515/pac-2021-1108>
+:::
 
 :::{.callout-note appearance="simple" collapse="true"}
 ## Staudigel+ 2003. Electronic data publication in geochemistry.
