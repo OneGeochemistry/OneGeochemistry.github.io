@@ -10,8 +10,6 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    Geo4Göttingen, Göttingen, DE    |    14-18 Sep 2025    |    Session    |    [Geochemical Databases and Data Analysis Tools](https://www.conftool.pro/geo4goettingen2025/index.php?page=browseSessions&form_session=291)    |
-|    NFDI4Earth Joint Plenary, Bremen, DE    |    22-25 Sep 2025    |    Sessions & Workshops    |    [program](https://www.nfdi4earth.de/joint-plenary-2025)    |
 |    SciDataCon 2025, Brisbane, AUS    |    13-16 Oct 2025    |    Session    |    [Coalition building to support sustainable digital data standards](https://scidatacon.org/event/9/contributions/51/)    |
 |    GSA Connects 2025, San Antonio, USA     |    19-22 Oct 2025    |    Lecture    |    [Regarding Resilience of Community Databases](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95241/application/10794)    |
 |    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    Session    |    [How and where are you preserving your raw machine observable data for future science?](https://conference.eresearch.edu.au/how-and-where-are-you-preserving-your-raw-machine-observable-data-for-future-science/)    |
@@ -24,6 +22,10 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    NFDI4Earth Joint Plenary, Bremen, DE    |    22-25 Sep 2025    |    Sessions & Workshops    |    [program](https://www.nfdi4earth.de/joint-plenary-2025)    |  |
+|        |        |        |        |        |
+|    Geo4Göttingen, Göttingen, DE    |    14-18 Sep 2025    |    Session    |    [Geochemical Databases and Data Analysis Tools](https://www.conftool.pro/geo4goettingen2025/index.php?page=browseSessions&form_session=291)    |  |
+|        |        |        |        |        |
 |    Goldschmidt 2025, Prague, CZ    |    6-11 Jul 2025    |    Town Hall    |    [Database Resilience Town Hall](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/8328)     |       |
 |        |        |    Booth    |    [Booth 18: Open Data for Geo/Cosmochemistry: EarthChem & the Astromaterials Data System](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/7852)    |       |
 |        |        |    Session    |    [14b-O3 - Software and Databases for Modernizing and Empowering Geochemical Research - GIS and Other Tools](https://conf.goldschmidt.info/goldschmidt/2025/meetingapp.cgi/Session/8243)    |       |
