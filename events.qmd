@@ -10,11 +10,14 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    SciDataCon 2025, Brisbane, AUS    |    13-16 Oct 2025    |    Session    |    [Coalition building to support sustainable digital data standards](https://scidatacon.org/event/9/contributions/51/)    |
-|    GSA Connects 2025, San Antonio, USA     |    19-22 Oct 2025    |    Lecture    |    [Regarding Resilience of Community Databases](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95241/application/10794)    |
-|    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    Session    |    [How and where are you preserving your raw machine observable data for future science?](https://conference.eresearch.edu.au/how-and-where-are-you-preserving-your-raw-machine-observable-data-for-future-science/)    |
-|         |       |    Talk    |    [The AuScope Open Science Ar-Ar Data Pipeline: From Instrument to Earthbank](https://conference.eresearch.edu.au/the-auscope-open-science-ar-ar-data-pipeline-from-instrument-to-earthbank/)    |
-|    AGU 2025, New Orleans, USA     |    15-19 Dec 2025    |    tbc    |    [AGU25](https://www.agu.org/annual-meeting)    |
+|    AGU 2025, New Orleans, USA     |    15-19 Dec 2025    |    Several presentations    |    [AGU25](https://www.agu.org/annual-meeting)    |
+|        |        |        |        |
+|    EGU General Assembly 2026, Vienna, AT     |    3-8 May 2026    |    tbc    |    tbc    |
+|        |        |        |        |
+|    Goldschmidt 2026, Montréal, CA     |    12-17 Jul 2026    |    Townhall    |    tbc    |
+|         |       |    Workshop    |    [Toward Science-ready, AI-ready Geochemical Data]()    |
+|         |       |    Workshop    |    tbc    |
+|         |       |    Session    |    [Building Resilient and Sustainable Global Geochemical Infrastructures to Advance Earth Science Discovery](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/8666)    |
 :::
 
 
@@ -22,6 +25,13 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    Session    |    [How and where are you preserving your raw machine observable data for future science?](https://conference.eresearch.edu.au/how-and-where-are-you-preserving-your-raw-machine-observable-data-for-future-science/)    |       |
+|         |       |    Talk    |    [The AuScope Open Science Ar-Ar Data Pipeline: From Instrument to Earthbank](https://conference.eresearch.edu.au/the-auscope-open-science-ar-ar-data-pipeline-from-instrument-to-earthbank/)    |       |
+|        |        |        |        |        |
+|    GSA Connects 2025, San Antonio, USA     |    19-22 Oct 2025    |    Lecture    |    [Regarding Resilience of Community Databases](https://gsameetings.secure-platform.com/connects25/solicitations/103002/sessiongallery/schedule/items/95241/application/10794)    |       |
+|        |        |        |        |        |
+|    SciDataCon 2025, Brisbane, AUS    |    13-16 Oct 2025    |    Session    |    [Coalition building to support sustainable digital data standards](https://scidatacon.org/event/9/contributions/51/)    |       |
+|        |        |        |        |        |
 |    NFDI4Earth Joint Plenary, Bremen, DE    |    22-25 Sep 2025    |    Sessions & Workshops    |    [program](https://www.nfdi4earth.de/joint-plenary-2025)    |  |
 |        |        |        |        |        |
 |    Geo4Göttingen, Göttingen, DE    |    14-18 Sep 2025    |    Session    |    [Geochemical Databases and Data Analysis Tools](https://www.conftool.pro/geo4goettingen2025/index.php?page=browseSessions&form_session=291)    |  |
