@@ -10,13 +10,10 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    AGU 2025, New Orleans, USA     |    15-19 Dec 2025    |    Several presentations    |    [AGU25](https://www.agu.org/annual-meeting)    |
-|        |        |        |        |
-|    EGU General Assembly 2026, Vienna, AT     |    3-8 May 2026    |    tbc    |    tbc    |
-|        |        |        |        |
-|    Goldschmidt 2026, Montréal, CA     |    12-17 Jul 2026    |    Townhall    |    tbc    |
-|         |       |    Workshop    |    [Toward Science-ready, AI-ready Geochemical Data]()    |
-|         |       |    Workshop    |    tbc    |
+|    Goldschmidt 2026, Montréal, CA     |    12-17 Jul 2026    |    Town Hall    |    tbc    |
+|         |       |    Editors' Roundtable    |    [Editors’ Roundtable on Publication of Geochemical Data](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/9166)    |
+|         |       |    Workshop    |    [Toward Science-ready, AI-ready Geochemical Data](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/8956)    |
+|         |       |    Workshop    |    [Introduction to using Compositional Data Analysis (CoDa) with Databases](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/8634)    |
 |         |       |    Session    |    [Building Resilient and Sustainable Global Geochemical Infrastructures to Advance Earth Science Discovery](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/8666)    |
 :::
 
@@ -25,6 +22,10 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Past Events & Resources
 |    Event    |    Date    |    Type    |    Title    |    Resources    |
 |    ------    |     ------     |     --     |     -----------     |     --     |
+|    EGU General Assembly 2026, Vienna, AT     |    3-8 May 2026    |    Several presentations    |    [EGU26](https://www.egu26.eu/)    |       |
+|        |        |        |        |        |
+|    AGU 2025, New Orleans, USA     |    15-19 Dec 2025    |    Several presentations    |    [AGU25](https://www.agu.org/annual-meeting)    |       |
+|        |        |        |        |        |
 |    eResearch Australasia 2025, Brisbane, AUS     |    20-24 Oct 2025    |    Session    |    [How and where are you preserving your raw machine observable data for future science?](https://conference.eresearch.edu.au/how-and-where-are-you-preserving-your-raw-machine-observable-data-for-future-science/)    |       |
 |         |       |    Talk    |    [The AuScope Open Science Ar-Ar Data Pipeline: From Instrument to Earthbank](https://conference.eresearch.edu.au/the-auscope-open-science-ar-ar-data-pipeline-from-instrument-to-earthbank/)    |       |
 |        |        |        |        |        |
