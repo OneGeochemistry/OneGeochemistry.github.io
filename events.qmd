@@ -10,7 +10,7 @@ Additional resources can also be found in our [Zenodo community](https://zenodo.
 ## Upcoming Events
 |    Event    |    Date    |    Type    |    Title    |
 |    -----    |     ----    |    ----    |    -----------    |
-|    Goldschmidt 2026, Montréal, CA     |    12-17 Jul 2026    |    Town Hall    |    tbc    |
+|    Goldschmidt 2026, Montréal, CA     |    12-17 Jul 2026    |    Town Hall    |    [Where to next for geochemical data and analytical protocols](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/9645)    |
 |         |       |    Editors' Roundtable    |    [Editors’ Roundtable on Publication of Geochemical Data](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/9166)    |
 |         |       |    Workshop    |    [Toward Science-ready, AI-ready Geochemical Data](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/8956)    |
 |         |       |    Workshop    |    [Introduction to using Compositional Data Analysis (CoDa) with Databases](https://conf.goldschmidt.info/goldschmidt/2026/meetingapp.cgi/Session/8634)    |
